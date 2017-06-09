@@ -1,7 +1,7 @@
 {
   "stories": [
     {
-      "story": "White House social media director Dan Scavino violated Hatch Act with tweet targeting GOP congressman ",
+      "story": "White House social media director Dan Scavino violated Hatch Act with tweet targeting GOP congressman",
       "year": 2012,
       "rating": 7.8,
       "duration": "141 min",
@@ -18,7 +18,7 @@
           "name": "Mark Ruffalo"
         }
       ],
-      "image": "http://icenicampaigns.co.uk/wp-content/uploads/2015/03/barack_2347532b.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/39/Lone_House.jpg",
       "detail": "White House social media director Dan Scavino Jr.violated a federal law that bars public"
     {
       "story": "Interstellar",
