@@ -21,18 +21,7 @@
       "image": "http://icenicampaigns.co.uk/wp-content/uploads/2015/03/barack_2347532b.jpg",
       "detail": "White House social media director Dan Scavino Jr. violated a federal law that bars public officials from using their positions for political activity when he urged President Trump's supporters to defeat a GOP congressman, the Office of Special Counsel has concluded.
 As a result, Scavino was issued a warning letter and advised that additional violations of the law could result in further action, according to a June 5 letter that the office sent to the watchdog group Citizens for Responsibility and Ethics in Washington (CREW), which filed a complaint about Scavino's tweet.
-Scavino's April 1 message called on the "#TrumpTrain" to take out Rep. Justin Amash, of Michigan, in an upcoming primary, referring to him as “a big liability." Amash is a member of the House Freedom Caucus, a group that President Trump blamed at the time for derailing legislation that would have repealed parts of the 2010 Affordable Care Act.
-Subscribe to the Post Most newsletter: Today’s most popular stories on The Washington Post.
-Even though Scavino was tweeting from his personal account, his page then listed his official White House position and featured a photo of him inside the Oval Office.
-The Office of Special Counsel concluded that his tweet violated the Hatch Act, which restricts government employees from attempting to influence an election through their official authority.
-"Mr. Scavino has been advised that if in the future he engages in prohibited political activity while employed in a position covered by the Hatch Act, we will consider such activity to be a willful and knowing violation of the law, which could result in further action," Ana Galindo-Marrone, chief of OSC's Hatch Act Unit, wrote in a letter to CREW.
-Federal employees who willfully violate the Hatch Act can be removed from their positions or barred from federal employment for up to five years.
-CREW Executive Director Noah Bookbinder said in a statement that the rules make clear that "government officials aren’t allowed to use their position for campaign activity."
-“OSC has made clear with this ruling that they are going to enforce these important rules and work to keep the government free from inappropriate politics," he said.
-Neither White House officials or Scavino immediately responded to requests for comment.
-In April, a White House official had said that Scavino's tweet did not violate the Hatch Act “as it clearly comes from his personal account and not his official White House account.”
-But after complaints about his tweet attacking Amash, Scavino quickly altered details on his personal Twitter page, removing the reference to his current post at the White House and photos of Trump supporters at a rally holding signs. Later, he also removed a reference noting that he was director of social media for Trump's campaign.
-Scavino's personal account now features a photo of him golfing, with the simple bio: "Personal Twitter Handle! I will be back."
+Scavino's April 1 message called on the "
     {
       "story": "Interstellar",
       "year": 2014,
