@@ -19,9 +19,7 @@
         }
       ],
       "image": "http://icenicampaigns.co.uk/wp-content/uploads/2015/03/barack_2347532b.jpg",
-      "detail": "White House social media director Dan Scavino Jr. violated a federal law that bars public officials from using their positions for political activity when he urged President Trump's supporters to defeat a GOP congressman, the Office of Special Counsel has concluded.
-As a result, Scavino was issued a warning letter and advised that additional violations of the law could result in further action, according to a June 5 letter that the office sent to the watchdog group Citizens for Responsibility and Ethics in Washington (CREW), which filed a complaint about Scavino's tweet.
-Scavino's April 1 message called on the "
+      "detail": "White House social media director Dan Scavino Jr.violated a federal law that bars public"
     {
       "story": "Interstellar",
       "year": 2014,
