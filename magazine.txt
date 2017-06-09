@@ -42,7 +42,7 @@
           "name": "Wes Bentley"
         }
       ],
-      "image": "https://jsonparsingdemo-cec5b.firebaseapp.com/jsonData/images/interstellar.jpg",
+      "image": "https://static.pexels.com/photos/36717/amazing-animal-beautiful-beautifull.jpg",
       "detail": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival."
     },
 	{
