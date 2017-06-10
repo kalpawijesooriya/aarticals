@@ -1,7 +1,7 @@
 {
   "movies": [
     {
-      "story": "Avengers",
+      "story": "Fox News Was Attacking Barack Obama for Using Dijon Mustard at This Point in His Presidency",
       "year": 2012,
       "rating": 7.8,
       "duration": "141 min",
@@ -18,8 +18,11 @@
           "name": "Mark Ruffalo"
         }
       ],
-      "image": "https://jsonparsingdemo-cec5b.firebaseapp.com/jsonData/images/avengers.jpg",
-      "details": "kakak kakkakkak kkkkkkkkkkkkka kaaaaa kaaaaaaaaa kaaaaaaaa kaaaaaaaa kaaaaaaa kaaaaaaa kaaaaaaaa akkkkkkkkk kaaaa kaaaaaaaa kaaaaaaaa kaaaaaaaa kaaaaaaa akkkkkkkk akkkkkkkkkk akkkkkkkkkkk kaaaaaaaa akkkkkkkkk akkkkkkkkkk akkkkkkkk akkkkkkkkkk akkkkkkkkkk akkkkkkkk akkkkkkkkk kaaaaaaa akkkkkkkk akkkkkkkkk akkkkkkk akkkkkkkk kaaaaaaaaaaa akkkkkk "
+      "image": "https://ssl.cdn.turner.com/cnnnext/dam/assets/170424132840-01-obama-chicago-0424-super-169.jpg",
+      "details": "Donald Trump isn’t the only president to have faced harsh criticisms just months into office. At this point in former President Barack Obama's tenure as the leader of the free world, right-wing news outlets were condemning his use of Dijon mustard as a condiment. Yes, really."+
++"In news from eight years ago that appears to be from some alternate reality, Obama left the White House and went out for a local bite to eat with vice president and BFF Joe Biden in May. The two politicians ordered hamburgers, MSNBC journalist Andrea Mitchell reported at the time, with the sitting president requesting mustard on his red meat. It also could spoil successful efforts by Cosby's lawyers to prevent jurors from hearing about the more than 60 other women who say he assaulted them since the 1960s."+
++"Cosby is on trial on charges he drugged and sexually violated a former Temple University women's basketball team employee at his suburban Philadelphia home in 2004.Prosecutors rested their case Friday after five days of testimony. The defense starts its case Monday."
+
     },
     {
       "story": "Interstellar",
