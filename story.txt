@@ -18,7 +18,7 @@
           "name": "Mark Ruffalo"
         }
       ],
-      "image": "https://ssl.cdn.turner.com/cnnnext/dam/assets/170424132840-01-obama-chicago-0424-super-169.jpg",
+      "image": "https://jsonparsingdemo-cec5b.firebaseapp.com/jsonData/images/saving_private_ryan.jpg",
       "details": "kllnkjn lkjln klkl ljlkmk kjkljk jkjlk ljklklk jkljlk lknkl lkjkj lkj gff gfcf gffc yfchc"
 
     },
@@ -196,7 +196,7 @@
           "name": "Jeff Garlin"
         }
       ],
-      "image": "https://jsonparsingdemo-cec5b.firebaseapp.com/jsonData/images/walle.jpg",
+      "image": "https://jsonparsingdemo-cec5b.firebaseapp.com/jsonData/images/saving_private_ryan.jpg",
       "details": "In the distant future, a small waste collecting robot inadvertently embarks on a space journey that will ultimately decide the fate of mankind."
     },
     {
