@@ -19,7 +19,7 @@
         }
       ],
       "image": "https://jsonparsingdemo-cec5b.firebaseapp.com/jsonData/images/avengers.jpg",
-      "details": "https://raw.githubusercontent.com/kalpawijesooriya/aarticals/master/detail.txt."
+      "details": "kakak kakkakkak kkkkkkkkkkkkka kaaaaa kaaaaaaaaa kaaaaaaaa kaaaaaaaa kaaaaaaa kaaaaaaa kaaaaaaaa akkkkkkkkk kaaaa kaaaaaaaa kaaaaaaaa kaaaaaaaa kaaaaaaa akkkkkkkk akkkkkkkkkk akkkkkkkkkkk kaaaaaaaa akkkkkkkkk akkkkkkkkkk akkkkkkkk akkkkkkkkkk akkkkkkkkkk akkkkkkkk akkkkkkkkk kaaaaaaa akkkkkkkk akkkkkkkkk akkkkkkk akkkkkkkk kaaaaaaaaaaa akkkkkk "
     },
     {
       "story": "Interstellar",
