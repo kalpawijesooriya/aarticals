@@ -51,7 +51,7 @@
       "rating": 4.0,
       "duration": "100 min",
       "director": "Josh Trank",
-      "tagline": "Change is coming.",
+      "tagline": "Change is not coming.",
       "cast": [
         {
           "name": "Miles Teller"
