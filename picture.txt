@@ -1,5 +1,4 @@
-{
-  "pics": [
+ [
     {
      "image": "https://jsonparsingdemo-cec5b.firebaseapp.com/jsonData/images/avengers.jpg",
     },
@@ -44,4 +43,3 @@
     
     }   
   ]
-}
