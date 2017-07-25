@@ -42,7 +42,7 @@
           "name": "Wes Bentley"
         }
       ],
-      "image": "https://jsonparsingdemo-cec5b.firebaseapp.com/jsonData/images/interstellar.jpg",
+      "image": "https://raw.githubusercontent.com/kalpawijesooriya/aarticals/4c4f3a5fbb1e4067bc3ab88bf29c619fee8297a6/cute_girl_smelling_a_flower-wallpaper-2048x1152.jpg",
       "story": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival."
     },
 	{
