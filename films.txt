@@ -21,7 +21,7 @@
       "image": "https://jsonparsingdemo-cec5b.firebaseapp.com/jsonData/images/avengers.jpg",
       "story": "INTERVIEW WITH MRS.CHANDANI BANDARA
 
-1.	How do you define Chandani Bandara as a person and as an entrepreneur?
+1.<b>This text is bold and italic</b>	How do you define Chandani Bandara as a person and as an entrepreneur?
 Actually I’m Chandani Bandara. I’m a very good entrepreneur and I’m not
 Money minded. I always think about others’ happiness and their economy as well as my economy. At my workplace my carrier is more towards a mother than an entrepreneur.
 
