@@ -18,7 +18,7 @@
           "name": "Mark Ruffalo"
         }
       ],
-      "image": "https://jsonparsingdemo-cec5b.firebaseapp.com/jsonData/images/avengers.jpg",
+      "image": "https://raw.githubusercontent.com/kalpawijesooriya/aarticals/master/ExpositionIssue12/chandani%20bandara.png",
       "story": "INTERVIEW WITH MRS.CHANDANI BANDARA
 
 1.How do you define Chandani Bandara as a person and as an entrepreneur?
