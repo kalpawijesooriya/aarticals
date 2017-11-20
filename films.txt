@@ -1,8 +1,7 @@
 {
   "movies": [
     {
-      "movie": "-MRS.CHANDANI BANDARA-
-",
+      "movie": "-MRS.CHANDANI BANDARA-",
       "year": 2012,
       "rating": 7.8,
       "duration": "141 min",
