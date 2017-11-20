@@ -113,7 +113,7 @@ You have to have many experiences. Bad people means good experiences. You have t
       "rating": 8.7,
       "duration": "169 min",
       "director": "Christopher Nolan",
-      "tagline": "Mankind was born on Earth. It was never meant to die here.",
+      "tagline": "If you look at Attune, we are a global SAP solution provider. We are exclusively focused on fashion and life style base. We don’t work in any other industry. It’s purely this base that we operate. Our scope of services goes across retail companies, brand owners and manufacturing companies like MAS. We provide services across the entire value chain in the industry.....",
       "cast": [
         {
           "name": "Matthew McConaughey"
@@ -177,7 +177,7 @@ We have a broad spectrum. What we really look for is the right attitude, aptitud
       "rating": 4.0,
       "duration": "100 min",
       "director": "Josh Trank",
-      "tagline": "Change is not coming.",
+      "tagline": "My target is to build awareness and to build a proper digital marketing organization in Sri Lanka, to build and serve the country and help the business community appear on the internet and digital platforms and grow their businesses through those.....",
       "cast": [
         {
           "name": "Miles Teller"
@@ -196,6 +196,7 @@ We have a broad spectrum. What we really look for is the right attitude, aptitud
 Pulasthi Wanniarachchi, according to some, is an SEO Engineer, and the others, a Digital Marketing Consultant. However, according to my perspective, a human being who is involved in digital work. 
 
 2)	Apart from the qualifications you have obtained, have you felt like you needed to develop your skills further at any point of your career? If so, what were the challenges you faced while developing them?
+
 Yes. A SEO Engineer, requires to learn   theories about and practice things on webs and the like. But, to keep up with current trends, you have to know   more about SEO sections, how to do digital marketing, so on and so forth; it’s a continuous process of   refreshing knowledge, as I see it. The theories that are applicable today, expire tomorrow. So, you have to “google things” to learn more, “do experiments” as demanded by your career, to keep up. If you can’t move with new knowledge and gather those; you can’t move with digital marketing and web marketing technologies.
 
 3) What were the inspirations that guided you to where you are today?
@@ -204,6 +205,7 @@ For me, “Inspiration” is self-motivation, self-learning and the related. Whe
 
 4) Did you target at being an SEO engineer from the very outset of your career? 
 If not, what led you to take the path you did?
+
 SEO is a new trend for the Sri Lankan culture, though it had been introduced to and prevalent in the world since twenty or twenty-five years. In fact, even the internet has used it. But, after my A/Ls and my degree, I think it took around six years for me to learn about these and practice online. To lay it precisely, I didn’t have a dream of becoming an SEO engineer in my childhood; even though I loved to work with computers and all, I never dreamt of becoming an SEO engineer or a Software engineer. 
 5) SEO has been the ultimate buzzword in the field of IT; evolving swiftly, yet the application of SEO remains challenging but also, unique. In your point of view, why is the task of an SEO engineer important in the current context?
 In my opinion, it could be simply viewed as, “without an SEO, there is no point of having a website”; because, first of all, you need to know what the website is to be, how to create a website for your product or service. So, without knowing these things, there is no point of having a website. First of all, you have to know the needful points; what you must publish in your website, before the creation begins. For that, in my perspective, you need to have five pairs of eyes; those of a Designer, a Developer, a Content Writer and an SEO Engineer as well as those of a Network Engineer. The purpose of a network engineer, being the provision of security as there are many hackers in the present digital world; as much as those who hack around sixty thousand websites per day. So, you have to have security as well. After building your website, you need to have an SEO Engineer or a Digital Marketer; the latter because SEO stands only for “Search Engine Optimization” whereas “digital marketing” entitles Search Engine Optimization, Search Engine Marketing and Social Media Marketing. In the  current world where many social media platforms are available, it is important that you have a skilled SEO engineer or a digital marketer, when you wish to market your product or service; this will help you to go online and present your website to the target audience, get more visitors and leads for your product or service.
