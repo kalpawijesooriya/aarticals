@@ -6,7 +6,7 @@
       "rating": 7.8,
       "duration": "141 min",
       "director": "Joss Whedon",
-      "tagline": "A new age begins",
+      "tagline": "From my childhood onwards I had the desire to be an entrepreneur and a leader one day. I’m the youngest of my family; for fun, all of my elder brothers and sisters bullied me. Because of that the desire of being a leader to all of them was implanted on my mind. I’m a quite radical character in my family.......",
       "cast": [
         {
           "name": "Robert Downey Jr."
