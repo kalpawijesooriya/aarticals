@@ -172,7 +172,7 @@ We have a broad spectrum. What we really look for is the right attitude, aptitud
 "
     },
 	{
-      "movie": "Pulasthi Wanniarachchi",
+      "movie": "-Pulasthi Wanniarachchi-",
       "year": 2015,
       "rating": 4.0,
       "duration": "100 min",
@@ -189,7 +189,7 @@ We have a broad spectrum. What we really look for is the right attitude, aptitud
           "name": "Michael B. Jordan"
         }
       ],
-      "image": "https://jsonparsingdemo-cec5b.firebaseapp.com/jsonData/images/f_four.jpg",
+      "image": "https://raw.githubusercontent.com/kalpawijesooriya/aarticals/master/ExpositionIssue12/pulasthi.png",
       "story": "
       1)	According to your perspective, who is Mr. Pulasthi Wanniarachchi?
       
