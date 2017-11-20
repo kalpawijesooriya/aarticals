@@ -1,7 +1,8 @@
 {
   "movies": [
     {
-      "movie": "Avegers",
+      "movie": "-MRS.CHANDANI BANDARA-
+",
       "year": 2012,
       "rating": 7.8,
       "duration": "141 min",
@@ -19,8 +20,7 @@
         }
       ],
       "image": "https://raw.githubusercontent.com/kalpawijesooriya/aarticals/master/ExpositionIssue12/chandani%20bandara.png",
-      "story": "INTERVIEW WITH MRS.CHANDANI BANDARA
-
+      "story": "
 1.How do you define Chandani Bandara as a person and as an entrepreneur?
 
 Actually I’m Chandani Bandara. I’m a very good entrepreneur and I’m not
