@@ -172,7 +172,7 @@ We have a broad spectrum. What we really look for is the right attitude, aptitud
 "
     },
 	{
-      "movie": "Fantastic Four",
+      "movie": "Pulasthi Wanniarachchi",
       "year": 2015,
       "rating": 4.0,
       "duration": "100 min",
@@ -190,7 +190,57 @@ We have a broad spectrum. What we really look for is the right attitude, aptitud
         }
       ],
       "image": "https://jsonparsingdemo-cec5b.firebaseapp.com/jsonData/images/f_four.jpg",
-      "story": "Four young outsiders teleport to an alternate and dangerous universe which alters their physical form in shocking ways. The four must learn to harness their new abilities and work together to save Earth from a former friend turned enemy."
+      "story": "
+      1)	According to your perspective, who is Mr. Pulasthi Wanniarachchi?
+      
+Pulasthi Wanniarachchi, according to some, is an SEO Engineer, and the others, a Digital Marketing Consultant. However, according to my perspective, a human being who is involved in digital work. 
+
+2)	Apart from the qualifications you have obtained, have you felt like you needed to develop your skills further at any point of your career? If so, what were the challenges you faced while developing them?
+Yes. A SEO Engineer, requires to learn   theories about and practice things on webs and the like. But, to keep up with current trends, you have to know   more about SEO sections, how to do digital marketing, so on and so forth; it’s a continuous process of   refreshing knowledge, as I see it. The theories that are applicable today, expire tomorrow. So, you have to “google things” to learn more, “do experiments” as demanded by your career, to keep up. If you can’t move with new knowledge and gather those; you can’t move with digital marketing and web marketing technologies.
+
+3) What were the inspirations that guided you to where you are today?
+
+For me, “Inspiration” is self-motivation, self-learning and the related. When I stepped into the industry as an SEO engineer, there were only a few people in Sri Lanka who knew the area and practiced as SEOs. So, I had no option but to self-learn. As I’m always self-motivated; I didn’t need anyone to back me up or guide me. I referred online tutorials etc. and gained awareness about the digital culture and knowledge- online, continuously and by myself, which eventually paid off.
+
+4) Did you target at being an SEO engineer from the very outset of your career? 
+If not, what led you to take the path you did?
+SEO is a new trend for the Sri Lankan culture, though it had been introduced to and prevalent in the world since twenty or twenty-five years. In fact, even the internet has used it. But, after my A/Ls and my degree, I think it took around six years for me to learn about these and practice online. To lay it precisely, I didn’t have a dream of becoming an SEO engineer in my childhood; even though I loved to work with computers and all, I never dreamt of becoming an SEO engineer or a Software engineer. 
+5) SEO has been the ultimate buzzword in the field of IT; evolving swiftly, yet the application of SEO remains challenging but also, unique. In your point of view, why is the task of an SEO engineer important in the current context?
+In my opinion, it could be simply viewed as, “without an SEO, there is no point of having a website”; because, first of all, you need to know what the website is to be, how to create a website for your product or service. So, without knowing these things, there is no point of having a website. First of all, you have to know the needful points; what you must publish in your website, before the creation begins. For that, in my perspective, you need to have five pairs of eyes; those of a Designer, a Developer, a Content Writer and an SEO Engineer as well as those of a Network Engineer. The purpose of a network engineer, being the provision of security as there are many hackers in the present digital world; as much as those who hack around sixty thousand websites per day. So, you have to have security as well. After building your website, you need to have an SEO Engineer or a Digital Marketer; the latter because SEO stands only for “Search Engine Optimization” whereas “digital marketing” entitles Search Engine Optimization, Search Engine Marketing and Social Media Marketing. In the  current world where many social media platforms are available, it is important that you have a skilled SEO engineer or a digital marketer, when you wish to market your product or service; this will help you to go online and present your website to the target audience, get more visitors and leads for your product or service.
+
+6) In your opinion, what are the current trends in SEO? What does the future hold for it? Other than the existing fields, what avenues, do you think, are available for SEO engineering to expand into?
+
+Through the year 2017, SEO saw trends like, the need to have quality content and the need for content to be unique. This is particularly because uniqueness and quality play a crucial role in determining google ranks and because google doesn’t allow anyone to duplicate anyone else’s work; using blogs that review and capture content that are copied from another site and notifies you, through google webmaster. So, those  come first, then comes the mobile optimization part; nowadays many people use mobile phones, smart phones, tabs and many such devices, it is needed to optimize websites to suit the mobile world, or make them “responsive websites”. Responsive” means, you can simply view the website in laptops, tabs and other mobile devices. Then, for visual optimization, they have introduced Infographics and Image Optimization which are new concepts to Sri Lanka, in contrast to other developed countries. So, you must practice these when you develop websites. For example, making YouTube videos or small types of clips or other product or service based clips, appear on YouTube and also in other video channels could make your product or service market massive and wide.
+You also must have an “eye catchy”, user-friendly website. Without fulfilling primary requirements like those, there would be no point in having an SEO Engineer or in getting the SEO stuff done. If you have a dull looking website without having proper images or a user-friendly environment, people may visit, but leave your website immediately. In the Current context of things, CEOs decide whether or not to buy your product in a matter of seconds by viewing your website. These are the main trends in 2017.
+
+7) Taking a quantum leap, you came up with your own personal brand ‘SEO Pula’, last year. What was your idea when you started this? Tell us about the beginning.
+
+When I left my previous company, I thought of having my own digital marketing consulting firm to serve Sri Lanka and the Sri Lankan business community through the things I had learned and the experience I had gained to help the digital era of Sri Lanka. That’s what I’m still thinking about. I could work in a free environment and do new experiments for the present generation while conducting good awareness programs through Digital Marketing in Sri Lanka. That’s why I decided to build a firm like “SEO Pula”.
+
+8) Where do you see” SEO Pula” in the future?
+
+My target is to build awareness and to build a proper digital marketing organization in Sri Lanka, to build and serve the country and help the business community appear on the internet and digital platforms and grow their businesses through those.
+
+9) SEO is a new concept to Sri Lanka. Are there sources through which an interested individual could learn about it or obtain a related qualification from? What are the possible paths to enter into this field? 
+
+At present, there are institutions that offer courses on digital marketing and similar subjects. When I started, there wasn’t any place to go to, to learn these things. Now private institutes as well as government institutes offer a subject called “E Business”, through which they try to give knowledge about this area to students who are willing to learn. But, if you aspire to become an SEO Engineer, you should have self-motivation and self-learning skills within you, added to the ability to work continuously. Otherwise you can’t achieve great things. You will have to know the product/service well and how to market it online. You may know all the theories, but when you go to the market and apply those theories only, will you be faced with problems. Because the final outcome lies in practically applying the theory to a product or service. Otherwise it can’t acquire a massive, eye catchy market; the best thing to do is to work on it and do so- continuously. Otherwise you can’t achieve goals in this area. It is accurate to say that your inner self should be self-motivated, working continuously and self-learning, if you are to achieve big goals in this area.
+
+10) What are the current opportunities for SEO Engineering in Sri Lanka?
+
+The number of opportunities are increasing because Blue Chip Companies and other companies in travel & hotel trades, financial businesses, news and media are looking for people who know about digital marketing and SEO; because they  have digital culture in-house and need to promote themselves in the current world through websites and social media. So, if you are a person who knows these things you have good opportunities in many such areas and more; even in job websites you could see more vacancies and a higher demand for social media marketers, social media executives as well as SEO Engineers and Digital Marketing Managers. Knowing this is good to brand yourself too.
+
+11) What are the areas SEO Engineering has a chance to expand into, in Sri Lanka?
+
+Many companies are expanding their products with which, “the need to promote” increases. Marketing trends are such that; people wish to save time; they don’t want to go to a boutique or to a shop or a supermarket to buy things, they love to sit in front of a computer and purchase the products they need. So, if you have an SEO Engineer for your product or service, he/she will make the product and show the product to the customer who is looking for the product or service. Even small business will have big opportunities through this digital marketing culture.
+
+12) What are the differences you see when you compare yourself with the present young generation? What is the advice you could give them? 
+
+The present young generation has grown up with social media, they seem to want to know and show their events and everything on social media, individually and in groups. My advice to the youngsters is, do your level best by trying to learn more about which ever the area you are studying and apply the knowledge to benefit yourself as well as the country. You may wish to leave this country and go to a better place, but, before that, do something for your country from your knowledge and give something back to the country. For you, it will be a source of self-satisfaction. That’s what I wish to ask from the young crowd.
+
+13) You have started a new career path with your own organization. What are the challenges you had to face when you started the organization?
+
+Yes, when you start a new organization or a firm, you will face many challenges like acquiring a new market and having trusted clients and all. You may meet good people along with a few who are bad. You will have to know how to manage those people and market yourself. You need to be honest while you are doing the job. You can’t misguide your clients; everything will be visible online. So, what we do is; building good relationships with customers, giving a good service, parallel to support services. It doesn’t matter if you are at home or at a party; it doesn’t matter if you do SEO or Digital Marketing, if you have a device with you, you can do it- from anywhere, anytime. So the best thing is to be loyal to your customer and to show   the best result to him or her.
+"
     },
 	{
       "movie": "The Dark Knight",
