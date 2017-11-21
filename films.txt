@@ -245,12 +245,20 @@ Yes, when you start a new organization or a firm, you will face many challenges 
 "
     },
 	{
-      "movie": "The Dark Knight",
+      "movie": "-Chamira Jayashinghe-",
       "year": 2008,
       "rating": 9.0,
       "duration": "152 min",
       "director": "Christopher Nolan",
-      "tagline": "Why So Serious?",
+      "tagline": "I want to take the Sri Lankan
+brands, Sri Lankan keywords
+to the world. We know that 
+Ceylon tea is much popular in
+the world. Just like that, when it 
+comes to the digital or gaming
+industry, Sri Lanka should be
+one of the main focal points in
+the world",
       "cast": [
         {
           "name": "Christian Bale"
