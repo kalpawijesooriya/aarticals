@@ -342,7 +342,7 @@ Basically, for an undergraduate they need to know whether they want to start the
       "rating": 8.9,
       "duration": "201 min",
       "director": "Peter Jackson",
-      "tagline": "This Christmas the journey ends.",
+      "tagline": "According to what my mother says, your mind has to be tuned so that you see things differently.  Then the people around you; the way they think about something helps in how you develop your mind. When you are around with people who think differently you will also start thinking differently.....",
       "cast": [
         {
           "name": "Viggo Mortensen"
