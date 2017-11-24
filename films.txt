@@ -1,7 +1,7 @@
 {
   "movies": [
     {
-      "movie": "-CHANDANI BANDARA-",
+      "movie": "-Chandani Bandara-",
       "year": 2012,
       "rating": 7.8,
       "duration": "141 min",
@@ -470,7 +470,9 @@ I will not go into further detailing about the other products as they too are in
 4.	What do you think the core strength of IronOne from your point of view?
 
 The core strength of IronOne is that we are a group of people who are quite passionate. Our tagline is think, innovate and lead. So starting from this, we are not doing standard stuff. We are looking at doing special things; impactful things. The whole team actually here is not for a job. I think we in fact tell them if you are going for a job, there are hundreds of companies to go and you can find a job. This is something special, if you want to be a part of this journey and create both Sri Lanka and Asia right on top, join with us.
+
 5.	What is your view towards the employability in the Sri Lankan context?
+
 Sri Lanka is a relatively a smaller country. India is right next to us with a population of one billion. I think that we have strengths. We are very analytical as companies who operate. Everywhere we go, the Sri Lankan is accepted much, and the Sri Lankan has acquired a very good name even within the companies in those countries.  Sri Lanka has kept this name in the international industry and we have a lot to talk about technologies. So our people have to look at specializing. I see the trends like driverless cars:  Standard coders, the bottom layer of software engineering will be automated. So if you are going for a driving job or come into a software, and if you just stay there for about 5 to 10 years, you will lose your job. So we have to specialize. I think we have the capability. In a sense, IronOne is in the products because again it’s innovation and specialty.  I really think we can make Sri Lanka as the country known for good products. Products don’t need thousands of people. They need only about 200 people and you can dominate the market. 
 
 6.	How do you think that being a woman has helped you in growing yourself to the position you are now?
