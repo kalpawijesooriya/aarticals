@@ -683,45 +683,7 @@ The government should also provide the support to these businesses and the entre
       ],
       "image": "https://jsonparsingdemo-cec5b.firebaseapp.com/jsonData/images/lion.jpg",
       "story": "Lion cub and future king Simba searches for his identity. His eagerness to please others and penchant for testing his boundaries sometimes gets him into trouble."
-    },
-    {
-      "movie": "WALL-E",
-      "year": 2008,
-      "rating": 8.4,
-      "duration": "98 min",
-      "director": "Andrew Stanton",
-      "tagline": "He's got a lot of time on his hands.",
-      "cast": [
-        {
-          "name": "Ben Burtt"
-        },
-        {
-          "name": "Elissa Knight"
-        },
-        {
-          "name": "Jeff Garlin"
-        }
-      ],
-      "image": "https://jsonparsingdemo-cec5b.firebaseapp.com/jsonData/images/walle.jpg",
-      "story": "In the distant future, a small waste collecting robot inadvertently embarks on a space journey that will ultimately decide the fate of mankind."
-    },
-    {
-      "movie": "Saving Private Ryan",
-      "year": 1998,
-      "rating": 8.6,
-      "duration": "169 min",
-      "director": "Steven Spielberg",
-      "tagline": "There was only one man left in the family, and the mission was to save him",
-      "cast": [
-        {
-          "name": "Tom Hanks"
-        },
-        {
-          "name": "Matt Damon"
-        }
-      ],
-      "image": "https://jsonparsingdemo-cec5b.firebaseapp.com/jsonData/images/saving_private_ryan.jpg",
-      "story": "Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose brothers have been killed in action."
-    }   
+    }
+      
   ]
 }
