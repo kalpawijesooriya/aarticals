@@ -1,12 +1,12 @@
 {
   "movies": [
     {
-      "story": "Avengers",
+      "story": "-Chandani Bandara-",
       "year": 2012,
       "rating": 7.8,
       "duration": "141 min",
       "director": "Joss Whedon",
-      "tagline": "A new age begins",
+      "tagline": "From my childhood onwards I had the desire to be an entrepreneur and a leader one day. I’m the youngest of my family; for fun, all of my elder brothers and sisters bullied me. Because of that the desire of being a leader to all of them was implanted on my mind. I’m a quite radical character in my family.......",
       "cast": [
         {
           "name": "Robert Downey Jr."
@@ -18,8 +18,93 @@
           "name": "Mark Ruffalo"
         }
       ],
-      "image": "http://benuka.me/assets/img/slide/1.jpg",
-      "detail": "When Dumindu Stark and Bruce Banner try to jump-start a dormant peacekeeping program called Ultron, things go horribly wrong and it's up to Earth's Mightiest Heroes to stop the villainous Ultron from enacting his terrible plans."
+      "image": "https://raw.githubusercontent.com/kalpawijesooriya/aarticals/master/ExpositionIssue12/chandani%20bandara.png",
+      "detail": "
+1.How do you define Chandani Bandara as a person and as an entrepreneur?
+
+Actually I’m Chandani Bandara. I’m a very good entrepreneur and I’m not
+Money minded. I always think about others’ happiness and their economy as well as my economy. At my workplace my carrier is more towards a mother than an entrepreneur.
+
+2.	Did you always aspire to be an entrepreneur? What paved your way into it? What do you think is the turning point of your life?
+Yes. 
+
+From my childhood onwards I had the desire to be an entrepreneur and a leader one day. I’m the youngest of my family; for fun, all of my elder brothers and sisters bullied me. Because of that the desire of being a leader to all of them was implanted on my mind. I’m a quite radical character in my family. My thoughts were quite different from others. That’s why even from my little age, I had the dream to provide jobs to others.
+When I was reading to my bachelor’s degree in Natural Sciences, in Canada, as for my part-time job, I was a cleaner at a salon. There I was inspired to select this profession, which paved the way into succeeding in this carrier.
+So afterwards, I suddenly resigned from my job and started this journey with a small salon. I believe that as the turning point my life.
+
+3.	What is the portfolio under the brand “Chandani Bandara”? Tell us about your venture.
+
+We have many sections under our portfolio. “Chandani Bandara” Salon, Chalmway Academy, Forever Skin Natural Factory and under foreign businesses we have 2 Salons.
+
+4.	What challenges did you face when initiating your brands and how did you overcome them? What were your strengths and barriers?
+
+As a beautician, initially acquiring the recognition by the local customers was a challenge for me. At that time this field was not very much popular. There were only few well known beauticians in the country. So, reaching to that position was a big deal. But gladly the “Sirikatha” Newspaper made me popular overnight. But, I have to emphasize this; actually that time I had a simple knowledge about this field. But with that simplicity, I put my full effort for the completion of every task. So, people embraced me with their hearts.
+Next Challenge was the foreign brands. When initiating FOREVER brand, that challenge was huge. Not only that, the flank attacks from the competitors also influenced a lot. But I believe I have a powerful strength and I do face them successfully.
+
+5.	Criticisms are common in any field of irrespective of the differences. How do you handle the criticisms tossed at you?
+
+I like to be criticized. Actually, criticisms can carry two things. Short termly, it may hurt you but, long termly it strengthens you. I learn from criticisms. I correct my mistakes from them. I have excelled my talents from them. Even the quality products of our brand are results and researches of the criticisms given by my customers. Criticisms carry lots of energy to life. So criticisms are really good for me.
+
+6.	Your brand clearly stands out from other brands in the market. What do you think sets you apart from other similar brands?
+
+Our products are real herbal, real natural genuine products. That’s the main reason to stand out from others.
+
+7.	You say your biggest competition is from foreign brands that are marketed inside the country. Why do you emphasize that?
+
+I believe that I don’t have any competition locally. I do respect all of them. But, the imported brands seem to be the biggest competition because of the mythical belief of good quality in imported products than local products in the mindsets of local customers.
+
+8.	Beauty care is a field which is very crucial in customer satisfaction, so how do you maintain your market share under such conditions?
+
+We only use FOREVER beauty care products for our customers in the salons. But if the customers insist on using different product rather than FOREVER brand, we gladly supply that service for them, so that our customers would be satisfied with what they get. The thing is, usually our customers prefer herbal, quality products and the reason why they are always with us is that our main focus is on herbal, pure natural products. We promote our product and try to increase market share by that. We also have other promoting methods like Buy one - Get one free, targeting that the customers would do a second purchase, hoping an increment in our market share while doing so.
+
+9.	You always point out the importance of the recognition of beauticians as a major group of entrepreneurs in the country with which we agree. What is your take on that?
+
+A beautician himself is an entrepreneur. That is actually undebatable. No matter the beauticians are rich or poor, they can be entrepreneurs in their own ways. They may have a crew behind them with whom they proceed further with the products and workings. What I believe is that a beautician is the best entrepreneur who doesn’t become a burden to the society and they are the people who bring out the beauty within people and earn their livings in a very humble manner.
+
+10.	You have diversified into many areas in this industry. Starting an academy deals with a different need in the society. What was your intention behind this?
+
+When I first tried becoming a beautician I did not have a proper place to learn the tactics and the strategies. I went to several places in order to learn, but it was all useless. When people enter a university, the environment for the undergraduates become totally different. They tend to learn more, with good quality levels with a better environment there. So I wanted to create the same environment for those who are willing to contribute for the beauty care field too. I wanted to let them practice the methods practically so that they would have better experience with that and so, one day the dropouts would be armored with expert quality in the field.
+
+11.	What approach did you take to enter the European Market? How did you differentiate?
+
+When I started the interview with you, I mentioned that our product basis is real herbal and pure natural. That’s the main difference between our products and European beauty care products. Most of the International products do promotions without specifically targeting a proper theme on beauty care field. But our intention is majorly on promoting herbal basis product promotions. We use herbal concept rather more specifically. Now the world is trending towards the herbal products and so it’s actually better for our own products. And I believe we are at the correct position of the competing road ahead in the European Market. But unfortunately in Sri Lanka it’s the opposite.
+
+12.	How do you feel about the competition for your own brand in International Market?
+
+Yes of course, it’s really good and definitely we are on the right track.
+
+13.	You provide employment to so many Sri Lankans. And you take measures to uplift the personal lives in contrast to many other entrepreneurs in the country. How would you encourage other entrepreneurs to have a similar vision?
+
+I’ll provide an answer for this question with an example. When concentrating on herbal based products turmeric seed has a very rich property which most people aren’t aware of. We go to farmers and buy the turmeric seeds where gradually those farmers themselves become entrepreneurs. Now many employees are working under those farmers and so they have improved their businesses. It’s the same with the farmers who cultivate Aloe Vera for our products. So this is how we encourage people to become entrepreneurs.
+
+14.	According to your own point of view, what makes you stand out as a leader among the others?
+
+Let me take you back to my childhood to answer that question for you. As I mentioned earlier, I was the youngest of my very big family, so I was always bullied by my elder sisters and brothers. That was the first time which stroke my mind to be a leader. Many people who call themselves as leaders were followers beforehand. But, what I did was, I created my own path with all the experience I had got. I had to handle 150 labors at first all alone as a leader. As I understood as a leader was that what those people needed most importantly was love and caring, which I simply gave them with my whole heart. They are really trustworthy people and most of them still work under me with the due respect for me. If full time workers are unable to work any further, I give them with another option as part time workers where I get the total workforce in return which makes me satisfied as well. I have a smile on my face when I come early in the morning to work and I greet them with a “Good Morning” which I know in return spirit up the young workers early in the morning.
+
+
+15.	Do you think being a woman made it hard for you to succeed in the business?(How did you overcome them?)
+
+Being a woman in this field actually provides me with lots of pros and cons. There is a lot of respect for a woman in the society, whereas women are easily offensive, sensitive type human characters as well. I am really very proud to be a woman. Even my husband works as the CEO for my company where I am the chairperson and many other men works under me in the company making me so proud myself. Many problems arise while working, that’s true. But, I being a woman face them with a brave heart, without easily getting down emotionally. Also when there is a chance, I grasp it very tightly where it profits me. So I believe generally being a woman is being lucky.
+
+16.	What are the current constraints for female entrepreneurs in Sri Lanka? Why?
+
+ My advice is don’t listen to any of them. If somebody restricts me of something, what I usually do is rather do the opposite of what they say. I really am a total stubborn character.
+
+17.	How important it is to have a support system as a women entrepreneur?
+
+For a woman the family support is more than anything. Luckily I have a well-educated husband and a family which paved this way for my success. My next gratitude goes to my staff. To balance the life and to reach to the desired position, that support system always must be there.
+
+18.	What advices do you have for Sri Lankan young entrepreneurs who are willing to enter into local and international product market?
+
+You should be honest. That’s the most important thing. You should look in to the lives of the successful entrepreneurs, identify the specificities, study them and develop them within you. You should develop your personality too. You should always be with clear aims. You should grab the skills and values which you need to be succeeded in your aim while travelling in this journey.
+
+19.	What are your future plans for the expansion of your portfolio?
+
+Now I’m planning to open a factory in Australia and to provide jobs for Sri Lankans. I’m thinking about the export industry too. On the other hand, I’m thinking about the production of good quality pharmaceuticals in Sri Lanka.
+
+20.	You are a professional beautician, a teacher, an entrepreneur, a chairperson and a mother. If someone wants to think about you as a role model and develop their characters, what are your advices for them?
+
+You have to have many experiences. Bad people means good experiences. You have to educate yourself for your dream. Trust others carefully, keep personal things to yourself only. First decide your ultimate goals, work hard for it and never make excuses. If you fall it’s done. So toughen your mind, never ever loose opportunities and anyhow achieve your targets. Do good. Be with your religion .Look after your family and the staff. Enjoy this short life. Past is past. Forget it. Think about today’s matters today. Think about tomorrow’s matters tomorrow. Balance your life. Your limitless courage and effort will pave the way for your success definitely."
     },
     {
       "story": "Interstellar",
