@@ -453,7 +453,7 @@ You should always be willing to learn, ‘blue sky theory’; that is how some I
           "name": "Giorgio Cantarini"
         }
       ],
-      "image": "https://jsonparsingdemo-cec5b.firebaseapp.com/jsonData/images/life_is_beautiful.jpg",
+      "image": "https://raw.githubusercontent.com/kalpawijesooriya/aarticals/master/ExpositionIssue12/lakmini.png",
       "story": "
 1.     How does it feel to hold the title of the best woman entrepreneur of 2016?
 
@@ -547,7 +547,7 @@ With a quick flashback to my university life, what I think I achieved mostly is 
           "name": "Tommy Flanagan"
         }
       ],
-      "image": "https://jsonparsingdemo-cec5b.firebaseapp.com/jsonData/images/gladiator.jpg",
+      "image": "https://raw.githubusercontent.com/kalpawijesooriya/aarticals/master/ExpositionIssue12/dilshan.png",
       "story": "
 1)	It is always important for a sportsman to occupy yourself in the moment. Let’s begin with that for a change. What do you think about your current way of life after your retirement?
 
@@ -681,7 +681,7 @@ The government should also provide the support to these businesses and the entre
           "name": "Matthew Broderick"
         }
       ],
-      "image": "https://jsonparsingdemo-cec5b.firebaseapp.com/jsonData/images/lion.jpg",
+      "image": "https://raw.githubusercontent.com/kalpawijesooriya/aarticals/master/ExpositionIssue12/channa.png",
       "story": "
 Nine hours a day, five days a week, approximately 230 days a year – that is how big of a role a job plays in an adult’s life. 
 
