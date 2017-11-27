@@ -764,7 +764,6 @@ Be open to new experiences and new opportunities. Don’t be afraid of challenge
 If you do decide to switch lanes, be sure to follow the same process: reassess your passions, strengths and weaknesses, gather information about the new career path(s) and make informed decisions. 
 
 
-
 “Whatever You Do, Do It to the Best of Your Ability”
 
 CDS: This is the last piece of advice I’d like to give Exposition readers:
@@ -781,45 +780,6 @@ Find happiness and pride in your work, strive to become the best you can be and 
 
 I wish you the best of luck!
 "
-    },
-    {
-      "story": "WALL-E",
-      "year": 2008,
-      "rating": 8.4,
-      "duration": "98 min",
-      "director": "Andrew Stanton",
-      "tagline": "He's got a lot of time on his hands.",
-      "cast": [
-        {
-          "name": "Ben Burtt"
-        },
-        {
-          "name": "Elissa Knight"
-        },
-        {
-          "name": "Jeff Garlin"
-        }
-      ],
-      "image": "https://jsonparsingdemo-cec5b.firebaseapp.com/jsonData/images/walle.jpg",
-      "detail": "In the distant future, a small waste collecting robot inadvertently embarks on a space journey that will ultimately decide the fate of mankind."
-    },
-    {
-      "story": "Saving Private Ryan",
-      "year": 1998,
-      "rating": 8.6,
-      "duration": "169 min",
-      "director": "Steven Spielberg",
-      "tagline": "There was only one man left in the family, and the mission was to save him",
-      "cast": [
-        {
-          "name": "Tom Hanks"
-        },
-        {
-          "name": "Matt Damon"
-        }
-      ],
-      "image": "https://jsonparsingdemo-cec5b.firebaseapp.com/jsonData/images/saving_private_ryan.jpg",
-      "detail": "Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose brothers have been killed in action."
-    }   
+    } 
   ]
 }
