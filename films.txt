@@ -503,12 +503,12 @@ With a quick flashback to my university life, what I think I achieved mostly is 
 "
     },
     {
-      "story": "Gladiator",
+      "story": "-T.M.Dilshan-",
       "year": 2000,
       "rating": 8.5,
       "duration": "155 min",
       "director": "Ridley Scott",
-      "tagline": "Father of a murdered son, husband to a murdered wife and I shall have my vengeance in this life or the next",
+      "tagline": "I am an all-rounder in my personal life as well. I engage in almost every kind of work at my house including our children’s work as well. We have a practice in our family to share our work and take our decisions as a family together....",
       "cast": [
         {
           "name": "Russell Crowe"
@@ -526,8 +526,121 @@ With a quick flashback to my university life, what I think I achieved mostly is 
           "name": "Tommy Flanagan"
         }
       ],
-      "image": "https://jsonparsingdemo-cec5b.firebaseapp.com/jsonData/images/gladiator.jpg",
-      "detail": "When a Roman general is betrayed and his family murdered by an emperor's corrupt son, he comes to Rome as a gladiator to seek revenge."
+      "image": "https://raw.githubusercontent.com/kalpawijesooriya/aarticals/master/ExpositionIssue12/dilshan.png",
+      "detail": "
+1)	It is always important for a sportsman to occupy yourself in the moment. Let’s begin with that for a change. What do you think about your current way of life after your retirement?
+
+Now I spend most of the time with my family. I really missed a lot of time with my family in the recent years. My family including my parents and my wife has sacrificed a lot on behalf of my career. In addition, I personally think that I have a lot to give back to my family. Therefore, overall, I enjoy my life now with my family as I have always wished.
+
+2)	You have kept your mark high up in the international cricket arena as a well-known all-rounder. What do you think about your personal life in terms of all rounding? 
+
+I am an all-rounder in my personal life as well. I engage in almost every kind of work at my house including our children’s work as well. We have a practice in our family to share our work and take our decisions as a family together. I think that is one of the main things that help our family in all our endeavors and makes it special.
+
+We have four children and that does not make us feel any hassle in doing their work on our own. I, as a person, enjoy the company of my family to the fullest. I manage all my work and my businesses while contributing to all these works as well.  And most importantly, my children are taught to be independent and manage their work by themselves. So in general, my family is actually a team that works together for the betterment of each other and the family as a whole.
+
+3)	Compared to your sports career your role as a businessperson is fairly less spoken among the public. Would you like to share some of your memories/ experiences as an entrepreneur?
+
+I have always been interested in the hospitality sector. I think it is important to make the visitors feel welcomed and share our resources and values with them. I started a hotel in an old family house, which belonged to Mr. Wimalasurendra, the first engineer of the country. I even have kept a book about him for the visitors to refer; therefore, I have used every aspect of my business to add value to our country and the people in it.
+
+I have taken my country to the world through cricket and it is my chance this time to use my entrepreneurial ventures to bring value to my motherland. I always share our cultural backgrounds and heritage with our guests. I think it is important for me to use my influences to enhance the image of the country. I think that we have not been yet been able to bring that value addition to our country through tourism. Additionally, I have chosen this field of hospitality and tourism since I can perform well in that arena with respect to all my contacts that I have around the world.
+
+Recently, I have started my own Tea Business, which is also another way of promoting one of the most valuable assets of our country. There I have come up with a classic combination of Cricket with Tea. All my promotions and designs for the business are infused with the theme of Cricket. 
+
+I have hopes of taking my tea business to the world as a global brand name while expanding my hotel business through opening up new hotels at main cities of tourist attraction like Sigiriya, Dambulla and many more. 
+
+So, if I am to speak in general about my business ventures and the motives behind them, I would say that I always try to enhance the Sri Lankan value and recognition through the display of its valuable assets. Personally, I think that these things make me special among many other businesspersons that are associated with similar fields and areas.
+
+Being an entrepreneur is really challenging and personally, I am very used to face those challenges at my best. Even as a cricketer, I had to face many challenges as an upcoming cricketer from a small rural school. I had a very humble family background as well. I faced many challenges. Those challenges have helped me to achieve a lot in my life as a cricketer and a public figure.
+
+I think the best way to overcome a challenge is to look through it with courage. I have always had string determination in whatever I do, irrespective of it being a personal or a professional challenge. 
+
+4)	What do you think about the status of a professional sportsman in a country like ours?
+
+When comparing with the international standards, the level of professionalism in sports is relatively low in Sri Lanka. We Asians are known to be guided around almost everything we do. Usually, under the global professional standards, the individual players know their daily routines and tasks. 
+
+I must say that, if one seeks to be professional sportsman, she/he has the potential to get the maximum out of their capabilities. Being a professional help you to be responsible of your own career. Doing things on the demands of another will not help a sportsman to succeed. I would rather mean more sense, when they take account of their own tasks and schedules. 
+
+Professionalism in sports does not merely restrict into one’s behavior within the ground, but rather it is a broad subject, which extends from the meals to the fitness of a sportsman. We can improve our sports achievements, as a country if our Sri Lankan sportsmen can practice professionalism throughout their careers.
+
+5)	How has cricket helped you to grow yourself into the brand you are?
+
+Of course, everything that I have built up so far is a result of my cricket career. So, I think it is much more appropriate to say that I am the brand I am today, all thanks to my cricket career. Nevertheless, I would say that I am a different kind of a brand, when compared with the others. I had to make a lot of commitments and go through a lot of sacrifices to make my brand as a person. 
+
+There were times when I walked around 4-5 km to school, so that I could save the money that my mother gave me. I saved money from a very little age to support myself in order to purchase cricket bats and balls. It is the same for my brand as well, where I had to do make a lot of sacrifices little by little, which ultimately got saved to build up my brand. That is why I said that my brand is different from others.
+
+Building this brand did not happen overnight. Growing up, I did not get many opportunities to show my talent. However, I was determined to make the best out of the chances I got. I tried to show my talent in whatever the opportunity that came my way. I took risks as a sportsman and as an individual, where I made some critical decisions along the way. I changed my position as an opening batsman in the lineup in 2008, which was an uncertain decision to make, but it actually helped me a lot to improve my contribution to the team. Therefore, the success of my brand is closely associated with the risks that I took along the way. 
+
+
+
+6)	Cricket is regarded as the “Sport of the gentlemen”.  What is your definition of being a true gentleman with respect to both the personal and professional lives? 
+
+As I previously mentioned, cricket has taught me a lot throughout my journey as a cricketer. One of the most important things that I think a true gentleman would possess is the ability to accept the losses as much as the victories. Not just in cricket, it is something that I have witnessed a lot in this country as well. Most of the time, people cannot accept the challenges and the losses. Even in terms of education, we see how students completely give up their lives and even decide to take their lives for a mere downfall at an examination. It is good to have higher goals in life, but it does not mean that those goals are more worth than your own life. We should develop the growth mindset within ourselves. Losses should imply a change in the way you do things. 
+One should know her or his own strengths and the path that should be taken in order to reach where you aim at. My father was a member of the national football team, so he always wanted to see me pursuing as a football player as well. I was the captain of the school football team as well. But, I was aware of my actual potential and my strengths. I am truly grateful for my parents for allowing me to pursue my own dreams. I think our next generation will be much more improved and advanced, if all the parents can provide that kind of freedom for their children to chase their own dream while guiding them the right way.
+
+7)	It is one thing to excel at a sport, but keeping your trademark on an international platform is beyond elementary. Tell us about your story behind the legendary style “Dilscoop”. 
+
+Paddlesweep is a very common style that the batsmen attempt on. Back in the 2009, at an IPL tournament when I was playing for the Delhi Dare Devils, I was thinking of a more innovative way to collect runs throughout the tournament. So, I thought of scoring above the wicket keeper, because that is a position, which does not have any fielders. I still remember how I played my first shot for an Australian bowler in that tournament, where Adam Gilchrist was the wicket keeper behind the stumps. As soon as I scored that point, Adam Gilchrist came to me and asked about that style. That kept me thinking about the power of such a shot, which could actually disrupt and exert pressure on the opposing fielders. After that, I did not play that shot throughout the tournament. Because I was thinking about the world cup which was in another 08 months’ time. I had the intensions of improving this style, so that this could be used as a powerful weapon for our team. 
+
+After returning from the IPL in 2009, I practiced that style a lot with the rubber balls. I wanted to excel in that shot, in order to use it effectively at the world cup. I am glad that I was able to do a lot for my team from my style. We went on to become the runners-up of the tournament and I even became the man of the series and even got a style named after me. 
+
+The commentators did not have a proper name for this shot. So the ICC had requested the cricket fans to suggest names for this shot. I can recall Mr. Nazar Hussain, the commentator of the final match, requesting me to select a name for this shot out of the top voted suggestions. There, I selected the name “Dilscoop” which is the very first time in the history of cricket, to have a shot name after a player. I do not think of it as a personal achievement, but rather as a victory for my country. 
+
+Obviously, there were many accusations along the way by different parties for naming it after me while some even suggested different names to it. Even now there are instances, where the commentators do not use the name “Dilscoop” to describe it. Now, whenever I see the foreign players attempt “Dilscoop”, it gives me an absolute honor to have made a small country like ours stand high above in the world of cricket.
+
+8)	Your performance as the man of the series in the T20 world cup 2009 is indeed a special milestone in your life. Looking back at your early stages as a growing cricketer and then as a master sportsman, what would you regards as your reason for success.
+
+On very simple terms, I would say it’s the commitment and the passion that followed me in everything that I did. The year 2008 was the turning point of my life. I was very relaxed in my mind, which is one of the most important aspects for any cricketer, the freedom of mind. I must mention about the support that I received from my wife. She supported me in every aspect of my life. It is critical for anyone to have a support system for them. I was very fortunate to have such a string support from my family, which again is one of the main reasons for my success. 
+
+Also, not to forget the times when I walked for practices every day for 4-5 kilometers. It was all about the commitment and the passion. I was very passionate towards becoming a cricketer, hence I committed to it. If I can reach this position with such humble beginnings, I think these young generations with a lot of facilities can make it to even higher. 
+
+9)	How did you manage your time and efforts evenly to succeed in your personal and professional lives?
+
+Currently, I am more focused on my professional life. I think it is important to know your priorities, in order to manage your time. Presently my focus is my family whereas the other commitments take a second place. Managing time is critical for a person like me. In fact, I handle a lot of social service programmes, which requires considerable amount of time and effort. Therefore, I plan my time accordingly, with respect to the commitments I have to make. 
+
+10)	How do you maintain your brand and personal image even after your retirement from the international cricket career?
+
+I think my brand is what I did throughout that past years as a cricketer. I always advice the upcoming cricketers to give their best and do something valuable to this field and make a good name for themselves before they retire. By far around 200 cricketers have displayed their talents but only a few of such names remain in the minds of the people. You have to do something memorable for your country. 
+Things like Dilscoop and my other commitments to my country has been there in the minds of the people for a very long time. They have it in their hearts. I decided to retire at a time when I was ranked as the Number one all-around player in the world. I left at a time when people asked me to not to. However, I took a decision upon my understanding. It is important that you take your leave at the right time rather than waiting till the others ask you to leave. If you overstay your limits, it will only make your efforts go undervalued at the end. I think specially for me, my Dilscoop took my own brand to a different level. So hopefully, due to all my achievements and my commitments, I think my brand and my name will be there in the history of cricket for a much longer time. 
+
+11)	What do you think is your key quality that made you stand out among others?
+
+I think it is the fact that I still remember and respect my humble beginnings, which makes me want to live a very ordinary life even now. No matter what I have achieved, I like to be a very ordinary person, who lives with everybody in a very gracious manner. Honestly, I still prefer travelling by bus or by a three wheeler occasionally. I still do that even when others ask me to not to. I treat everybody in a similar cordial manner, and I do not divide people by their status or the wealth. My mind becomes so free and tranquil, when I live such a simple life, as any regular individual. So all in all, I think my sociable and forthcoming nature makes me stand out among the others. 
+
+12)	How have your experiences in the field of cricket, helped you to transition into the business world?
+
+Cricket and business are two different fields in terms of its execution. Cricket is a sport, which has its own set of ways while the businesses carry their own. But, one of the most important things that I gained from cricket is the exposure and the gift of meeting different friends. In fact, those connections have been very important to me throughout my career as a cricketer and as a businessman. 
+
+My network of friends and colleagues has helped me a lot in terms of my businesses as well. As I previously told my businesses are mainly focused on out Sri Lankan heritage, which I was able to achieve with respect to the people that I associate with.
+ 
+13)	Can you mention one quality that you think is vital for the Sri Lankan youth to harvest in them?
+
+Anybody who dreams to succeed, needs to have an undying passion towards whatever they are doing. We all see how the modern youth is persuaded to do different things, which I think is not a good factor in the long run. Everyone should have the fair chance of doing what they aspire to do. A fifteen or a sixteen-year-old can understand what she or he should do with their life. In fact, they even have the ability to define their goals and the paths they would take in the future. 
+
+So, the most important thing that I would like to highlight for the youth is that, they have to define their own goals and work passionately to achieve whatever the target that they set upon. Sometimes you might not succeed, but it is always better to have the underlying feeling of hard work, than the pure feeling of guilt. At the end of the day, they can at least rest well with the feeling of knowing that they everything that was there to do by giving their one hundred percent concentration and effort. 
+
+14)	It takes more than talent for someone to reach the peak in a very competitive sport like cricket. How did you handle the pressure and this struggle on your way up?
+
+I think my ability to withstand in stressful conditions is one of the key qualities that I have practiced from my childhood. I had so many challenges with respect to my family background. As the eldest in the family, I had a lot of pressure. I had many responsibilities to shoulder. 
+
+As I grew up, I developed this quality as a person as well as a cricketer. Even as a cricketer, it is something that you have to practice gradually. It is hard for a newcomer to stand in this pressure in the beginning, but as we grow, we learn to adapt. I think it is the same situation in any field. Our first day in the job is also the same; we learn to handle the pressure as we gather experience. Even if you are an expert in a particular field, it takes about a month to fit yourself in. If one is confident in oneself, that person can work under pressure irrespective of the consequences.
+
+The management of any company or an organization is trying to gain the maximum from the employees; this will anyway exert a pressure on the individuals irrespective of their backgrounds. We should know how to handle these pressures in our own ways.
+
+15)	Being the captain in the Sri Lankan cricket team is far from easy. What do you think are your greatest strengths in serving your position well as a leader? What do you think about the importance of the leader-team combination to make a successful outcome?
+
+I learned a lot during my time as a captain. A captain holds a lot of responsibilities than a member of the team. A leader should hold the responsibility of the team’s actions. I was direct in my decisions as a captain, which actually was a strength, which helped me a lot in succeeding at what I did. There were times when I gave my position as an opening batsman to a newcomer and fitted myself to a different position. Not to forget that I had kept some of my senior players out of the team while providing the chances to the newcomers. 
+
+It is the same for any corporate situation as well. Being a leader comes with a whole another set of responsibilities, where you have to take account for your team’s actions, irrespective of them being successful or failures. I always explained out my reasons very clearly, which implied others that I took my decisions very decisively and directly.
+
+Also, not to forget the experiences that I gained while playing under different captains. I had observed how they took their decisions and led  team. They were very different from one another. Therefore, I took them as different experiences while performing as a captain. So I think, the most important aspect for any captain, is, the strength to face and overcome the challenges that come in their way.
+
+16)	What do you think about the importance of entrepreneurship to Sri Lanka?
+
+I am very new to this. Though I have been engaged in cricket for almost 30 years, I am still a fresh businessman. I have understood my potentials and also the importance of recruiting the right people for the right positions. I have greatly used my experiences as a captain, when recruiting and delegating the work with my staff. Of course, I lead my businesses as the owner, but I have given my fullest support and trust towards these people who are much more experienced than myself in terms of their business backgrounds. 
+As I have repeatedly said, my main focus is to add value to my country and its resources. Other than that, I have not thought much broadly on this topic of business. I have a lot more to learn about this subject. I think I will need another 4-5 years to make my place in the world of business. 
+Just like cricket, one should have an ultimate goal, as a businessman. Business is not something that you can start out of the blue. You should have a target and a plan in order to succeed. It is important to have both short and long term goals in mind. What most of the people do is, they start and let the business running its own way, rather than looking at its future. 
+The government should also provide the support to these businesses and the entrepreneurs. The support of the government is a vital factor for a business to expand beyond the local dimensions. I personally know that there is a considerable gap, in terms of government support. Now we see a lot of foreigners expanding their businesses in Sri Lanka and also the talented youth from our country migrating to foreign countries that value and take the maximum out of their potential. Therefore, the government support is critical for these young entrepreneurs and the startups. That way we can take our resources and assets to the world out there. That is my dream as well. I hope that the government would support these ventures in order to take our country to the level of success that we have benefitted from in the past. 
+"
     },
     {
       "story": "The Lion King",
