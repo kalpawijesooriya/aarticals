@@ -643,12 +643,12 @@ The government should also provide the support to these businesses and the entre
 "
     },
     {
-      "story": "The Lion King",
+      "story": "-Channa De Silva-",
       "year": 1994,
       "rating": 8.5,
       "duration": "89 min",
       "director": "Roger Allers",
-      "tagline": "The King Has Returned.",
+      "tagline": "Software engineering as a career, however, involves a lot of team and client discussions, so good communication skills are very important. Being aware of this early on can help you practice this soft skill and enter the workforce with a leg up on your peers....",
       "cast": [
         {
           "name": "James Earl Jones"
@@ -660,8 +660,127 @@ The government should also provide the support to these businesses and the entre
           "name": "Matthew Broderick"
         }
       ],
-      "image": "https://jsonparsingdemo-cec5b.firebaseapp.com/jsonData/images/lion.jpg",
-      "detail": "Lion cub and future king Simba searches for his identity. His eagerness to please others and penchant for testing his boundaries sometimes gets him into trouble."
+      "image": "https://raw.githubusercontent.com/kalpawijesooriya/aarticals/master/ExpositionIssue12/channa.png",
+      "detail": "
+Creative Software’s Engineering Director Gives 5 Tips for Finding the Right Career Path 
+
+Nine hours a day, five days a week, approximately 230 days a year – that is how big of a role a job plays in an adult’s life. 
+
+Will you be waking up every morning excited to start your day, or will you be cursing Mondays and counting off the days to the weekend? The decision is yours and it starts with your career choice.
+
+Creative Software’s Engineering Director Channa De Silva has been working in the IT industry for two decades. He has led teams at two of Sri Lanka’s leading software companies where he has recruited and managed some of the country’s best IT talent.
+
+Here are his five tips on finding the career path that will make you excited to wake up for work every day:
+
+
+#1 Let Your Passion Inspire You
+
+CDS: This might sound a bit cliché, but no statement becomes a cliché unless there is truth to it. 
+
+What is it that captivates you? What makes time buzz by? 
+
+Is it a math problem? Is it daydreaming about building a restaurant business? Or is it playing video games? 
+
+Whatever it is that sparks the passion in you, give it attention. Let it inspire you in your career search.  
+
+Beware though: Your passions may change over time, so what you currently enjoy doing should be an inspiration, but not a decisive factor in your career choice. 
+
+Your ideal career lies at the intersection of your passion and your core strengths.  
+
+
+
+#2 Identify Your Core Strengths and Weaknesses
+CDS: By now you have probably worked on a lot of assignments and projects. Think how you have added value to them: What is the role you naturally play? What do your peers rely on you for? 
+Assess your core strengths and weaknesses. These together with your passion will help you find and narrow down the careers that best suit your character.  
+You will probably never find a career that only draws on your strengths, but you will be able to find a happy compromise.
+
+[…]
+
+Being aware of your strengths and weaknesses will also help you focus on strategically developing the skills that are essential for success in your chosen career.
+
+For example, many students who choose to become software engineers tend to have weak communication skills. 
+
+Software engineering as a career, however, involves a lot of team and client discussions, so good communication skills are very important. Being aware of this early on can help you practice this soft skill and enter the workforce with a leg up on your peers.
+
+
+
+#3 Understand Your Options: What does the job entail?  
+
+CDS: I like to ask software engineers: What does it mean to be an ‘engineer’? What is the difference between an engineer and a ‘bás’ [construction worker] for example? 
+
+You would be surprised how many are not able to define their own profession.
+
+[…]
+
+Make informed decisions. Google is at your fingertips; Research possible options in depth. Interview acquaintances in the industry and try to get to the gist of each career path you are considering. 
+
+And look beyond the mainstream as well. There are so many opportunities and specialisations out there; You do not have to limit yourself to the popular ones. 
+
+[…]
+
+When you make your selection, answer the key question: “What does it take to be successful in this career?” 
+
+List the typical requirements for jobs within this field, then revisit your strengths and weaknesses to see how they fit in, and see if the purpose of this job aligns with your passion. 
+
+To illustrate: Say you are thinking about becoming a Business Analyst (BA). BA as a career entails understanding business domains, identifying improvement areas, using technology as an enabler – among others. You will need to ask yourself: Are you very analytical? A passionate problem solver? An extrovert? Do you have excellent communication skills? If most of these are not your strengths and passion, you need to go back to the drawing board and start the career search again.  
+
+
+
+#4 Think Long-Term: Avoid the Common Traps
+
+I see so many people making career choices for all the wrong reasons: to follow their friends, to fulfil their family’s ambitions, in pursuit of the highest pay, to put big brand names on their resume, etc. None of these will matter even a few months down the line.
+
+You will spend most of your day doing a job. If your responsibilities are not in harmony with your strengths and your passion, and the environment is not in harmony with your values and character, you probably won’t perform to the best of your ability. You won’t be happy.
+
+So when choosing a career and a place to grow, my advice to the graduates is to focus on their own intuition. Search for a role and a place that suits YOU. If you do well, everything else will follow: recognition, salary, etc.
+
+
+
+#5 Be Patient, Committed and Flexible: Your Career Path Is a Meandering Road 
+
+
+Be Patient and Committed 
+
+CDS: A mistake many people make is to jump from one career path to another without giving themselves enough time to truly evaluate the chosen careers.
+
+When you choose a career, don’t give up as soon as the road gets rocky. Be sure to give yourself enough time to really experience it. 
+
+When I moved from software engineering to management, it took me a couple of years to realise that I had made the right choice. Unlike in [software] engineering where the time between development and seeing results is relatively short, to see results in management usually takes a long-time, which is what I initially disliked. 
+
+However, two-three years down the line I started seeing some people I managed excelling in their careers and that felt incredibly rewarding. It gave meaning to my work and it gave me purpose.
+
+
+
+Be Flexible 
+
+CDS: Some years down the line, if you decide that the career you’ve chosen is not right for you, don’t be afraid of switching lanes. 
+
+I recently met a guy who had spent five years working as a software engineer, but then decided to go into quality assurance because he felt he’d make a better QA. I’ve seen even greater leaps where sales executives decided to take up graphic design, software developers went into business, etc.
+
+Your theories about what you are best suited for may be wrong, and – also - your preferences can change over time. 
+
+Be open to new experiences and new opportunities. Don’t be afraid of challenge and change. 
+
+If you do decide to switch lanes, be sure to follow the same process: reassess your passions, strengths and weaknesses, gather information about the new career path(s) and make informed decisions. 
+
+
+
+“Whatever You Do, Do It to the Best of Your Ability”
+
+CDS: This is the last piece of advice I’d like to give Exposition readers:
+
+Take pride in what you do. This will give meaning and purpose to every hour of your career. 
+
+Your career path will be influenced by many internal factors that you may be able to control and external factors that you may not be able to control. 
+
+Accept that some of your peers will do ‘better’, some will do ‘worse’. Success is, after all, a relative thing and you cannot let other people’s ‘success’ dictate yours.  
+
+But, whatever you do, do it to the best of your ability. That is all you can do. 
+
+Find happiness and pride in your work, strive to become the best you can be and leave no regrets.  
+
+I wish you the best of luck!
+"
     },
     {
       "story": "WALL-E",
