@@ -335,12 +335,12 @@ Basically, for an undergraduate they need to know whether they want to start the
 "
     },
     {
-      "story": "The Lord of the Rings: The Return of the King",
+      "story": "-Nissanga Warnapura-",
       "year": 2003,
       "rating": 8.9,
       "duration": "201 min",
       "director": "Peter Jackson",
-      "tagline": "This Christmas the journey ends.",
+      "tagline": "According to what my mother says, your mind has to be tuned so that you see things differently.  Then the people around you; the way they think about something helps in how you develop your mind. When you are around with people who think differently you will also start thinking differently.....",
       "cast": [
         {
           "name": "Viggo Mortensen"
@@ -352,8 +352,86 @@ Basically, for an undergraduate they need to know whether they want to start the
           "name": "Elijah Wood"
         }
       ],
-      "image": "https://jsonparsingdemo-cec5b.firebaseapp.com/jsonData/images/lotr.jpg",
-      "detail": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring."
+      "image": "https://raw.githubusercontent.com/kalpawijesooriya/aarticals/master/ExpositionIssue12/nissanga.png",
+      "detail": "Mr. Nissanga Warnapura – 3D printing
+1.	You are a person who has engaged in, and excelled in many areas of work (like technical management, management trainer, R&D executive, technical operations and projects, managing director, founder/CEO, chief innovation officer and so forth.) what do you identify to be the sources for this capability?
+
+First part which I do not agree; “that I have excelled in any areas…” 
+To answer your question;
+	First, it’s the mind set you have. Nobody is born like that as at birth everybody is same. According to what my mother says, your mind has to be tuned so that you see things differently.  Then the people around you; the way they think about something helps in how you develop your mind. When you are around with people who think differently you will also start thinking differently. In the university you can study and pass the exams easily, but the way you think of a problem is based on who you spend time with. Regard to that I was very fortunate with the people I have met my parents, lecturers, mentors and my first job which opened me up for many experiences at field, which tuned my mind set to see things differently and innovate. I would like to mention those as the sources for who I am today; mindset and the people who was around me.
+
+2.	As we all know, the creative potential of childhood diminishes as one ages. What would you offer as advice to keep the creativity alive in a person?
+
+The creativity doesn’t die naturally, it is forced to.  Mostly, the Sri Lankan parenthood is good at building fear at first place in childhood preventing those trying new things. But, once they grow up, they want the child to succeed and stand out among others achieving things. Many couldn’t do this as for that, they have to take risks to do things, and to change and innovate. So, in my opinion the creativity doesn’t die. It’s within them. Only thing is you need to find the opportunity to sharpen it. Therefore, the parents should be more cautious about how their children are being guided at small ages so that they will be raised to different level ones they start schooling.
+And in the current context the accessibility for the technology is growing up so fast giving many opportunities for the young crowd like you to learn. It’s your choice to decide how you are going to utilize it, to grow yourself so that it sharpens your mindset.
+
+3.	What inspired you to discover and pursue a brand new area of work, and become successful in doing so?
+
+Something which I always look for is easier ways to do things; not in a way to cheat, but my first thought on this area when I started this was how I can get what I want to make, in the fastest possible way.
+Handling and programing CNC machines and vacuum casting are complicated processes. When I discovered 3D printing, it allowed me to do the things I couldn’t do so far allowing me to discover new areas of work and to provide innovative solutions for the problems that my clients bring to our work space every day. That is how the idea of starting 3D printing studio came to live.
+
+4.	What are your vision and mission regard to the current state of Industry? 
+
+We have many of our citizens at the top most companies, which make us all proud as Sri Lankans. Even once, we used to build the fuselage for A380 aircrafts here, which is a confirmation that we have lot more potential than we think. My mission with regard to this is to bring the concept of 3D printing to a state where it can be accessed by everybody to be used for extreme R&D and to examine advance-engineering processes, to build and innovate.  Simply, with a tomato you will cook something with tomato, but with a whole set of other ingredients you will create something amazing so, with the patriotism I have for my country my vision is to put Sri Lanka on the map by giving the accessibility for the newest technology specially, for the undergraduates like you.
+
+5.	Apart from being the first of its kind in Sri Lanka, what else could you state as your uniqueness?
+
+Being the first is not something important because it will not do any good if we keep emphasizing on that. So the uniqueness is we always try to think out of the box for the goodness of the society and for the people who come to us with various requests. We have many customers coming daily, giving us very specific challenges to improve. So our specialty is we listen to them and we look for a way to disrupt the current state of their manufacturing process or any other activities so that they can grow and improve faster. Because the little changes we do will create a huge value for them, may be in terms of profit, process or people.
+
+
+6.	For a layman, how would you show the applicability of 3D printing to their own businesses? What are the areas in the industry that can integrate 3D printing?
+
+Let me answer this through one of our customers who came to us. An old fellow came to us and asked for his requirement. He wanted to build a plug which will never get burned due to current leakages. Though he came to us he hadn’t any idea of this 3D printing technology, eventually which we were able to help in crafting it, and later he sold it to an electrical company. The problem is; lots of people think that they need to come with the design for us to get it done which is not necessary, maybe we are not able to provide the solution with 3D printing, but we could provide with options which is available with new technology.
+From a layman’s point…. Firstly, anyone in a company should research
+
+
+
+7.	What are the job opportunities you offer to the public through 3Dprinting? What is your stand in the local job market?
+
+We are very tough in this area, because we can’t hire a 2D designer and ask them to get something fabricated in 3D. So what we offer as jobs is, if someone comes as a designer, first, we first let them understand the complete process. We teach them designing and advanced designing, and also how to use the advanced machineries which usually you don’t have access to. Therefore, it is more of a learning environment we have here, with people who are interested in discovering and innovating.
+Something interesting I need to mention is that, we have 90% women running press machines here. I challenged the mindset that this is a man driven industry, men are designers and men can make fabrications and women can’t do this.
+Like that I always try to push people beyond the boundary to achieve things.
+
+8.	For your industry, opportunities lie in many fields of the country, particularly in the health sector, how would you make use of these opportunities? 
+
+This is a very sensitive area to look through. There are mainly two sectors we can look for; one is Invasive and the other is non- invasive.  Non-invasive is prosthetics, for example the things we create to aid damaged limbs like casting and we do this custom designed casting through 3D printing after scanning the damaged limbs. We create it so the patient is more comfortable wearing it. These can be specialized with features like air vents to prevent all those scratchy and uneasy feelings you get once you locked your limbs for months or weeks.
+Currently, we don’t get prosthetics for some ages below and some ages above due to the complex processes it has to go through in making the right fit. 
+But through 3D printing we can get it done too
+Invasive is where we print internal organs with medical grade materials, not live organs (not yet) but the things like knee caps and bones which we haven’t tried through this technology, but definitely an area which we can look for research and development.
+Another trending area is the exoskeleton industry which is something you wear as an extra spine which gives you superhuman capabilities to carry heavy packages easily, which is currently being used at places such as Amazon warehouses.
+
+
+
+9.	What are the strengths you find in yourself, the concept and the company, as those that enabled you to achieve stability in terms of competition?
+
+Definitely, it’s the people. For a company to be successful, it’s the people you have within the company is your strength. It’s the people who are sitting around the table with you who bring something new to the table every day, unique and creative or sometimes it might be crazy which doesn’t matter at all. So it’s a very interesting group of people, and one thing I always look for is the talent who can disrupt the technologies through their thinking.
+
+10.	What is your idea about the potential of Sri Lankans to take on technical and innovative areas like this? 
+
+Yes it is possible. One main thing to consider is a probable way to stop talent going out of our country or brain drain. 
+In an economic point of view, if we look in to the main contributors for the GDP in our country like coconut, tea and rubber a very few technological developments have been done. Therefore, as Management and IT undergraduates these are the areas you can study to innovate.
+If Sir Lanka wants to change, first to consider is to look at the things in different ways. This is impossible if the people at higher chairs are with the traditional mindsets.
+
+11.	What are the pros and cons of being Sri Lankan for a concept like yours? Could it have been easier if you started this in a technologically advanced country and not in Sri Lanka?
+
+Yes, it would have been much easier if I had started this business in a different country in terms of profits, facilities and other, but which inspired me to introduce this here is the patriotism I have for my country and to bring up the Sri Lankan talents into an international level.
+
+
+12.	How do you think the country could benefit from industries like this for its development?
+
+What people don’t understand is, 3D printing doesn’t have to be something like you design today and use it for the rest of the time. You should use 3D printing to explore a design and to check whether it can solve your problem. That is where laymen are having issues. 
+This technology is meant for people to explore new design and try and fail. But, once you explore it you can do it in bulk in whichever the way you want, and you will have enough business. 
+
+Interestingly, this is a technology which anyone can use it for. I can’t specifically say that this is only for this area. An individual or a company can use this for improvement or put your ideas into action.
+
+
+13.	What advice would you give to a person who wishes to enter into this field of work?
+
+The biggest issue I faced myself when I was young is, nobody came to me and spoke or showed me the paths which I can explore.
+Though now that my personality is associated with innovation, I never studied about it or I have the skill set.  Therefore, my message for the exposition readers is;
+
+You should always be willing to learn, ‘blue sky theory’; that is how some IT companies introduce this; which says to look at the things way beyond. So my message to everyone is take a minute take a step back, go hundred thousand feet above, and look at your situation first, and think how you can do something differently; better and faster. Always ask questions and never ever worry about being wrong.
+"
     },
     {
       "story": "Life Is Beautiful",
