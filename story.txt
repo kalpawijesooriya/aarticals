@@ -285,7 +285,7 @@ Mere Exposure Effect
 "
     },
     {
-      "story": "-Thilini Weerashinghe-",
+      "story": "-Thilini Weerashinghe-                                                        Level-02",
       "year": 1997,
       "rating": 8.6,
       "duration": "116 min",
@@ -350,12 +350,12 @@ To you, I present the century old debate “Are leaders born or made?” What is
 "
     },
     {
-      "story": "Gladiator",
+      "story": "-Mevuni Mendis-                                                      Level-02",
       "year": 2000,
       "rating": 8.5,
       "duration": "155 min",
       "director": "Ridley Scott",
-      "tagline": "Father of a murdered son, husband to a murdered wife and I shall have my vengeance in this life or the next",
+      "tagline": "  A couple of decades back, a job candidate’s destiny was fully laid upon a strong resume of lengthy pages along with a powerful covering letter; boasting about the abilities and accomplishments of the candidate. Times have changed, technology has evolved, and if you think that your LinkedIn and Facebook......",
       "cast": [
         {
           "name": "Russell Crowe"
@@ -373,16 +373,58 @@ To you, I present the century old debate “Are leaders born or made?” What is
           "name": "Tommy Flanagan"
         }
       ],
-      "image": "https://jsonparsingdemo-cec5b.firebaseapp.com/jsonData/images/gladiator.jpg",
-      "detail": "When a Roman general is betrayed and his family murdered by an emperor's corrupt son, he comes to Rome as a gladiator to seek revenge."
+      "image": "https://raw.githubusercontent.com/kalpawijesooriya/aarticals/master/ExpositionIssue12/mevuni.png",
+      "detail": "
+      A couple of decades back, a job candidate’s destiny was fully laid upon a strong resume of lengthy pages along with a powerful covering letter; boasting about the abilities and accomplishments of the candidate. Times have changed, technology has evolved, and if you think that your LinkedIn and Facebook accounts will not be stalked by your employer before hiring you up, it is high time for you to update your area of concentration. 
+      
+With the vast emergence of Internet and different kinds of social media applications, offered worldwide, most people are proud holders of at least one social media account. Even though this facilitates a wide area of networking, one should keep in mind that there are both pros and cons in exposing one’s self to the cyberspace. The way you behave online not only affects your personal life but also holds a greater importance in matters related to your career. 
+Online Persona plays a significant role in the current job hiring scenario. According to CareerBuilder’s 2017 Annual Social Media Survey, 60% employers use online screening to research about their job candidates before hiring them. How clean a person’s online portfolio matters as much as how strong his resume is, as it moulds a person’s character, giving a glimpse of how his perception of the world is.
+
+What is Online Persona?
+
+In simple terms, “Online Persona” could be considered as, the way one presents himself in online platforms. Here, a person’s identity can differ from his real name and be anonymous or pseudonymous. However, maintaining a clear online identity has become mandatory, since many employers use this as a method of reference as well as   verification, in employee recruitments. 
+
+Online Reputation Management
+
+“Your brand isn’t what you say it is, it’s what google says it is” says Chris Anderson, one of the most influential American Journalists in the context of digital revolution. A person should be mindful about his or her “online image” and also about what shall be presented when a complete stranger searches the name on a search engine. Observing your own digital footprint and maintaining a powerful online presence can add more colours to your resume, ensuring you having a promising career. The following particulars could be supervised in order to preserve your Internet Identity from being misjudged or misinterpreted.
+1.	Monitoring your Online Identity
+Think from an employer’s perception. Google your name and track down the first suggestions in your search results. If most of them display origins from non-professional sources, it is necessary for you to realize that your online persona needs a touch of updating. Cultivating social screens with professional information about yourself would make it easier for you to build a good impression among the employers even before they recruit you. 
+
+2.	Avoiding controversial behaviour
+
+As we are well aware, people make social media - a platform to freely express their ideas regardless of the nature of the idea. Even though this might earn you a lot of followers, it might also be a hindrance for positive feedback from an employer. 
+Having discriminatory views regarding race, gender and religions, displaying aggressive political behaviour on social media, posting debatable or provocative pictures of yourself such as drinking or using drugs, criticizing previous employers and peers and publicizing confidential information about your previous company could be stated as examples for the subject concerning irresponsible behaviours. 
+Avoiding such circumstances can lead to establishing a positive attitude in the people who view your profile. So, think twice before bursting out every opinion, which rushes to your mind, on social media. Respect other people’s opinions and try to reduce antagonistic behaviours. Use privacy settings appropriately to manage what could be seen by the public and reduce or remove all the content that could form or build a negative impression about any aspect of yourself.
+
+3.	Knowing what is out there before blindly following anything or everything
+
+If you are new to an online platform, rather than mindlessly using it, try to get familiar with its new environment. Observe how experienced users handle the features and use helping tips and guidelines provided by the network itself to associate yourself with the application before actively using it. 
+
+4.	Building up a unique online presence
+
+Having a common name can always lead towards miscommunications. Be aware of who else shares your name, and try to differentiate yourself with your own branding. Rather than leaving chances to be unfortunately mistaken for someone else, distinguish your name by adding a middle name or a chosen area of interest, so that employers can easily identify you. 
+
+Although these actions could reduce the risk of having negative “first impressions” at a job recruitment, it is said that, having a 100% clean online portfolio does not ensure that you are in the safe zone. According to researches, if your online persona is seeming to be “too perfect”, there is a high chance to get accused for removing and editing your portfolios which could lead the employer to suspect if you attempt or wish to hide things from others.
+
+Make the Online Persona, an Asset
+
+"Most workers have some sort of online presence today– and more than half of employers won't hire those without one," says Rosemary Haefner, Chief Human Resources Officer at CareerBuilder. It has become mandatory for a job seeker to maintain professional online profiles when it is clearly evident that the employers trail a candidate’s online personality before recruiting him or her for the job. People can use this for their own advantage in building up a positive picture about themselves.
+Use Social Media as a platform to display your achievements, evidence for professional qualifications and areas of interest. Creating an ‘Electronic Portfolio’ or in other words, a website for your own self is ideal for this purpose. If you enrich your portfolio by constantly updating facts related to your passion to build up a smart career with a constant flow, employers will be able to see a vivid image of your vision for life, and complement you by recruiting you for your dream job. 
+Using your online account as a stage to display your creativity and communication skills is another method of using your persona for your own betterment. Having your own blog that clearly depict the fields of your interest could be used as an effective method to demonstrate your personality in addition to passions beyond professional qualifications.
+Participating in Professional Discussions not only helps you improve your knowledge, it gives you the opportunity to enhance your network with peers who have similar interests. A person is known by the company he keeps; the peers that he or she is associated with, so later on, this recognition may become a positive reference in your job recruitment.
+
+Cultivate your own digital brand
+
+The online platforms you use have the power to build you up or tear you down in the context of your future employer and the like. While focusing on building up a strong resume you should also pay attention to maintain a powerful online identity to support a strong level of candidacy. What you say and do online would unquestionably portray an image of yourself in a stranger’s mind. As with these online platforms, you are the artist, you paint the picture, you choose the details. So, let us not take on to blindness or carelessness. Be smart. Respect others. Keep your profiles clean. The ball is in your court. Let your Online Persona be a blessing in disguise!
+"
     },
     {
-      "story": "The Lion King",
+      "story": "-Thisula Mawela-                                                                    Level-02",
       "year": 1994,
       "rating": 8.5,
       "duration": "89 min",
       "director": "Roger Allers",
-      "tagline": "The King Has Returned.",
+      "tagline": "Recall playing games and earning digital money online? The MMO gamers surely do. Despite their intrinsic value, the demand for them is typically limited to other gamers. But have you ever imagined a digital currency, demonstrating a global demand as a medium for exchange? It is not future.....",
       "cast": [
         {
           "name": "James Earl Jones"
@@ -394,16 +436,57 @@ To you, I present the century old debate “Are leaders born or made?” What is
           "name": "Matthew Broderick"
         }
       ],
-      "image": "https://jsonparsingdemo-cec5b.firebaseapp.com/jsonData/images/lion.jpg",
-      "detail": "Lion cub and future king Simba searches for his identity. His eagerness to please others and penchant for testing his boundaries sometimes gets him into trouble."
+      "image": "https://https://raw.githubusercontent.com/kalpawijesooriya/aarticals/master/ExpositionIssue12/thisula.png",
+      "detail": " 
+Recall playing games and earning digital money online? The MMO gamers surely do. Despite their intrinsic value, the demand for them is typically limited to other gamers. But have you ever imagined a digital currency, demonstrating a global demand as a medium for exchange? It is not future. Cryptocurrencies are already here. 
+Cryptocurrencies presently have become a phenomenon known to many people. While some still find it convoluted and not easily understood, most of the global banks and companies are well conversant with its presence and importance. 
+
+ENLIGHTEN YOURSELF: CRYPTOCURRENCY
+
+During late 2008, cryptocurrencies came to life as a side product of an innovative project undertaken by Satoshi Nakamoto. In its essence, cryptocurrencies exclusively rely on a decentralized peer-to-peer network for both transaction process and validation with no central governing agent. Is it really possible to achieve the consensus in the absence of a central authority? Surprisingly it is. Nakamoto’s invention has perfectly answered that query. Double spending; a transaction error in which a single digital token is spent twice is prevented through a mechanism where all the nodes of the network are engaged in lieu of a central governing agency. 
+Cryptocurrencies are more or less similar to fiat currencies (paper money or coins) intended to function as a medium for exchange. So does it have anything to do with cryptography? Yes, indeed! The soundness of transactions and regulation of addition of new units for circulation is corroborated by cryptography. 
+
+INSIDE OUT
+
+A cryptocurrency is merely a SHA-256 hash. Wait! What is a SHA-256 hash? 
+SHA stands for Secure Hash Algorithm which is a family of cryptographic hash functions which takes an input returning a fixed size alphanumeric string. This is more or less a one-way digital fingerprint which cannot be decrypted back. This is what the technical description says. Let’s move back to where we stopped. 
+A person’s cryptocurrencies are stored in a wallet; essentially a file, accompanied by addresses from and to which transactions were made, and a private key, known only to the particular user. A transaction is done by starting off a transfer request from an address (a hash) in the payer’s wallet to that of payee (simply X giving an ‘n’ amount of coins to Y). This is when the transaction is broadcasted over the so called peer-to-peer network for validation. 
+Consequently, the particular transaction will be swiftly known by the whole network which requires a confirmation for it to be unforgeable. Confirmation thus is a critical concept in cryptocurrencies. This tentatively happens when a random SHA-256 hash comprised of certain properties is generated by a single node within the network. This process requires an extensive amount of processing power. Once confirmed, the transaction is irreversible, becomes a part of an entrenched log of historical transactions: the “blockchain”.  
+Blockchain. Yet again a peculiar term. Isn’t it so?
+Blockchain predominantly is a public ledger of cryptocurrency transactions that have ever been undertaken. It is continuously propagating as new blocks are being added with records of new transactions in a chronological order. Each node gets a copy of the Blockchain which accommodates information on addresses, and balances right from the root block to the most recent block upon joining to the network.
+The node which generates the satisfactory hash is rewarded with new cryptocurrencies. This endeavor to generate validation hashes is known as mining; the sole means by which new cryptocurrencies enter the circulation. 
+MINING MAKES YOU RICH
+
+So we too can be miners…! WHY NOT? 
+
+The block hashes are generated at a controlled rate by the design. Nevertheless, the rate may fluctuate depending on the variations of the network’s processing power as new nodes enter or leave the network. Along with the escalation of computer power being added, the complexity to generate a hash is increased. Simply, more the nodes in the system, harder a hash is to generate. Furthermore, a particular node once in a while may not ever generate a suitable hash. Bitcoin, the market leader as well as the most widely used cryptocurrency has a precise limit of 21 million bitcoins which is expected to reach around 2140. 
+Mining being an utmost computational process, current mining software often require specially designed computer chips. Custom designed mining boxes are even available for this purpose.   
+So you got the answer. With your ordinary laptop, you may end up with an electricity bill which surpasses your cryptocurrency revenue!
+
+WILL YOU BE CONVICTED?
+
+The legality of cryptocurrencies significantly differs from one country to another. While some have not yet recognized them as a medium for exchange, some have explicitly allowed their use. In 2014 the US Internal Revenue Service has declared that cryptocurrencies will be prone to capital gains tax. It was once stated in a paper published by Oxford scholars that cryptocurrencies depict attributes similar to precious metals in contrast to fiat currency. 
+That being the case, what might be the situation in Sri Lanka? Despite the fact that cryptocurrencies have not been a hot topic here, according to an article on Daily Mirror, the Central Bank of Sri Lanka has responded positively to an idea put forth by a top ICT official to introduce cryptocurrencies to the local financial system. 
+
+WHY DOES IT STAND OUT?
+
+The irreversibility is the most significant property of cryptocurrency. Once confirmed, the transaction cannot be reversed by any means. Anonymity is another strength of cryptocurrencies thanks to hash addresses. They being fast and global, trading can instantly be done over the network. The security is ensured with public key cryptography system making it impossible to break. Being an irreversible, permission-less and pseudonymous mean of trade, it is a menace to the control of financial authorities over the monetary transactions of public. 
+
+THE MARKET IS MASSIVE
+
+Cryptocurrencies are predominantly used outside the current banking system, more often in online transactions. This alternative method of trade contemporary has a distinctive potential to challenge the existing system of currency. The total market capitalization of cryptocurrencies as of 2017 is a massive multibillion dollar figure slightly over 100 billion USD! 
+As of 2016, there were around 700 cryptocurrencies in circulation. Yet the market leaders are all early entrants. A particular cryptocurrency gains value as the number of users increase depending on the success of that currency. 
+There is no doubt that cryptocurrency is a fascinating concept which already has the heed of cyber merchants. It is justifiable to foresee the day that cryptocurrencies will become the first choice in real world business is merely around the corner. More the time passes, the better it seems to be captivating.   
+
+"
     },
     {
-      "story": "WALL-E",
+      "story": "-Maneesha Wickramasinghe-                                                  Level-02",
       "year": 2008,
       "rating": 8.4,
       "duration": "98 min",
       "director": "Andrew Stanton",
-      "tagline": "He's got a lot of time on his hands.",
+      "tagline": " Gone are the days when we played military games, pretending to hear each other through intercoms; pushing our earlobes with fingertips and delivering all the messages. It is unimaginable how the world has changed into a place where everything is connected, through the years down the road....",
       "cast": [
         {
           "name": "Ben Burtt"
@@ -415,8 +498,21 @@ To you, I present the century old debate “Are leaders born or made?” What is
           "name": "Jeff Garlin"
         }
       ],
-      "image": "https://jsonparsingdemo-cec5b.firebaseapp.com/jsonData/images/walle.jpg",
-      "detail": "In the distant future, a small waste collecting robot inadvertently embarks on a space journey that will ultimately decide the fate of mankind."
+      "image": "https://https://raw.githubusercontent.com/kalpawijesooriya/aarticals/master/ExpositionIssue12/maneesha.png",
+      "detail": "
+      Gone are the days when we played military games, pretending to hear each other through intercoms; pushing our earlobes with fingertips and delivering all the messages. It is unimaginable how the world has changed into a place where everything is connected, through the years down the road. The world which had computers as big as rooms has now evolved into stage with people who wear personal computers on their bodies. Does it mean that devices could be embedded in the human body in future? Does that ring a bell of childhood intercoms that were previously mentioned? How far would device implanting technology take us? What are the existing facts which prove that implants will take us to a different world? 
+      
+Wearable devices have already become a new fashion in the modern era. In this world where everything is connected, every post-millennial has the perspective, “The more you wear the technology, the more will you become smart”. So it is logically predictable for implanted devices to be the next big bang in technology in the millennium. Microchip implants are available even contemporarily. According to Wikipedia, “human microchip implant is an identifying integrated circuit device or RFID transponder encased in silicate glass and implanted in the body of a human being.” The microchip contains a unique ID number which will be linked to a particular database which may contain personal information, contact information, medical history etc. There are certain hobbyists who have surgically implanted microchips in their hands and use them to access their homes, log on to computers or mobile phones, open secured elevators and doors, print from secured printers and even make payments. Furthermore, an implantable chip known as VeriChip or VeriMed is being used for medical purposes such as storing medical information in case of an emergency. Pacemakers that keep the beat of defective hearts and cochlear implants that ameliorate hearing ability in the differently abled are also presently available.
+At some point in future, GPS-enabled chips could be deployed in the world to detect locations and direction of movement. GPS-enabled chips might lead us to create a considerable number of applications. They will help provide information about what we see and/or where we are. Since all the information about individuals would be stored in databases, only authorized people will get a chance to retrieve data collected through the GPS. It will create great opportunities in finding missing persons; parents might be able to find their missing children, the government, police or other related authorities could use this opportunity to find frauds and detain criminals. 
+Some microchips have been implanted in workers of certain companies allowing the company to keep track of every move the workers make; the authorities have the ability to monitor toilet breaks and working hours of every employee in the company, allows the employees to open doors, use office equipment and appliances such as printers, photocopiers etc. With the advancement of these microchips, it would extend to a wide-ranging payment methodology where workers would be paid according to the number of hours they work, which could be monitored using the microchip, eventually enabling workers to make payments through the implanted microchip itself. Everything will be easier with the furtherance of automatic payments done by microchips. 
+
+Such as microchip implants, neural implants are technological devices that could be placed on the surface of the human brain. Presently, research has found that neural or brain implants could be done to record the activities of the brain. Modern brain implants usually focus on damaged human brains. Those such as deep brain stimulation and Vagus nerve stimulation have already helped mitigate the effects of Parkinson’s disease, clinical depression and epilepsy. Creating interfaces between neural systems and computer chips is yet another application of brain implants. This will create the ability to restore vision, movement and hearing ability of the differently abled. In future, it would be possible to merge human intelligence with software in order to keep pace with the advancements of artificial intelligence; blur the boundaries between human intelligence and digital intelligence and connect them together, making a breakthrough of the capabilities of human beings. The development of these neural implants will help people control particular devices with their brain. This foresees a higher percentage of driverless cars on roads in future. In addition, it will enable disabled people to fully engage with the world, have the ability to control different devices hence, use their teaching and working skills, have endless learning opportunities and use autonomous automobiles. A huge transformation of medicine would probably be done with the development of neural implants. 
+
+It should be mentioned that the smartphone has become an inseparable device which has literally become a part of our own body. Many of the researchers believe that “Phones in our heads” would be the most significant change in the upcoming decade. The Finger Phone is the latest proof that can predict that the concept of “Phones in our heads” would be the world’s next move. It is a wrist band that turns your finger into a phone which uses the vibrations in your body to direct the audio to your ear.  In fact, the first embeddable phone which uses wireless technology is expected to be sold by 2023 according to the proceedings of the world economic forum-2016 held in Davos, Switzerland. It is uncertain if features like text messaging, surfing the internet and swiping through apps would be available in these embeddable phones. Even though their functionality is unforeseeable, they would create great opportunities and challenges for humanity. 
+
+Until now, our online presence has been a projection of ourselves. With wearable techs and implants, real time data from our physical bodies could be augmented to our digital footprint. This will encompass things that could keep track of the human heart rate, glucose levels, blood pressure and other physical figures. Huge amounts of data could be accumulated through these implants, personalized experiences could be collected using wearable techs. Using privacy settings, those experiences and real time data can be manipulated according to the sharing outlook of oneself. This advancement might change the configuration setting of “being online” too. 
+The applications of human implants and wearable devices do sound like science fiction or a fantasy, but, could we neglect all the facts which illustrate the possibilities of imagining where the world is headed to? Unfailingly, this will be the most futuristic ‘eureka’ moment that humankind would ever witness. Once the developments and the legislations are done, the world will be shaken up. Even if this is a few years away, time will change behaviors, cultures, norms and many more things for human kind, starting at least with the most powerful tycoons in the world. 
+"
     },
     {
       "story": "Saving Private Ryan",
