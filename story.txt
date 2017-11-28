@@ -45,7 +45,7 @@ Starting something new is not easy. But don’t forget! We all have a capacity t
    "
     },
     {
-      "story": "Interstellar",
+      "story": "Pramodi Herath                                                                Level-01",
       "year": 2014,
       "rating": 8.7,
       "duration": "169 min",
@@ -113,7 +113,8 @@ Apart from the methods cited above, there are plenty of other highly advanced ma
       "rating": 4.0,
       "duration": "100 min",
       "director": "Josh Trank",
-      "tagline": "Change is coming.",
+      "tagline": "
+In early 2016, we saw the introduction of the first wave of artificial intelligence technology in the form of ‘Chatbots’. ‘Internet bots’ or ‘Chatbots’ or simply, ‘Bots’ are software applications which perform automated tasks like ordering pizza, setting alarm, booking flight tickets etc....",
       "cast": [
         {
           "name": "Miles Teller"
@@ -125,8 +126,43 @@ Apart from the methods cited above, there are plenty of other highly advanced ma
           "name": "Michael B. Jordan"
         }
       ],
-      "image": "https://wallpaperbrowse.com/media/images/_89586487_istock_000063166549_medium.jpg",
-      "detail": "Four young outsiders teleport to an alternate and dangerous universe which alters their physical form in shocking ways. The four must learn to harness their new abilities and work together to save Earth from a former friend turned enemy."
+      "image": "https://raw.githubusercontent.com/kalpawijesooriya/aarticals/master/ExpositionIssue12/aneesha.png",
+      "detail": "
+What is AI?
+      
+According to Wikipedia, Artificial Intelligence (AI) is, intelligence exhibited by machines. AI has become a common concept since the early 21st century. Ava in Ex-Machina (2015), Jarvis in Iron Man (2008) and Agent Smith in Matrix (1999) strongly reveal the expectations of mankind regarding AI; the overall research goal of which, is to make machines and computers think. The general problem of simulating (or creating) intelligence has been broken down into sub-problems.
+
+What are ‘Bots’?
+
+In early 2016, we saw the introduction of the first wave of artificial intelligence technology in the form of ‘Chatbots’.  ‘Internet bots’ or ‘Chatbots’ or simply, ‘Bots’ are software applications which perform automated tasks like ordering pizza, setting alarm, booking flight tickets etc. 
+The concept of computers communicating like humans was contemplated in the 1950s and ’60s with contributions from computer scientists like Alan Turing, who developed the Turing Test to test a computer’s ability to display intelligent behavior equivalent to or indistinguishable from that of a human. In 1996 Joseph Weizenbaum invented Eliza, the first bot which could be introduced as a psychotherapist who talks / chats with the client and diagnoses psychological matters based on the client’s answers and takes it even further, by asking more questions based on previous answers.
+The bots we talk about nowadays are, most likely, virtual personal assistants. ‘Siri’ and ‘Cortana’ are the common world examples for modern bots, who can perform some predefined tasks repetitively, to make your day -to-day life easier. As technology grows at a faster rate than that at which time passes, we would be able to find chat bots in many messaging apps including Facebook, Whatsapp, Kik, Skype and Telegram, with the improvement of artificial intelligent technologies. 
+
+
+
+What do bots do?
+
+Though bots are not smart as Jarvis in iron man yet, apps are being replaced by bots, revolutionarily. The most common use of bots, as at present, is in web spidering. The bots used for this are called web crawlers; they systematically browse the internet and update web sites’ contents or indices of web content. They could not only maintain a repository of websites, but also copy or browse websites at a speed that is 100 times faster than that at which a human being could do the same. Searching and storing starts with the set of URLs supplied by the user and could be downloaded in a limited number of websites, in a given time. Servers that host websites show different counteractions towards bots; Servers may choose to outline rules on the behaviour of internet bots by implementing a robots.txt file which contains simple texts that state the rules governing a bot's behaviour on that specific server. 
+Though some web crawler bots like ‘Search Engine Bots’ have ethical manners, there are malicious bots that could perform harsh attacks. Certain bots could be handled by various customer service requests; Taco Bell, an American fast-food chain has introduced a chat bot through which customers could order tacos and pay through textual conversations. A ‘Knowbot’ could automatically collect information from websites, on behalf of the user, to meet certain user requirements. A ‘Shopbot’ program scans ‘visited’ online shopping sites and seeks products that fit the price the user searches for. 
+“Chatbots” used in messaging apps, supply internet based services via Instant Messaging (IM) and Internet Relay Chat (IRC) while allowing users to ask questions using simple plain language formats, and answering back simply. CNN, Shop Spring, Health Tap in Facebook and Sensay, TheScore, Vine in kik and the Amazon Bot, National Geographic Bot in telegram are newly developed chatbots of messaging apps. Chatbots like OpenSesame observe user patterns in navigating a web sites and customizes the site for the user. Bots like ‘X.ai’ could help in scheduling and managing user’s meetings by adding bots into email trends, allowing to browse chat conversations and emails.
+
+Creating your own Facebook chatbot
+
+Although it has been only a short time since chatbot applications came into the industry, there are plenty of bot platforms on which you could develop your own chatbots, to meet your requirements. Making your own chatbot is proven to be very useful for people who own service based businesses. Chatbots are services that mimic conversations with people, to interact with customers, helping monetize social media accounts and instant messaging profiles. Simply put, you give common language understanding to your Facebook Messenger application by converting it to an artificial intelligence bot. Chatbots are increasingly becoming an essential part of digital marketing strategies. Tools like Chatfuel, Botsify, and OnSequel will let you create a chatbot without letting you do complicated programming. The only requirement, in fact, is to have a Facebook account and/or your own Facebook page, which could be easily and freely fulfilled. Chatbots answer questions asked by the customer using keywords the developer has supplied before. 
+ 
+
+LUIS.ai
+
+While most bot builder platforms allow users to implement chatbots that could be used inside another messenger application, ‘LUIS’ – Language Understanding Intelligent Service, which is a part of Microsoft’s Cognitive Services Suite, allows you to build your own bot applications. After using hundreds of different applications to fulfil daily activities, people would be fed up with user interfaces, commanding buttons and of having to follow several steps to accomplish very simple activities like ordering a pizza, booking a ticket etc. LUIS allows you to integrate your understanding of natural languages to your application and make you feel as if you are chatting with someone rather than commanding through an application or interface. For example, you could simply type “I would like to book a holiday to Paris” and then, all the processes would happen, eliminating the need of having to search the web or log into different apps.
+LUIS enables developers to build smart apps which could receive commands through natural languages and react accordingly. Illustrating on “Cutting Edge Machine Learning” from Microsoft Research, there are many out of the box, pre-built LUIS apps and models from Bing and Cortana, which could be used if needs are met. In addition to this, there is an option to develop your own LUIS app with specialized requirements around your own domain. The output of the LUIS app is a web service with an http endpoint. It is required to follow a step by step process in your LUIS.ai account, through which you would state your intents for the app (ex: booking tickets), the entities or key data related to your intents (ex: travel class) and utterances or sentences that the user may input to the system, (ex: please book me a ticket in economy class) to enhance the language learning experience of your app.  After testing and publishing, you would get a link of the code for further implementation. 
+ 
+Does the future belong to Bot?
+
+A new era of conversational interfaces has begun with the introduction of chatbots to the society. Microsoft CEO Satya Nadella says that the future belongs to bots. The app boom is over. There are more than 4.2 million applications available for ios and android. “Within a few years, bot will be the fabric of everything”, says Phil Libin, The Managing Director at General Catalyst. 
+Bots are becoming more common in messaging apps with which we spend a pretty long time nowadays. It is not surprising to find Microsoft introducing ‘Murphybot’ to Skype and Apple is trying to develop siri much further by giving it lots of day to day functionalities and voice recognition abilities, behind the scene. 
+Yes, bots could be the future. Bots could bring to you, a future that defies googling, launching apps, searching and clicking and swiping; a future which does not need screens or pointing devices to navigate. Bots will do it all. We could look forward to see chatbot making its entrance to many more business models through which we could order pizza without having any time wasted over telephone conversations. Yes, bots will make living more comfortable. The day in which you would install your own “Jarvis” is not far away.
+
+"
     },
 	{
       "story": "The Dark Knight",
