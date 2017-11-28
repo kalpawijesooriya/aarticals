@@ -285,12 +285,12 @@ Mere Exposure Effect
 "
     },
     {
-      "story": "Life Is Beautiful",
+      "story": "-Thilini Weerashinghe-",
       "year": 1997,
       "rating": 8.6,
       "duration": "116 min",
       "director": "Roberto Benigni",
-      "tagline": "An unforgettable fable that proves love, family and imagination conquer all.",
+      "tagline": "“Have you ever thought about how a real leader behaves? Qualities of the so called “leaders” in our society undoubtedly mare our idea of real leadership while some of them inspire us to read about the vision behind a true leader, and the others are busy giving new dimensions to our image of a leader....",
       "cast": [
         {
           "name": "Roberto Benigni"
@@ -302,8 +302,52 @@ Mere Exposure Effect
           "name": "Giorgio Cantarini"
         }
       ],
-      "image": "https://jsonparsingdemo-cec5b.firebaseapp.com/jsonData/images/life_is_beautiful.jpg",
-      "detail": "When an open-minded Jewish librarian and his son become victims of the Holocaust, he uses a perfect mixture of will, humor and imagination to protect his son from the dangers around their camp."
+      "image": "https://raw.githubusercontent.com/kalpawijesooriya/aarticals/master/ExpositionIssue12/thilini.png",
+      "detail": "
+ Does the world need real leaders???
+
+“The leadership instinct you were born with, is the backbone. You develop the funny bone and wish bone that go with it” 
+– Elaine Agather
+
+Have you ever thought about how a real leader behaves? Qualities of the so called “leaders” in our society undoubtedly mare our idea of real leadership while some of them inspire us to read about the vision behind a true leader, and the others are busy giving new dimensions to our image of a leader.
+Mahatma Gandhi played a charismatic leader’s role that Nelson Mandela and Barak Obama are looked up to, owing to the great leadership “traits” they embodied. “Is it possible to inculcate a passion for leadership?”. “Are Leaders born or made?” These questions have been denied conclusive answers, and are therefore, found to make “leadership” a little more mysterious. Recall a time you saw a fellow pedestrian meet with an accident; how many by-standers and how many volunteers to take the injured to a hospital, do you remember seeing? Do you find yourself capable of motivating others to get the needful done? How many of us make use of the opportunities that could put our leadership skills to test?  And how many of us simply watch them pass just because we can’t exert ourselves? Could you think beyond your boundaries?
+“By definition, “leadership” is the ability to influence others’ behavior with or without authority.”
+-Peter De Lisle
+“Leaders become great not because of their power, but because of their ability to empower others.”
+                                                                                                                                	-John Maxwell
+
+Are leaders born or made?
+
+Great Man theory and Trait theory suggest that people inherit some qualities and traits from their preceding generations that make them better suited to display leadership qualities while some believe the fact that any person could train himself or herself to develop leadership qualities.
+
+Leaders are born not made
+
+“To suggest that leaders do not enter the world with extraordinary endowment is to imply that people enter the world with equal abilities, with equal talents.” (Thomas Carlyle 1840)
+Born or natural leaders are different from trained or artificial leaders. 30% of the characteristics in a person are predisposed; they are the leadership qualities a person is said to be “born with”. Almost all the remarkable leaders have a marvelous and great history regarding their performance. It is said that all kings should be leaders. However, all the leaders were not kings. In fact, some kings unfortunately failed to rule the country as illustrated by history, clearly because their leadership skills were not up to the expected level. Even though they assumed kingship, they had to step down in instances where the demanded qualities conflicted with the displayed qualities.  
+Mahatma Gandhi and Nelson Mandela are two examples for leaders who led by taking risks. Ordinary people would obviously not be able manage such unwieldly risks or challenges. It is the passion to believe in goals that made them be real fuglemen among the ordinary.
+If leaders cannot be made, what is the point of studying leadership and management? We are forced to look into ourselves by learning leadership, and trying to recognize the real leader inside us. 
+Is it possible to build a leader after birth?
+
+Leaders are made, not born
+
+According to the behavioral theory, people could be made leaders through a process of teaching, learning and observation. Leadership requires a set of skills that can be learned by training, perception, practice and experiences. 
+School leavers are guided to be leaders by Worldwide Universities and Higher Education Institutes. They try to give a birth to real leaders by providing many opportunities to display and develop leadership skills. Learning leadership in life is a lifelong process. Good leaders seek development opportunities that will help them learn new skills.
+Leadership can be learned by anyone with an idea about basics; that’s the good news. The bad news is the fact that implementing theories is the hardest part of education. The qualities such as effective communication, listening to others and immediate actions to issues are enhanced leadership qualities that can be learnt or practiced. Some researches shed light on concepts which suggest that extroversion is frequently associated with obtaining and managing leadership positions and effectiveness. Leaders can inherently take risks; not only that, they are also assertive and are required to be SMART to analyze situations and problems and to figure out courses of action. So, intelligence to understand social situations and processes is the key component of real leadership. Manipulating a gun and shooting are not enough, winning depends on how close you could get to the target.  
+
+Have you ever faced a situation where you were given some team work in your school, university or work place and the task got completed without the appointment of a leader? Someone comes out with leadership qualities. He or she communicates and moves with others very effectively. Leaders divide team members for tasks, and help them to do it efficiently. They understand the scenario first and analyze it to come up with the best solution by team building. Getting work done, by influencing others in an effective manner is the goal or objective of a leader.
+
+Do we really have leaders in Sri Lanka? Leaders are among us, but they should be in the right place at the right time. You may be a leader, but it is indispensable that you be in a position that encourages and facilitates the growth of your skills. We see a need for real leaders in organizations, in industries, in the society, in counties and in the world.
+Not everyone could be real leaders just like everyone cannot be good actors. All the books which present theories about leadership, classes, education and training cannot transform a follower into a leader. Great leaders are passionate about what they do, live with integrity, led by example, develop a winning strategy, are experts in great team building and inspire followers to greatness. They can see the big picture and work towards the goal they build.
+As Sri Lankans we know that many politicians are stepping forward to rule the country. Addressing audiences and expressing their perceptions are nothing compared to taking actions at the right time. Citizens face many critical circumstances due to the lack of real leaders. Leaders who are only denominatives do not focus on challenges and the difficulties of populace. They appease situations after an issue arises. To be frank, it’s hard to identify a real leader to rule the county at present. Leaders should not be puppets of others. Not only should they be capable enough to be independent but also be able to manipulate authority in a correct manner. If a person manipulates his or her power incorrectly or beyond the boundary, that suggests the fact that they are not leaders, but dictators. 
+Leadership is always a choice among a crowd. A leader is a person who comes forward to take the challenge. If a leader rises up from the community, then that person has already become a leader to begin with. If someone has had the best training, education, social conditions, behaviors and opportunities, but rather prefers to be hidden in the crowd, unwilling to participate, he or she is not a leader.
+
+Leadership style is not a static concept; it varies with many factors. Experience of a leader is the weapon that helps him or her be a great leader. 
+
+To you, I present the century old debate “Are leaders born or made?” What is your take on this? Researchers have found that people who are more curious and ambitious have a great strength to be leaders. Ask yourself! You are either a leader or a follower. You cannot be both in one given context. Are you willing to be a leader or not?  The choice is yours.
+                                                                                                             
+
+
+"
     },
     {
       "story": "Gladiator",
