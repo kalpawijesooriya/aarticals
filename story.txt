@@ -50,7 +50,7 @@ Starting something new is not easy. But don’t forget! We all have a capacity t
       "rating": 8.7,
       "duration": "169 min",
       "director": "Christopher Nolan",
-      "tagline": "Mankind was born on Earth. It was never meant to die here.",
+      "tagline": "“Technology” has an interminably evolving quality, irrespective of the situation of external factors. In a technological perspective, “manufacturing” is known as the process which transforms raw material, to a final product. “Manufacturing” came into being ever since the human brain proved its potential to make things happen....",
       "cast": [
         {
           "name": "Matthew McConaughey"
