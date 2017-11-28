@@ -367,7 +367,7 @@ To you, I present the century old debate “Are leaders born or made?” What is
           "name": "Matthew Broderick"
         }
       ],
-      "image": "https://https://raw.githubusercontent.com/kalpawijesooriya/aarticals/master/ExpositionIssue12/thisula.png",
+      "image": "https://raw.githubusercontent.com/kalpawijesooriya/aarticals/master/ExpositionIssue12/thisula.png",
       "detail": " 
 Recall playing games and earning digital money online? The MMO gamers surely do. Despite their intrinsic value, the demand for them is typically limited to other gamers. But have you ever imagined a digital currency, demonstrating a global demand as a medium for exchange? It is not future. Cryptocurrencies are already here. 
 Cryptocurrencies presently have become a phenomenon known to many people. While some still find it convoluted and not easily understood, most of the global banks and companies are well conversant with its presence and importance. 
