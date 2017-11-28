@@ -108,7 +108,7 @@ Apart from the methods cited above, there are plenty of other highly advanced ma
 "
     },
 	{
-      "story": "Fantastic Four",
+      "story": "Aneesha Fernando                                                             Level-02",
       "year": 2015,
       "rating": 4.0,
       "duration": "100 min",
@@ -165,12 +165,12 @@ Yes, bots could be the future. Bots could bring to you, a future that defies goo
 "
     },
 	{
-      "story": "The Dark Knight",
+      "story": "Radika Gunawardhana                                                                 Level-02",
       "year": 2008,
       "rating": 9.0,
       "duration": "152 min",
       "director": "Christopher Nolan",
-      "tagline": "Why So Serious?",
+      "tagline": "The main issues in Supply Chain Management are; the management of material and information flows added to the management of relationships. A successful supply chain results only from the successful collaboration of the above mentioned aspects. Despite being rapidly developing.....",
       "cast": [
         {
           "name": "Christian Bale"
@@ -182,8 +182,33 @@ Yes, bots could be the future. Bots could bring to you, a future that defies goo
           "name": "Aaron Eckhart"
         }
       ],
-      "image": "https://wallpaperbrowse.com/media/images/potd-squirrel_3594124k.jpg",
-      "detail": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, the caped crusader must come to terms with one of the greatest psychological tests of his ability to fight injustice."
+      "image": "https://raw.githubusercontent.com/kalpawijesooriya/aarticals/master/ExpositionIssue12/radika.png",
+      "detail": "
+Supply Chain Management (SCM) & Cost Management (CM) are two leading topics on the daily agenda of business practitioners and academic researchers. 
+
+The main issues in Supply Chain Management are; the management of material and information flows added to the management of relationships. A successful supply chain results only from the successful collaboration of the above mentioned aspects. Despite being rapidly developing; Supply Chain Management is not limited to a certain theory or practice. Hence, only a few approaches exist regarding how cost management in supply chain could be carried out successfully and efficiently.
+ 
+Transaction Cost Analysis (TCA), Just-In-Time (JIT), Material Requirement Planning (MRP), Performance Information Procurement System (PIPS) are a few tools that could be utilized to manage cost in supply chains. Approaches such as Electronic Data Interchange (EDI) assist to reduce costs by changing to a customer centric approach where Activity-Based Costing assists in reducing costs and improving service levels. Virtual Enterprises help non-hierarchical production networks join forces between SMEs for improved order fulfillment and costing. Internet Technology in Purchasing helps to reduce purchasing costs for retailers. Integrating Transaction Costs would be able to introduce an analytical level to cost management systems. Cost management tools such as Target Costing, JIT and TQM, Life-Cycle Costing and continuous improvement assisted in cost planning, inventory reduction, cycle time reduction, improved customer satisfaction leading to lower returns and warranty costs, proactive management of quality-related costs extend cost analysis across the supply chains.
+
+Cross –Docking is s a practice in logistics where materials are unloaded from an incoming semi-trailer truck and loaded directly into outbound trucks or trailers, with little or no storage in between. Walmart transmits Point of Sale (POS) information to suppliers to keep them informed about sales activities and trends. Suppliers are instructed to pack orders, therefore enabling products to be readily cross docked at Walmart’s Distribution Centers. There are limitations on Cross Docking strategy as well. This is inappropriate for bulky, slow moving products and products that have low value or long lead times. Cross Docking expedite customer orders, reduce reliance on inventory buffers and promote a flow-through supply-chain pipeline. 
+
+China occupies a prominent place in SCM field. Statistical data in 2017 show Bestway (Hong Kong) International, BOE Technology Group Co. Ltd, Huawei Technologies Co. Ltd, Jiangxi Black Cat Carbon Black Co Ltd, Lenovo Group, Rong Hua (Qing Yuan) Offset Printing as the top rated Chinese suppliers. It is elaborated that they have achieved this position with the help of new Supply Chain Management Software Systems (SCMS) such as Fishbowl, Qstrat, Uroute, Snap Fulfil, Ramp Systems, Procurify, eBid Systems, Made4net, Jda, 3PL Central and many more. 
+
+SCMS often include forecasting, thus they balance the disparity between supply and demand by enhancing business processes. Algorithms and consumption analysis are also being used to efficiently plan future needs. SCMS also include integration technology that allow organizations to trade with supply chain parties electronically. Certain programs concentrate on business intelligence while other programs focus on inventory control or transportation management. Due to the increased efficiency and reduced labour costs caused by SCMS, cost burden of organizations could be reduced. In addition, many of the intelligence features are specifically designed to identify cost waste and its elimination thereof. 
+
+Trend analysis and business intelligence features help control costs and improve profitability in the industrial sector by identifying products that perform steadily and guiding the users to meet market demand. While Supply chain solutions do come with a price, usually, a proper implementation will lead to a calculable return on investment (Profit) over the period. Since customers always value a fast service, speed is a very important factor to be considered for the success of any business. Apple is the company which owns the most agile supply chain. One of the main concepts that Steve Jobs followed was “Customer comes first, cost cutting comes second; Cutting costs will be in vain, if the customer is not satisfied.” As the company Amazon which owns one of the largest supply chain says, “Put yourself in customers’ shoes”. The main thing that has to be done before making changes in supply chains is to analyze and see customers’ reactions.
+SCM systems aid shipping to be quick and accurate, by informing whether it’s a small parcel or larger bulk order. Speed and accuracy are key factors in organizational success and they help to keep shipping options in line with the demands of the marketplace, readjusting supply chains to meet customer preferences. 
+By space utilization and maintaining an efficient storage strategy, we can reduce the cost that incur in supply process and time taken to find and pull items whenever needed. In addition, it will cut the costs of paying the personnel appointed to search for stored items. You may find if you pay too much for space and if you’re using the storage space effectively, by conducting an analysis.
+It is required by companies to manage their inventories in a way that minimizes holding costs while providing enough flexibility to meet customer demands. Supply Chain Management Systems have inventory buffer levels and pre-order quantity levels which are obtained after careful analysis of historical trends. So, it is vital to have at least one person to manage the supply chain, even though the business is relatively small. Even if this person simply tracks the work of your managers and keeps them in communication with each other, you will be able to spot potential problems before they arise and prevent bottlenecks. Setting performance benchmarks for each component of your supply chain will also help you spot the potential hiccups early enough to address them. 
+Depending on one supplier could leave you with costly delays in receiving products. However, it will protect you from spending money for less satisfactory service and will be a reason for the elimination for your orders. So, always find several suppliers who can compete on price and if one supplier is out, another may have the items that you require. 
+As a result of ordering items earlier, they will be more likely to get lost or damaged and also, additional warehouse costs might incur. Thus, the items can be ordered according to the period you need them. The time taken to transport the supplies from where you receive them to where you use/store them, needs to be reduced. Additionally, there are certain things that have to be examined such as fluctuation of customer demand to check whether current ordering system matches the demand patterns. Supplies have to be ordered based on the most recent evaluation. Since evaluating the fluctuation of customer demand is costly, ordering has to be done with what is really essential on hand. However, having a safety stock might help when assumptions go wrong or when there are sudden changes in demand.
+If the company does not practice a proper approval process, unnecessary things might be ordered unintentionally. This can also happen when an individual takes the decisions alone. Furthermore, over-ordering might happen if the business is using multiple people filling out requisition, multiple software and paper checklist.                                                                                                                                                                                       
+The profit could easily be increased without increasing sales, by reducing supply costs. Breaking the supply chain to its essential elements and narrowing the focus on every phase of the supply chain helps in better management. If your materials arrive on time, your production labour and schedules would be effectively coordinated, your website shopping cart would function smoothly, your inventory process would let you efficiently store and retrieve items and the shipping process would be much more efficient, leading to zero bottlenecks. It means that there will be no idle or extra labour, lost sales or unsatisfied customers. 
+
+Conclusion
+
+Supply Chain Management System is a systematic approach which benefits all the aspects of an organization. A good Supply Chain Management System is more likely to reduce costs and provide a better customer service. Understanding the supply chain provides insights into supplier challenges and capabilities, which can reveal opportunities for value creation and growth by unlocking innovation.
+"
     },
     {
       "story": "The Lord of the Rings: The Return of the King",
