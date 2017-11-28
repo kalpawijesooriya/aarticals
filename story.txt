@@ -350,75 +350,7 @@ To you, I present the century old debate “Are leaders born or made?” What is
 "
     },
     
-    {
-      "story": "-Mevuni Mendis-                                                      Level-02",
-      "year": 2000,
-      "rating": 8.5,
-      "duration": "155 min",
-      "director": "Ridley Scott",
-      "tagline": "  A couple of decades back, a job candidate’s destiny was fully laid upon a strong resume of lengthy pages along with a powerful covering letter; boasting about the abilities and accomplishments of the candidate. Times have changed, technology has evolved, and if you think that your LinkedIn and Facebook......",
-      "cast": [
-        {
-          "name": "Russell Crowe"
-        },
-        {
-          "name": "Joaquin Phoenix"
-        },
-        {
-          "name": "Connie Nielsen"
-        },
-        {
-          "name": "Oliver Reed"
-        },
-        {
-          "name": "Tommy Flanagan"
-        }
-      ],
-      "image": "https://raw.githubusercontent.com/kalpawijesooriya/aarticals/master/ExpositionIssue12/mevuni.png",
-      "detail": "
-      A couple of decades back, a job candidate’s destiny was fully laid upon a strong resume of lengthy pages along with a powerful covering letter; boasting about the abilities and accomplishments of the candidate. Times have changed, technology has evolved, and if you think that your LinkedIn and Facebook accounts will not be stalked by your employer before hiring you up, it is high time for you to update your area of concentration. 
-      
-With the vast emergence of Internet and different kinds of social media applications, offered worldwide, most people are proud holders of at least one social media account. Even though this facilitates a wide area of networking, one should keep in mind that there are both pros and cons in exposing one’s self to the cyberspace. The way you behave online not only affects your personal life but also holds a greater importance in matters related to your career. 
-Online Persona plays a significant role in the current job hiring scenario. According to CareerBuilder’s 2017 Annual Social Media Survey, 60% employers use online screening to research about their job candidates before hiring them. How clean a person’s online portfolio matters as much as how strong his resume is, as it moulds a person’s character, giving a glimpse of how his perception of the world is.
-
-What is Online Persona?
-
-In simple terms, “Online Persona” could be considered as, the way one presents himself in online platforms. Here, a person’s identity can differ from his real name and be anonymous or pseudonymous. However, maintaining a clear online identity has become mandatory, since many employers use this as a method of reference as well as   verification, in employee recruitments. 
-
-Online Reputation Management
-
-“Your brand isn’t what you say it is, it’s what google says it is” says Chris Anderson, one of the most influential American Journalists in the context of digital revolution. A person should be mindful about his or her “online image” and also about what shall be presented when a complete stranger searches the name on a search engine. Observing your own digital footprint and maintaining a powerful online presence can add more colours to your resume, ensuring you having a promising career. The following particulars could be supervised in order to preserve your Internet Identity from being misjudged or misinterpreted.
-1.	Monitoring your Online Identity
-Think from an employer’s perception. Google your name and track down the first suggestions in your search results. If most of them display origins from non-professional sources, it is necessary for you to realize that your online persona needs a touch of updating. Cultivating social screens with professional information about yourself would make it easier for you to build a good impression among the employers even before they recruit you. 
-
-2.	Avoiding controversial behaviour
-
-As we are well aware, people make social media - a platform to freely express their ideas regardless of the nature of the idea. Even though this might earn you a lot of followers, it might also be a hindrance for positive feedback from an employer. 
-Having discriminatory views regarding race, gender and religions, displaying aggressive political behaviour on social media, posting debatable or provocative pictures of yourself such as drinking or using drugs, criticizing previous employers and peers and publicizing confidential information about your previous company could be stated as examples for the subject concerning irresponsible behaviours. 
-Avoiding such circumstances can lead to establishing a positive attitude in the people who view your profile. So, think twice before bursting out every opinion, which rushes to your mind, on social media. Respect other people’s opinions and try to reduce antagonistic behaviours. Use privacy settings appropriately to manage what could be seen by the public and reduce or remove all the content that could form or build a negative impression about any aspect of yourself.
-
-3.	Knowing what is out there before blindly following anything or everything
-
-If you are new to an online platform, rather than mindlessly using it, try to get familiar with its new environment. Observe how experienced users handle the features and use helping tips and guidelines provided by the network itself to associate yourself with the application before actively using it. 
-
-4.	Building up a unique online presence
-
-Having a common name can always lead towards miscommunications. Be aware of who else shares your name, and try to differentiate yourself with your own branding. Rather than leaving chances to be unfortunately mistaken for someone else, distinguish your name by adding a middle name or a chosen area of interest, so that employers can easily identify you. 
-
-Although these actions could reduce the risk of having negative “first impressions” at a job recruitment, it is said that, having a 100% clean online portfolio does not ensure that you are in the safe zone. According to researches, if your online persona is seeming to be “too perfect”, there is a high chance to get accused for removing and editing your portfolios which could lead the employer to suspect if you attempt or wish to hide things from others.
-
-Make the Online Persona, an Asset
-
-"Most workers have some sort of online presence today– and more than half of employers won't hire those without one," says Rosemary Haefner, Chief Human Resources Officer at CareerBuilder. It has become mandatory for a job seeker to maintain professional online profiles when it is clearly evident that the employers trail a candidate’s online personality before recruiting him or her for the job. People can use this for their own advantage in building up a positive picture about themselves.
-Use Social Media as a platform to display your achievements, evidence for professional qualifications and areas of interest. Creating an ‘Electronic Portfolio’ or in other words, a website for your own self is ideal for this purpose. If you enrich your portfolio by constantly updating facts related to your passion to build up a smart career with a constant flow, employers will be able to see a vivid image of your vision for life, and complement you by recruiting you for your dream job. 
-Using your online account as a stage to display your creativity and communication skills is another method of using your persona for your own betterment. Having your own blog that clearly depict the fields of your interest could be used as an effective method to demonstrate your personality in addition to passions beyond professional qualifications.
-Participating in Professional Discussions not only helps you improve your knowledge, it gives you the opportunity to enhance your network with peers who have similar interests. A person is known by the company he keeps; the peers that he or she is associated with, so later on, this recognition may become a positive reference in your job recruitment.
-
-Cultivate your own digital brand
-
-The online platforms you use have the power to build you up or tear you down in the context of your future employer and the like. While focusing on building up a strong resume you should also pay attention to maintain a powerful online identity to support a strong level of candidacy. What you say and do online would unquestionably portray an image of yourself in a stranger’s mind. As with these online platforms, you are the artist, you paint the picture, you choose the details. So, let us not take on to blindness or carelessness. Be smart. Respect others. Keep your profiles clean. The ball is in your court. Let your Online Persona be a blessing in disguise!
-"
-    },
+  
   
     {
       "story": "Saving Private Ryan",
