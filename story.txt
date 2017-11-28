@@ -1,12 +1,12 @@
 {
   "movies": [
     {
-      "story": "Miuli Kalubovila Level-01",
+      "story": "Miuli Kalubovila                                                                 Level-01",
       "year": 2012,
       "rating": 7.8,
       "duration": "141 min",
       "director": "Joss Whedon",
-      "tagline": "A new age begins",
+      "tagline": "Do you ever think about starting your own business someday? Most of us are thinking about getting a white collar job. Is it the thing you really dreamt about? Or you chose that because, it is a secure way of getting a satisfying payment and you don’t have to face a risk....",
       "cast": [
         {
           "name": "Robert Downey Jr."
@@ -18,7 +18,7 @@
           "name": "Mark Ruffalo"
         }
       ],
-      "image": "http://benuka.me/assets/img/slide/1.jpg",
+      "image": "https://raw.githubusercontent.com/kalpawijesooriya/aarticals/master/ExpositionIssue12/miuli.png",
       "detail": "
       Do you ever think about starting your own business someday? Most of us are thinking about getting a white collar job. Is it the thing you really dreamt about? Or you chose that because, it is a secure way of getting a satisfying payment and you don’t have to face a risk. Every one of us has a passion hidden in our soul. There are things we like to do with a great love. Instead of sticking to conventional 9-5, don’t you like to follow that passion and make that dream a reality? If you can turn your skills and hobbies in to money, isn’t it sound amazing? I am going to show you some good reasons why you should start your own business.
 
@@ -65,8 +65,47 @@ Starting something new is not easy. But don’t forget! We all have a capacity t
           "name": "Wes Bentley"
         }
       ],
-      "image": "https://raw.githubusercontent.com/kalpawijesooriya/aarticals/master/ExpositionIssue12/miuli.png",
-      "detail": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival."
+      "image": "https://raw.githubusercontent.com/kalpawijesooriya/aarticals/master/ExpositionIssue12/pramodi.png",
+      "detail": " 
+“Technology” has an interminably evolving quality, irrespective of the situation of external factors. In a technological perspective, “manufacturing” is known as the process which transforms raw material, to a final product. “Manufacturing” came into being ever since the human brain proved its potential to make things happen. With the evolution of technology, conventional manufacturing processes were rapidly and constantly replaced by advanced manufacturing technologies. The technologies used at present too, will soon be supplanted by even better technologies. The development of technologies will simplify manufacturing process than ever before.
+
+History Timeline
+
+In the early stages of the evolution of technology, which was set in motion through the industrial revolution, manufacturing was done by skilled workers with assistants; the entire process was carried out manually, manufacturing took place mostly in rural households to craft products like furniture, decorative arts, sculptures, clothing, jewelry, food items, household items and tools or even mechanisms like the handmade clockwork movement of a watchmaker. With the onset of the industrial revolution, the humble and unpretentious beginnings of manufacturing was subjected to many abrupt changes, amendments and improvements. 
+
+Machines came to play a major role in manufacturing processes, leading to process automation in the long-run, substituting human undertakings with control systems. The subsequent advancement in the concept of automation, being the introduction of Computer Numerical Control (CNC) Machines which carry out conventional lathe, milling and grinding process by programmed machines, without human intervention after the point of providing the computer code, is preceded the entrance of robotic technology to the manufacturing sector, providing much flexibility for machines than that offered by CNC. 
+Modern-day manufacturing is far beyond just automation, CNC and robotics; it is a combination of highly advanced mechanics, electronics and computer systems which give prominence to material improvement. Modern-day manufacturing consists of managerial aspects in addition to the aforesaid technological facets. Focus of this article is on giving you a glimpse of the “advanced” technologies that use “advanced” raw materials to produce final products.
+
+Automated tape laying
+
+A trend of modern manufacturing processes is to use composites as raw materials. Automated Tape Laying (ATL) is a new manufacturing technology which produces complex parts from rapid deposition of composite, pre-impregnated tapes with either a flat or curved tool. In aircraft construction, tape laying has become a major technology. In the tape laying process, 70 mm to 200 mm wide carbon fiber tapes and composite resins are placed layer-by-layer on a flat support and cut off parallel, at the edges of the work piece. When the edges are complexed, pre-cut tape segments are used, where the tape has to be positioned precisely. This technology has replaced the conventional time-consuming manufacturing process of manual lay-up for large carbon-fiber components which are flat or in simple curves. If an ATL machine is considered, it lays down a wide, single carbon-fiber prepreg tape, where the machine head is used to press the tape against the tool to strengthen the layers of material.
+
+
+Automated fiber placement
+
+Automated Fiber Placement (AFP) is another manufacturing process which deals with carbon fiber-based composite materials and is similar to the ATL process. Automated Fiber Placement (AFP) can be identified as one of the most tech-employing methods for fabricating composite structures. This method is used almost exclusively with continuous fiber reinforced tape, where a robot is used to place composite material and build a structure, one layer at a time. The Processes, altogether, have the ability to produce highly customized parts; since each layer can even be placed at different angles. The use of robotics provides the operator active control over all the critical variables of the process, making the process highly controllable and repeatable.
+
+
+Resin infusion
+
+Resin infusion is a trending and sophisticated technique for producing high performance, zero void composites even on large and/or complicated molds. This process is largely suitable to the manufacture of carbon fiber composites and is widely used by professional manufacturers in the production of components of carbon fiber. In the process of resin infusion, the voids are placed in an evacuated stack of porous material, and are filled with a liquid resin.  When the resin gets solidified, the solid resin binds the assembly of materials into a unified rigid composite.  The reinforcement can be any porous material compatible with the resin.  Typical materials are inorganic fibers (with glass fiber being most common), organic fibers such as flax, or combinations of fibers with other materials such as closed cell foams, balsawood, and honeycomb.  Porous materials can also be infused onto the surfaces of non-porous materials 
+
+Laser ablation
+
+This manufacturing process works by removing the resin from the composite. TEA CO2 laser with a low energy density is used to vaporize the resin. There is no contact during the process in contrast to traditional machining and grinding where fibers may suffer local damage. The exposed fibers are brushed away until the repair is ready for replacement material to be bonded in place. This is a semi-automation of the preparation process, for repairs to of composite parts, where in field capability is present. This manufacturing process has a reduced time and cost with efficient repair and can be used in all composite structures.
+
+Plasma deposition
+
+Plasma deposition is a modern manufacturing process mostly used in aerospace manufacturing where thermal spray techniques allow coating materials to be rapidly deposited onto structures. Coating materials are wire fed and heat is applied up to melting or near melting point and are then accelerated towards the substrate structure. Layers of material are built with multiple passes to achieve the required coating thickness. Controlled coating thickness can be achieved through this process. The Specialty of this process is, the fact that it is highly used in manufacturing titanium parts where conventional manufacturing processes cannot be used.  Material deposition is another advantage of this process. This process is used in aerospace engine blade fabrication and engine blade repairs.
+Image(5JPG)
+
+Rapid prototyping 
+The word rapid prototyping may not be familiar to 3D printing, but 3D printing is a rapid prototyping method after all. Rapid prototyping is a generic term for a number of manufacturing methods. It is an additive manufacturing method where raw materials are added layer by layer, to make the final product. Depending on the material form, rapid prototyping is divided as liquid based, solid based and power based. This manufacturing process is also called layer manufacturing. 
+Image (6.png/ 6-1.jpg)
+Apart from the methods cited above, there are plenty of other highly advanced manufacturing technologies. All these manufacturing methods have come into being with the fusion of the “advancement of technology” with the “advancement of material”. These so called “advanced” technologies will indubitably get replaced in recent future with more advanced ones. This continuous improvement of technology and material would undeniably propel the human race forward, taking them to a whole new level and era of manufacturing and productivity.
+	
+
+"
     },
 	{
       "story": "Fantastic Four",
