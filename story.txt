@@ -1,7 +1,7 @@
 {
   "movies": [
     {
-      "story": "Miuli Kalubovila                                                                 Level-01",
+      "story": "-Miuli Kalubovila-                                                                 Level-01",
       "year": 2012,
       "rating": 7.8,
       "duration": "141 min",
@@ -45,7 +45,7 @@ Starting something new is not easy. But don’t forget! We all have a capacity t
    "
     },
     {
-      "story": "Pramodi Herath                                                                Level-01",
+      "story": "-Pramodi Herath-                                                                Level-01",
       "year": 2014,
       "rating": 8.7,
       "duration": "169 min",
@@ -108,7 +108,7 @@ Apart from the methods cited above, there are plenty of other highly advanced ma
 "
     },
 	{
-      "story": "Aneesha Fernando                                                             Level-02",
+      "story": "-Aneesha Fernando-                                                             Level-02",
       "year": 2015,
       "rating": 4.0,
       "duration": "100 min",
@@ -165,7 +165,7 @@ Yes, bots could be the future. Bots could bring to you, a future that defies goo
 "
     },
 	{
-      "story": "Radika Gunawardhana                                                                 Level-02",
+      "story": "-Radika Gunawardhana-                                                                 Level-02",
       "year": 2008,
       "rating": 9.0,
       "duration": "152 min",
@@ -211,12 +211,12 @@ Supply Chain Management System is a systematic approach which benefits all the a
 "
     },
     {
-      "story": "The Lord of the Rings: The Return of the King",
+      "story": "-Rasithangana Gamage-                                                    Level-02",
       "year": 2003,
       "rating": 8.9,
       "duration": "201 min",
       "director": "Peter Jackson",
-      "tagline": "This Christmas the journey ends.",
+      "tagline": "Think about a situation that you are in a retail shop, and you want to buy a packet of milk powder. On the shelf, there are two milk powder brands called “A” and “B” which have the same product attributes as they have advertised. Which brand would you choose? Suppose you bought “B”.....",
       "cast": [
         {
           "name": "Viggo Mortensen"
@@ -228,8 +228,61 @@ Supply Chain Management System is a systematic approach which benefits all the a
           "name": "Elijah Wood"
         }
       ],
-      "image": "https://jsonparsingdemo-cec5b.firebaseapp.com/jsonData/images/lotr.jpg",
-      "detail": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring."
+      "image": "https://raw.githubusercontent.com/kalpawijesooriya/aarticals/master/ExpositionIssue12/rasitha.png",
+      "detail": "
+
+	Think about a situation that you are in a retail shop, and you want to buy a packet of milk powder. On the shelf, there are two milk powder brands called “A” and “B” which have the same product attributes as they have advertised. Which brand would you choose? Suppose you bought “B”. Why you preferred “B” over “A”. That is where marketing comes into play. May be the packaging has your favorite colors, otherwise, you may love the song that they played in their commercial or your favorite actress may appear in the commercial. Some little facts influence our decision making more than we think. However, “B” has invaded your mind with marketing. 
+
+What is Mind?
+
+	Mind is a wonderful masterpiece of nature. Our behavior, beliefs, decisions, personality and simply everything about our character depends upon how clever we are in controlling our mind. Human mind consists with three conceptual layers. These layers are Conscious mind, Subconscious mind and Unconscious mind. If we consider mind as a computer, Conscious mind is an Input output device. Conscious mind associates with day-to-day activities and it represents our awareness at the present moment. Subconscious mind acts like the RAM of the computer. Subconscious mind is in charge of our recent memories, and is in continuous contact with the resources of the unconscious mind. It is the intermediate between Conscious mind and Unconscious mind. Unconscious mind is like the hard disk of the computer. we take critical decisions based on what stacked in our Unconscious mind. Unconscious mind enriches through the perceptions, cognitions and knowledge we got since the birth. It is the long-term memory we have. From here onward, let’s refer to both subconscious mind and conscious mind as subconscious in order to ease of clarification.  
+
+What is in your mind?
+
+	95% of brain activities are taking place in the subconscious mind. So, the good marketers try to talk with your subconscious and try to keep their message in there. when you are making a decision on buying something, your conscious mind will call the subconscious and recall the senses you had with a particular brand. Think about a commercial that looks silly, but still makes a pleasant feeling in the mind. Ever wondered what they have to do with their brand or product and what is the relationship the advertisement has with the product? while we are bothering about that, the brand has already intruded in to our mind. Keeping something to think is always a good way to sneak in to the subconscious. The commercial made us to think about the brand and somehow, we are obsessed with the brand.
+	  Typical human unknowingly gets attracted to aestheticism such like; Music, Art, Humor and so forth that they stimulate the emotions. If marketer can convey the message with emotions, the chance of remembering the message is high. For example, recall an advertisement we heard in the 90’s. Still some of them we remember not because of the brand or the product, but only because of the song or music that the commercial had. Still we hum that song because we loved it. The advertisement has sneaked the brand in to our mind camouflaged with a song. 
+
+Marketers are hypnotist
+
+	“Nobody reads ads. People read what interests them. Sometimes it’s an ad.”    
+ —Howard Gossage
+	No matter how boring your product looks, it doesn’t mean you can’t tell your story in an interesting way. Making it interesting is a marketer’s job. All depends on how creative they are.
+	We are exposed to hundreds of marketing messages every day, but we are not receptive to all of them. Most of them are ignored, and some are kept in our mind unknowingly. Those are the messages which have interacted with our subconscious. Marketers always want the attention of the audience and want to keep something in the viewer’s mind. In order to achieve that, they use various techniques that are associated with a lot of Social Psychological theories and principles.
+
+Attractive Colors and Packaging
+
+	Our brain processes visuals 60000 times faster than text and 90% of information transferred into brain is visual. In this context, colors are a critical fact than we thought. As the researches driven on color psychology in relation to marketing, consumers spend just 90 seconds to make up their mind on some particular product and 62% to 90% of that decision is influenced by the color of the product. Another study discovered that having an attractive packaging causes to make intense brain activity than having an unattractive packaging. While the unattractive packaging makes active the area of the brain associated with negative emotions, the attractive packaging increases the activities of the area associated with positive emotions.
+
+Reciprocity Principle
+
+	In nature, humans have a trait of giving something back when something is received. When you give away something first for free, if it’s helpful, people feel a real sense of indebtedness towards you. This concept is widely used in marketing. The thing you give, it doesn’t have to be big. Maybe it is just a toothpick! But it will make customers feel good. Being nice to the customer is always good and it will cause to raise the brand loyalty among customers.
+
+Foot-in-the-door technique 
+
+	Get customers to commit to a smaller request first, and then go for the big one. Sure, you may see these kind of advertisements - “Try 30-day free trial” and “Experience the uniqueness, first day is free”. They invite customers to have the experience of their product for free. It lets the customer to understand the value of the product, and if they get satisfied with it, they can purchase the full package. As per the researchers, this technique has 50% rate of success.
+
+Framing effect
+
+	Always try to emphasize the positive side of the product over the drawbacks and shortcomings. How you frame the information you present on your website or in your ads will change the way people react to it. A very slight change in language can have a huge impact on the decision-making process. Suppose you are in a critical illness and doctor recommends a surgery. He says, 
+
+1.	“You have 10% chance of dying after the surgery”
+2.	“You have 90% chance of surviving after the surgery”.
+
+Definitely second one will make you feel better. Because it has framed positively.
+
+Conformity Effect
+
+	Humans are social species. They always worry about what others think. Unintentionally, people try to conform themselves to the way others behave around them. For example, think of a situation where a group of friends are buying ice-cream. All of them prefer chocolate ice cream, and only one wants to buy a vanilla ice-cream. Most probably, that person will change the mind and buy a chocolate ice-cream just as the others because, he doesn’t want to be different. That is the conformity effect.
+Create Scarcity and Urgency
+	“Limited seats available, Reserve your seat now! Only 30 tickets left” these kinds of ads perhaps be familiar to you. Creating scarcity invites people to take quick decisions. It implies “tickets are selling quickly” and makes the audience to think “others are interested in buying, why are you not?”. This type of feeling leads people to buy something (conformity effect). 
+	
+Mere Exposure Effect
+
+	When someone is exposed to the same thing again and again. It will lead them to develop a preference for that thing despite what they thought about it first. This technique is widely used at political campaigns. 
+	These are only a few key principles used in Social Psychology. Psychology and marketing has an unbreakable bond because, marketing is all about delivering messages into human mind and psychology is about understanding behavior of the human mind. In some countries, there is a job title called “Marketing Psychologist”, and they consult marketers with psychological analysis about consumer behavior. That makes sense about the importance of Psychology in marketing.  There are plenty of researches that have been carried out on the intersection between human mind and marketing. That is because, before creating compelling content marketing, it is highly important to learn how marketing would compel the consumer’s mind in the first place.  A marketer can affect consumer decision making, only if he can understand the behavior of consumer’s mind. Learn the art of reading the consumers. 
+
+
+"
     },
     {
       "story": "Life Is Beautiful",
