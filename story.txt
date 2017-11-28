@@ -429,7 +429,7 @@ There is no doubt that cryptocurrency is a fascinating concept which already has
           "name": "Jeff Garlin"
         }
       ],
-      "image": "https://https://raw.githubusercontent.com/kalpawijesooriya/aarticals/master/ExpositionIssue12/maneesha.png",
+      "image": "https://raw.githubusercontent.com/kalpawijesooriya/aarticals/master/ExpositionIssue12/maneesha.png",
       "detail": "
       Gone are the days when we played military games, pretending to hear each other through intercoms; pushing our earlobes with fingertips and delivering all the messages. It is unimaginable how the world has changed into a place where everything is connected, through the years down the road. The world which had computers as big as rooms has now evolved into stage with people who wear personal computers on their bodies. Does it mean that devices could be embedded in the human body in future? Does that ring a bell of childhood intercoms that were previously mentioned? How far would device implanting technology take us? What are the existing facts which prove that implants will take us to a different world? 
       
