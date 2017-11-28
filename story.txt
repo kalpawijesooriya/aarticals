@@ -411,6 +411,7 @@ There is no doubt that cryptocurrency is a fascinating concept which already has
 
 "
     },
+    
      {
       "story": "-Maneesha Wickramasinghe-                                                  Level-02",
       "year": 2008,
@@ -445,7 +446,5 @@ Until now, our online presence has been a projection of ourselves. With wearable
 The applications of human implants and wearable devices do sound like science fiction or a fantasy, but, could we neglect all the facts which illustrate the possibilities of imagining where the world is headed to? Unfailingly, this will be the most futuristic ‘eureka’ moment that humankind would ever witness. Once the developments and the legislations are done, the world will be shaken up. Even if this is a few years away, time will change behaviors, cultures, norms and many more things for human kind, starting at least with the most powerful tycoons in the world. 
 "
     }
-  
-  
   ]
 }
