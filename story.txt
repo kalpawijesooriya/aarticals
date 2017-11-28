@@ -1,7 +1,7 @@
 {
   "movies": [
     {
-      "story": "Avengers",
+      "story": "Miuli Kalubovila Level-01",
       "year": 2012,
       "rating": 7.8,
       "duration": "141 min",
@@ -19,7 +19,30 @@
         }
       ],
       "image": "http://benuka.me/assets/img/slide/1.jpg",
-      "detail": "When Dumindu Stark and Bruce Banner try to jump-start a dormant peacekeeping program called Ultron, things go horribly wrong and it's up to Earth's Mightiest Heroes to stop the villainous Ultron from enacting his terrible plans."
+      "detail": "
+      Do you ever think about starting your own business someday? Most of us are thinking about getting a white collar job. Is it the thing you really dreamt about? Or you chose that because, it is a secure way of getting a satisfying payment and you don’t have to face a risk. Every one of us has a passion hidden in our soul. There are things we like to do with a great love. Instead of sticking to conventional 9-5, don’t you like to follow that passion and make that dream a reality? If you can turn your skills and hobbies in to money, isn’t it sound amazing? I am going to show you some good reasons why you should start your own business.
+
+Why Entrepreneurship? 
+
+Entrepreneurship gives you the chance to pursue your passion. Do what you love and start your business with it. Then you can enjoy your work. You can work according to your own schedule. Initially you will have to work for long hours, but after your business gets established, you get more spare time eventually. You can spend more time with your family and friends. You can set your own deadlines and can create your own environment. You can plan the business as you want.  Before starting the business, you have to study the industry, market, technology and many more related things. It makes you go through a large learning process. Automatically you become a lifelong learner. You get new experiences every day. You get new contacts. You will learn how to embrace the success and also failures. When you are getting successful you get the feeling that you are the one who did that. The pride and the self-confidence begin to develop. It’s a great feeling that one should experience in her/his life time.  
+When you are an entrepreneur, you become a person who makes job opportunities for many more people. Their success becomes your satisfaction. You are the one who creates the path for someone to achieve their dreams. You can learn from the role models in the field and, also can help those who are less experienced in the field. With your establishment, your product or the service also gets branded. You get known for something valuable among the public. You get recognition. Entrepreneurship paves the way to achieve higher financial goals. Through this journey you get a variety of experiences other than the financial benefits than working in a 9-5 office. Someday you will have a great story to tell your children and even the grandchildren. Finally when you own a business, there is something you can pass to your next generation. You can be proud because you are the one who initiate it.
+
+Acquire with Experience
+
+There are some qualities in every successful entrepreneur practices in his/her life. If you want to be a successful entrepreneur, developing those qualities is an essential fact. If you want to wear the crown, then first you have to learn how to bear the crown.
+Successful entrepreneurs always have a burning passion inside them. They do what they love and they love what they do. The effort that they exert to make the business success gives them a joy beyond money. Successful entrepreneurs are not the people who work in a restricted area. They go out and search for new things. They are forced to do so because of the burning curiosity and passion within them. They know what to do next, they focus on making their businesses work. They are disciplined enough to take steps in every single day towards the realization of their objectives. There are lots of opportunities for a business in our surrounding. An Entrepreneur should be open minded to view those opportunities, to grab them and to set their goal. Entrepreneurs should have enough confidence and the determination. They know how to turn their failures into success. They learn from the failures and they consider those failures as opportunities. Successful entrepreneurs always have good communication skills. They know how to market their product. They know how to motivate their employees, which in fact affect directly for the success of the business. They also follow good and strong ethics in their work. Entrepreneurs should have the creativity to do and to think of something innovative. Successful entrepreneurs can predict what the market need in another 20 years. An entrepreneur should have that ability to foresee in their industries and the markets. 
+
+Look before you leap
+
+If you are dreaming about starting your own business, then you have to start from scratch. First you have to choose what you are going to sell; whether it is a product a service. It depends on your choice. That will help you to work with a burning passion. Choose something you can get use of your unique skills. After deciding what you are going to sell, you have to study that particular industry. Study about the technology used, your competitors and what type of customers you will have. Then you get a rough idea about what you should do and how it should be done. This can be done by surfing through the internet, going out and talking to people and reading industry magazines. You should evaluate the market. How urgently people need your product or service, market size, will the product continue to relevant as the time passes and how long it will take to get into the market. This studying and evaluating part is critical. After getting a good knowledge about your industry, it becomes much easier to plan the business and execu
+Mistakes and failures can get minimized by researching more about the market and the industry. Before starting the business, keep a source of cash with you. Find a good team. You will find that there are many people with great talents. Build a good connection with them and always motivate them. Get advices from the expertise in the field. If you want you can get the help of a good mentor. Build contacts with both inside and outside. After having a general idea about the surrounding start to write the business plan and draw a rough sketch of it. Then you can clearly identify your goals and the path to those goals. Most importantly solidify your legal framework. Those are few tips you can follow when starting a new business.
+
+It’s Now or Never
+
+Starting something new is not easy. But don’t forget! We all have a capacity than we think.  We all have a passion for something. Don’t let that passion die. Get it out of your soul and work with all your heart. Take the risk. Life comes only one time. Live it to the fullest. Don’t afraid to do mistakes. Learn from them and climb the ladder of success. 
+“Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do.” —Steve Jobs, Apple Inc. Co-founder, Chairman and CEO
+
+   "
     },
     {
       "story": "Interstellar",
@@ -42,7 +65,7 @@
           "name": "Wes Bentley"
         }
       ],
-      "image": "https://wallpaperbrowse.com/media/images/pictures-19.jpg",
+      "image": "https://raw.githubusercontent.com/kalpawijesooriya/aarticals/master/ExpositionIssue12/miuli.png",
       "detail": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival."
     },
 	{
