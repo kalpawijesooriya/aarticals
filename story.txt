@@ -445,6 +445,88 @@ It should be mentioned that the smartphone has become an inseparable device whic
 Until now, our online presence has been a projection of ourselves. With wearable techs and implants, real time data from our physical bodies could be augmented to our digital footprint. This will encompass things that could keep track of the human heart rate, glucose levels, blood pressure and other physical figures. Huge amounts of data could be accumulated through these implants, personalized experiences could be collected using wearable techs. Using privacy settings, those experiences and real time data can be manipulated according to the sharing outlook of oneself. This advancement might change the configuration setting of “being online” too. 
 The applications of human implants and wearable devices do sound like science fiction or a fantasy, but, could we neglect all the facts which illustrate the possibilities of imagining where the world is headed to? Unfailingly, this will be the most futuristic ‘eureka’ moment that humankind would ever witness. Once the developments and the legislations are done, the world will be shaken up. Even if this is a few years away, time will change behaviors, cultures, norms and many more things for human kind, starting at least with the most powerful tycoons in the world. 
 "
-    }
+    },
+     {
+      "story": "Saving Private Ryan",
+      "year": 1998,
+      "rating": 8.6,
+      "duration": "169 min",
+      "director": "Steven Spielberg",
+      "tagline": "There was only one man left in the family, and the mission was to save him",
+      "cast": [
+        {
+          "name": "Tom Hanks"
+        },
+        {
+          "name": "Matt Damon"
+        }
+      ],
+      "image": "https://jsonparsingdemo-cec5b.firebaseapp.com/jsonData/images/saving_private_ryan.jpg",
+      "detail": "
+Ecstasy in its dictionary meaning refers to ‘an overwhelming feeling of great happiness or joyful excitement/an emotional or trance-like state, originally one involving an experience of mystic self-transcendence’. 
+
+Sounds familiar?
+
+This is something we all have experienced at least once in our lives after accomplishing a given task or winning a challenge. Most of the time this is a common feeling felt by the people who are engaged in playing games as once they achieve a task they feel motivated and this motivation is continued by leveling them up within the stages of the game and through the rewards given. 
+
+Dope Souls!
+
+The real cause for this feeling is a chemical which is synthesized in our brains called Dopamine giving oneself an emotional trance-like state which keeps him or her attached to continue the work until they successfully complete it. This also modulates reward prediction adjustments simulating the desire to do the activity over and over again which is called the ‘Dopamine drip’.
+The biggest challenge in HR	
+Whilst the work force of the world is taking up by the Millennial or the generation Z, the biggest challenging question human resource managing sector faces is how to keep people engaged in their work effectively with the booze of social media addiction.
+A research carried out by Gallup Research center revealed that less than 2 in 10 employees are actually ‘engaged’ in their jobs whereas the remaining are either ‘not engaged’ or ‘actively disengaged’ which is fierce.
+This is why the understanding of “human emotional behavior” is more important rather than measuring the physical factors by using traditional tactical tools to understand human behavior, and to identify their capacities.
+
+Psychographics over Demographics
+
+Demographics are what we generally use to identify human behavior through factual information such as gender, age, income etc., whereas psychographics use subjective measures such as personal traits, attitudes, and choices etc. to identify human nature. This is more effective in social research in analyzing a community.
+During a research carried out by ‘World Winner’, an online gaming platform provider which involved more than 500 online players; they found out that 80% of them depend on games at working hours to stay focused. This in return implies that there is a faulty somewhere in recognizing the actual needs and behaviors of employees. 
+What if we can keep employees engaged in the work with the ecstatic feeling felt by themselves through their own actions?
+
+Gamification at work
+
+The concept ‘Gamification’ has been roaming around the management fad for many years with some hype surrounding in it, but has not evolved much in the world of Human Resource Management yet. Many mistake this as gaming or having fun at workplace, but this is much more than just a game.
+Simply, the overall concept of Gamification is making use of the gaming designs, game mechanics and its thinking in non-gaming scenarios like; workplace engagement and e-learning to keep users engage in the work through motivation and reward behavior.
+A neatly designed gaming system is capable of tracking the players’ activities, weaknesses and strengths by displaying them through various visual aids such as leader boards, points, badges etc. In order to achieve these, there are many gaming elements which can be used such as quests, avatars, progression levels, social graphs and many more.
+The history of Gamification runs for back to 90s. 
+Among the first concepts developed, one which became very popular was the introduction of Mozilla open source badge kit, with digital badges where they allow users to record their achievements, view their failures and track their interaction in specific communities in various e-learning environments. This supported the learning environments by motivation and signaling achievements enabling them to get recognition, to verify skills and to share them across the web.
+Apart from the badging systems, there are many other ways which can be linked to the gamification process through gaming techniques such as a ‘Points System’ which shows the points that should be collected by the player to further the levels and ‘Leader Boards’ which is a representation of the database of scored points. It allows the player to view the scores later and compare them with the other players. Leaderboard defines what a score means in a game.
+
+Your game your way
+
+A gamified workspace will utilize the maximum of the competitive plunge which employees have within themselves while they become more engaged through the sense of achievement. It will even increase the willingness to achieve new levels while helping them to stay motivated. Therefore, this would be a shift for the employees from their regular monotonous working schedule to give them an extra boost to their motivation and to keep them engaged.
+Also, this would change the fundamental ways of how a business is done in evaluating, promoting, recruiting and firing employees etc.
+When we consider the gaming process, there are clearly visible steps to be seen on accomplishing the mission of a player’s journey. They are;
+	Discovery
+	   Onboarding
+	       Habit building
+		 Mastery
+These very same steps in gaming could be used in organizations for better performance.
+
+Why game mechanics …
+Training
+The success of gamification in e-learning environments has already been proven.  Therefore, organizations can use gamification processes to offer different personal and professional development routes integrated with other aspects of work.
+Recognition
+The status at a workplace is much important to an employee just as much as the financial rewards that he or she receives. The feeling that they are doing a good job at the workplace and the recognition by the senior management is an add-on to keep them going.  What is best about gamification is that this happens automatically allowing friendly competition among the employees while letting them identify who has performed well and who has drifted off through leaderboards, badges etc.
+
+Motivation
+
+A neatly designed system will allow everyone to view feedback, personal benchmarking, get recognized within the community and communication among them while enjoying the possibility to improve.
+Feedback
+Taking or giving feedback will no longer depend upon the time or the mood of a person. The results will be real, and hard data will help the organization to picture their accurate performance. Leaderboards will allow the users to understand what they need to do for the improvement.
+
+Mastery
+
+One main reason why people always love playing games is the chance given to an individual to develop a certain skill which is also one of the important aspects at the workplace. Gamification allows an employee to learn new things and to experience how things which were challenging before can be done easily with flow.
+
+In the context of the business environment, Amazon (Sales ranks), LinkedIn (profile strength progress bar & endorsements), Stack Overflow community (reputation points) and many web-based platforms have already adopted this new outlook, enabling them to change people’s behavior and pattern of thinking in purchasing, bidding, giving remarks, endorsing for skills and sharing information.
+A good platform should not make the user feel like it is mandatory. Therefore, this will have to be planned carefully to get the desired results. Also, adopting this must be a part of larger strategy as it will influence the culture and performance management of an organization.
+There is a plethora of ways how game techniques can be used with Gamification at the workplace to give extra boost to the degree of engagement and motivation of employees which will be the next revolution in the field of human resource management.
+Why not try to add a bit of sprinkles on your valued asset? I’m ready to earn my next badge. Are you?
+
+“We are what we repeatedly do. Excellence then, is not an act but a habit.”
+                                                                                      -Aristotle.
+"
+    }   
   ]
 }
