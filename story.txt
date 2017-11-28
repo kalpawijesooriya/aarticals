@@ -480,40 +480,7 @@ There is no doubt that cryptocurrency is a fascinating concept which already has
 
 "
     },
-    {
-      "story": "-Maneesha Wickramasinghe-                                                  Level-02",
-      "year": 2008,
-      "rating": 8.4,
-      "duration": "98 min",
-      "director": "Andrew Stanton",
-      "tagline": " Gone are the days when we played military games, pretending to hear each other through intercoms; pushing our earlobes with fingertips and delivering all the messages. It is unimaginable how the world has changed into a place where everything is connected, through the years down the road....",
-      "cast": [
-        {
-          "name": "Ben Burtt"
-        },
-        {
-          "name": "Elissa Knight"
-        },
-        {
-          "name": "Jeff Garlin"
-        }
-      ],
-      "image": "https://https://raw.githubusercontent.com/kalpawijesooriya/aarticals/master/ExpositionIssue12/maneesha.png",
-      "detail": "
-      Gone are the days when we played military games, pretending to hear each other through intercoms; pushing our earlobes with fingertips and delivering all the messages. It is unimaginable how the world has changed into a place where everything is connected, through the years down the road. The world which had computers as big as rooms has now evolved into stage with people who wear personal computers on their bodies. Does it mean that devices could be embedded in the human body in future? Does that ring a bell of childhood intercoms that were previously mentioned? How far would device implanting technology take us? What are the existing facts which prove that implants will take us to a different world? 
-      
-Wearable devices have already become a new fashion in the modern era. In this world where everything is connected, every post-millennial has the perspective, “The more you wear the technology, the more will you become smart”. So it is logically predictable for implanted devices to be the next big bang in technology in the millennium. Microchip implants are available even contemporarily. According to Wikipedia, “human microchip implant is an identifying integrated circuit device or RFID transponder encased in silicate glass and implanted in the body of a human being.” The microchip contains a unique ID number which will be linked to a particular database which may contain personal information, contact information, medical history etc. There are certain hobbyists who have surgically implanted microchips in their hands and use them to access their homes, log on to computers or mobile phones, open secured elevators and doors, print from secured printers and even make payments. Furthermore, an implantable chip known as VeriChip or VeriMed is being used for medical purposes such as storing medical information in case of an emergency. Pacemakers that keep the beat of defective hearts and cochlear implants that ameliorate hearing ability in the differently abled are also presently available.
-At some point in future, GPS-enabled chips could be deployed in the world to detect locations and direction of movement. GPS-enabled chips might lead us to create a considerable number of applications. They will help provide information about what we see and/or where we are. Since all the information about individuals would be stored in databases, only authorized people will get a chance to retrieve data collected through the GPS. It will create great opportunities in finding missing persons; parents might be able to find their missing children, the government, police or other related authorities could use this opportunity to find frauds and detain criminals. 
-Some microchips have been implanted in workers of certain companies allowing the company to keep track of every move the workers make; the authorities have the ability to monitor toilet breaks and working hours of every employee in the company, allows the employees to open doors, use office equipment and appliances such as printers, photocopiers etc. With the advancement of these microchips, it would extend to a wide-ranging payment methodology where workers would be paid according to the number of hours they work, which could be monitored using the microchip, eventually enabling workers to make payments through the implanted microchip itself. Everything will be easier with the furtherance of automatic payments done by microchips. 
-
-Such as microchip implants, neural implants are technological devices that could be placed on the surface of the human brain. Presently, research has found that neural or brain implants could be done to record the activities of the brain. Modern brain implants usually focus on damaged human brains. Those such as deep brain stimulation and Vagus nerve stimulation have already helped mitigate the effects of Parkinson’s disease, clinical depression and epilepsy. Creating interfaces between neural systems and computer chips is yet another application of brain implants. This will create the ability to restore vision, movement and hearing ability of the differently abled. In future, it would be possible to merge human intelligence with software in order to keep pace with the advancements of artificial intelligence; blur the boundaries between human intelligence and digital intelligence and connect them together, making a breakthrough of the capabilities of human beings. The development of these neural implants will help people control particular devices with their brain. This foresees a higher percentage of driverless cars on roads in future. In addition, it will enable disabled people to fully engage with the world, have the ability to control different devices hence, use their teaching and working skills, have endless learning opportunities and use autonomous automobiles. A huge transformation of medicine would probably be done with the development of neural implants. 
-
-It should be mentioned that the smartphone has become an inseparable device which has literally become a part of our own body. Many of the researchers believe that “Phones in our heads” would be the most significant change in the upcoming decade. The Finger Phone is the latest proof that can predict that the concept of “Phones in our heads” would be the world’s next move. It is a wrist band that turns your finger into a phone which uses the vibrations in your body to direct the audio to your ear.  In fact, the first embeddable phone which uses wireless technology is expected to be sold by 2023 according to the proceedings of the world economic forum-2016 held in Davos, Switzerland. It is uncertain if features like text messaging, surfing the internet and swiping through apps would be available in these embeddable phones. Even though their functionality is unforeseeable, they would create great opportunities and challenges for humanity. 
-
-Until now, our online presence has been a projection of ourselves. With wearable techs and implants, real time data from our physical bodies could be augmented to our digital footprint. This will encompass things that could keep track of the human heart rate, glucose levels, blood pressure and other physical figures. Huge amounts of data could be accumulated through these implants, personalized experiences could be collected using wearable techs. Using privacy settings, those experiences and real time data can be manipulated according to the sharing outlook of oneself. This advancement might change the configuration setting of “being online” too. 
-The applications of human implants and wearable devices do sound like science fiction or a fantasy, but, could we neglect all the facts which illustrate the possibilities of imagining where the world is headed to? Unfailingly, this will be the most futuristic ‘eureka’ moment that humankind would ever witness. Once the developments and the legislations are done, the world will be shaken up. Even if this is a few years away, time will change behaviors, cultures, norms and many more things for human kind, starting at least with the most powerful tycoons in the world. 
-"
-    },
+  
     {
       "story": "Saving Private Ryan",
       "year": 1998,
