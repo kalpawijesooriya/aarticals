@@ -447,7 +447,7 @@ The applications of human implants and wearable devices do sound like science fi
 "
     },
      {
-      "story": "-Madhvie Warnakulasuriya-                                                       Level-02",
+      "story": "-Madhavie Warnakulasuriya-                                                       Level-02",
       "year": 1998,
       "rating": 8.6,
       "duration": "169 min",
@@ -461,7 +461,7 @@ The applications of human implants and wearable devices do sound like science fi
           "name": "Matt Damon"
         }
       ],
-      "image": "https://jsonparsingdemo-cec5b.firebaseapp.com/jsonData/images/saving_private_ryan.jpg",
+      "image": "https://raw.githubusercontent.com/kalpawijesooriya/aarticals/master/ExpositionIssue12/madhavie.png",
       "detail": "
 Ecstasy in its dictionary meaning refers to ‘an overwhelming feeling of great happiness or joyful excitement/an emotional or trance-like state, originally one involving an experience of mystic self-transcendence’. 
 
@@ -527,6 +527,102 @@ Why not try to add a bit of sprinkles on your valued asset? I’m ready to earn 
 “We are what we repeatedly do. Excellence then, is not an act but a habit.”
                                                                                       -Aristotle.
 "
-    }   
+    },
+     {
+      "movie": "-Hiranjan de Silva-",
+      "year": 2014,
+      "rating": 8.7,
+      "duration": "169 min",
+      "director": "Christopher Nolan",
+      "tagline": "If you look at Attune, we are a global SAP solution provider. We are exclusively focused on fashion and life style base. We don’t work in any other industry. It’s purely this base that we operate. Our scope of services goes across retail companies, brand owners and manufacturing companies like MAS. We provide services across the entire value chain in the industry.....",
+      "cast": [
+        {
+          "name": "Matthew McConaughey"
+        },
+        {
+          "name": "Anne Hathaway"
+        },
+        {
+          "name": "Jessica Chastain"
+        },
+        {
+          "name": "Wes Bentley"
+        }
+      ],
+      "image": "https://raw.githubusercontent.com/kalpawijesooriya/aarticals/master/ExpositionIssue12/hiran.png",
+      "story": ""
+      },
+       {
+      "movie": "-Hiranjan de Silva-",
+      "year": 2014,
+      "rating": 8.7,
+      "duration": "169 min",
+      "director": "Christopher Nolan",
+      "tagline": "If you look at Attune, we are a global SAP solution provider. We are exclusively focused on fashion and life style base. We don’t work in any other industry. It’s purely this base that we operate. Our scope of services goes across retail companies, brand owners and manufacturing companies like MAS. We provide services across the entire value chain in the industry.....",
+      "cast": [
+        {
+          "name": "Matthew McConaughey"
+        },
+        {
+          "name": "Anne Hathaway"
+        },
+        {
+          "name": "Jessica Chastain"
+        },
+        {
+          "name": "Wes Bentley"
+        }
+      ],
+      "image": "https://raw.githubusercontent.com/kalpawijesooriya/aarticals/master/ExpositionIssue12/hiran.png",
+      "story": ""
+      },
+       {
+      "movie": "-Hiranjan de Silva-",
+      "year": 2014,
+      "rating": 8.7,
+      "duration": "169 min",
+      "director": "Christopher Nolan",
+      "tagline": "If you look at Attune, we are a global SAP solution provider. We are exclusively focused on fashion and life style base. We don’t work in any other industry. It’s purely this base that we operate. Our scope of services goes across retail companies, brand owners and manufacturing companies like MAS. We provide services across the entire value chain in the industry.....",
+      "cast": [
+        {
+          "name": "Matthew McConaughey"
+        },
+        {
+          "name": "Anne Hathaway"
+        },
+        {
+          "name": "Jessica Chastain"
+        },
+        {
+          "name": "Wes Bentley"
+        }
+      ],
+      "image": "https://raw.githubusercontent.com/kalpawijesooriya/aarticals/master/ExpositionIssue12/hiran.png",
+      "story": ""
+      },
+       {
+      "movie": "-Hiranjan de Silva-",
+      "year": 2014,
+      "rating": 8.7,
+      "duration": "169 min",
+      "director": "Christopher Nolan",
+      "tagline": "If you look at Attune, we are a global SAP solution provider. We are exclusively focused on fashion and life style base. We don’t work in any other industry. It’s purely this base that we operate. Our scope of services goes across retail companies, brand owners and manufacturing companies like MAS. We provide services across the entire value chain in the industry.....",
+      "cast": [
+        {
+          "name": "Matthew McConaughey"
+        },
+        {
+          "name": "Anne Hathaway"
+        },
+        {
+          "name": "Jessica Chastain"
+        },
+        {
+          "name": "Wes Bentley"
+        }
+      ],
+      "image": "https://raw.githubusercontent.com/kalpawijesooriya/aarticals/master/ExpositionIssue12/hiran.png",
+      "story": ""
+      }
   ]
 }
