@@ -550,7 +550,7 @@ Why not try to add a bit of sprinkles on your valued asset? I’m ready to earn 
         }
       ],
       "image": "https://raw.githubusercontent.com/kalpawijesooriya/aarticals/master/ExpositionIssue12/hiran.png",
-      "story": ""
+      "story": "hjbjbkj"
       },
        {
       "movie": "-Hiranjan de Silva-",
@@ -574,7 +574,7 @@ Why not try to add a bit of sprinkles on your valued asset? I’m ready to earn 
         }
       ],
       "image": "https://raw.githubusercontent.com/kalpawijesooriya/aarticals/master/ExpositionIssue12/hiran.png",
-      "story": ""
+      "story": ",hblzkjdnl"
       },
        {
       "movie": "-Hiranjan de Silva-",
@@ -598,7 +598,7 @@ Why not try to add a bit of sprinkles on your valued asset? I’m ready to earn 
         }
       ],
       "image": "https://raw.githubusercontent.com/kalpawijesooriya/aarticals/master/ExpositionIssue12/hiran.png",
-      "story": ""
+      "story": "jhbz,kcn,km"
       },
        {
       "movie": "-Hiranjan de Silva-",
@@ -621,8 +621,8 @@ Why not try to add a bit of sprinkles on your valued asset? I’m ready to earn 
           "name": "Wes Bentley"
         }
       ],
-      "image": "https://raw.githubusercontent.com/kalpawijesooriya/aarticals/master/ExpositionIssue12/hiran.png",
-      "story": ""
+      "image": "https://raw.githubusercontent.com/kalpawijesooriya/aarticals/master/ExpositionIssue12/hirahn.png",
+      "story": "iudshij"
       }
   ]
 }
