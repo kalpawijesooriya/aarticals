@@ -436,7 +436,7 @@ You should always be willing to learn, ‘blue sky theory’; that is how some I
  
   
     {
-      "story": "-T.M.Dilshan-",
+      "story": "-Thilakarathne Dilshan-",
       "year": 2000,
       "rating": 8.5,
       "duration": "155 min",
