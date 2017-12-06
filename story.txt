@@ -527,6 +527,57 @@ Why not try to add a bit of sprinkles on your valued asset? I’m ready to earn 
 “We are what we repeatedly do. Excellence then, is not an act but a habit.”
                                                                                       -Aristotle.
 "
+    },
+     {
+      "story": "-Madhushani Dissanayake-                                                       Level-03",
+      "year": 1998,
+      "rating": 8.6,
+      "duration": "169 min",
+      "director": "Steven Spielberg",
+      "tagline": " We once lived in an era where people only expected the products to be functional as it was required. If it worked right, it was all they wanted. Then became another, where people were thrilled by new technological features in products. They were very satisfied by the mere capability of those products to finish the tasks fast....",
+      "cast": [
+        {
+          "name": "Tom Hanks"
+        },
+        {
+          "name": "Matt Damon"
+        }
+      ],
+      "image": "https://raw.githubusercontent.com/kalpawijesooriya/aarticals/master/ExpositionIssue12/madushani.png",
+      "detail": "
+      We once lived in an era where people only expected the products to be functional as it was required. If it worked right, it was all they wanted. Then became another, where people were thrilled by new technological features in products. They were very satisfied by the mere capability of those products to finish the tasks fast, accurately and successfully. With time, this particular technology became rather invisible, since it was the core of the product.
+The coat of the product; design, which was neglected in the past, sooner became a core ingredient. People started expecting good user experience which ended up in demanding sophisticated digital products, rather than being only smart. They wanted the product to be doing what is assigned while offering the pleasure alongside.
+This is where visual design comes to reside within building up User Experience (UX). While the user experience incorporates the whole concept of making the product interactive, visual design makes sure that the product is visually aesthetic and representative. 
+Visual Design is the collection of visual components used in the design of a product, such as colour, space, typography, lines and shapes, contrast and balance. The combination of these should make a product accessible, understandable and pleasing. 
+Once the colours are applied, elements are aligned and wording is done, the design process cannot be considered to be over or perfect. The design is meant to be started with the product design and to be ended with the completion of the project. Visual design must be an ongoing process, because the design will never be complete or perfect with the changing design requirements. 
+
+“First impressions are 94% design-related.”
+-	www.researchgate.net
+
+Peeking into the importance of this – Visual Design – within the boundaries of UX, there are various reasons one would not easily think of. First and foremost, though we admit it or not, the visual elements make the first impression on the product, in user’s mind. Most probably, this might even lead the user to make the decision of continuing or discontinuing the use of a particular product. Would you rather wait for a second chance to make that first impression?
+Studies have found that the majority of the users attend to the visual cues more than the actual content of the digital product. This might lead to a discussion of what actual use there is if the users are more into the coat rather than the body. Yet, the ultimate conclusion would be that if you want to hand your product successfully to your customer, you should never ignore the User Experience which you are offering along with.
+Another important thing comes along with this, is branding. Knowingly or unknowingly, you offer your entire brand with the design elements of the digital product. From colours to typography, to spacing and even to the balance of elements, it represents your brand. That is where one should consider visual design to be prioritized than ever. The days are coming where the users will be first looking at the design rather than checking out the content, because now that the technology has become an essential, users believe that it is already and perfectly out there. It simply means that designers are to present the taste before the users actually taste it.
+
+“People ignore design that ignores people.”
+
+Behind all these, what would be the obvious element? It’s none other than one’s own mind. We, in this world, do everything to be compliant with mindsets, just because it is when the things are most acceptable. Visual design is no difference; people like to see, hear or feel what their minds want to. Psychology plays a major role in designing since visual aesthetics and interpretation heavily depend on perception.
+In the field of Human-Computer Interaction (HCI), visual design holds a prime position as it directly deals with the human psychology. Cognitive models to be associated with design have been introduced. Design guidelines have been made incorporating the cognitive psychological facts. For example, reception of colours and related views vastly depends on the diverse factors of humans such as cultural, demographic and even scientific. To work with these differences, sets of design standards and principles which are related to cognitive factors and primarily based on the perspective, were brought up. When designing for general, the guidelines and the standardization became really important for a better experience. 
+Visual metaphors are another thing which was influenced by the relationship of visual design and psychology. Humans tend to find the familiar things even in an unfamiliar environment. This is because of the brain’s ability to remember and recognise. One good example of relating this into visual design is iconology. Icons are mostly designed as the reflections of real-world objects. They metaphorically refer to the concepts that are familiar to the user. Icon of Recycle Bin reminds the user of the physical dust bin and it implicitly reminds of the functionality as well. 
+
+“Visual Language – Language of Dreams”
+
+This emphasis on psychological aspects of design has been an influence for the emerging of a rather fascinating concept – Design systems – or simply, visual languages. World’s pioneering digital product manufacturers such as Google and Microsoft are now stepping in to the competition of introducing diverse design systems, yet based on the same primary principles.
+A design system consists of certain guidelines for a better user experience, including usage of colours, white space, lighting, typography, depth and balance and many more. Basically, it is a derivation of visual language which is as any other language yet communicates with visual elements. In a well thought-of design system, there are unified set of design rules and patterns that if used, offer a significantly intuitive and friendly user experience.
+When talking about design systems, currently, the most popular and widely-discussed system is Material Design by Google. It was introduced in 2014 with the code name of ‘Quantum Paper’ since its primary concept was ‘Paper-and-Ink’. Material Design relies on light-weighted materialising of the visual elements, synthesizing the classic design principles with innovative technology. It is expected to be a single underlying system that allows for a unified experience across platforms and device sizes.
+While Material Design became one frontier visual language, Microsoft presented a rival – Fluent Design. It was built on Microsoft Design Language 2, incorporating five main design elements as building blocks. Fluent Design is said to be more interacting with mixed reality with sensory experiences, while Material Design focuses on tactile reality inspired by real-world objects, along with sleek and smooth materializing. Yet, according to many critics and reviewers, Material Design has had a head start with its universal, consistent and easily-adaptable design system, while Fluent Design is often criticized as a close resemblance of Material Design, except for its said capacity to work well in 2D and 3D. Other than these two hottest development trends, digital leaders such as Asus are also coming up with their own design systems.
+
+“Where is Visual Design headed?”
+
+The day when people will prefer aesthetically pleasing visual design over anything, is not so distant. Agreed by the designer community all over the world, now people believe that the digital products must contain what is required and therefore the delighting components – the design – should also be there at no additional effort or cost. What customers require is a sophisticated digital product which should be able to please the user with its unique delighting capabilities, demanding higher expectations from UX.
+Now that new technological trends such as 3D motion art, design elements developed for Virtual and Augmented reality have entered the design arena, professionals in design are expected to be competitive than ever. Even the visual artists and 3D motion designers have shifted to UX designing recently, just seeing the huge demand. For example, Perception – a big motion graphics company, has recently moved into designing UI for tech leads such as Samsung, Microsoft and Ford. Users expect irrational UI designs and amazing UX with the products which emphasises the fact that visual design would come forward playing a major role in UX.
+In near future, it will never be enough for a user of digital products, to have the best flow of the activities, accurate functionalities or mere completion of what is required. It will always be the delightful design which was only a decorator earlier but, now comes up as a primary need, that would please the user, tapping the art, aesthetics and the creativity in mind.
+
+"
     }
   ]
 }
