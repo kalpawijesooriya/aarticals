@@ -613,6 +613,50 @@ All above stories say Human Resource Management needs meaningful analytics and m
 Significantly, it depicts Human capital, the most precious asset of an organization which has not gained the deserving position in the balance sheet has an immense potential in creating a better ROI in the long run. The only effort that needs to be put in is to think, and act logically and rationally, use the power of information to make justifiable decisions, not just wage decisions based on intuition. HR professionals should not lag behind, they should be competitive with their peers from marketing, production and other departments. They need to attentively engage in improving the ability of analytical thinking. After that, particular thinking will enlighten the flourishing journey towards a profitable future with a powerful rationale behind. With the active involvement statistics and analytics, the optimum investment of limited resources on strengthening the talent pool will be highly facilitated. Ultimately, the CEO will be easily convinced by the HR department to view and feel the beauty of the glamorous picture which is going to be fabricated for the first time and never have been imagined of by the CEO.
 
 "
+    },
+    {
+      "story": "-Koshila Jayarathne-                                                                Level-04",
+      "year": 2014,
+      "rating": 8.7,
+      "duration": "169 min",
+      "director": "Christopher Nolan",
+      "tagline": "“At present, many companies are continually trying to improve their current products and services and concurrently looking to invent new products, services and processes. Even though Research and Development is a good strategy that can be initiated to fulfill this process, it comes with risks and challenges in hand because it can be costly for the company to carry out internal projects, resulting in missed opportunities for the company. ....",
+      "cast": [
+        {
+          "name": "Matthew McConaughey"
+        },
+        {
+          "name": "Anne Hathaway"
+        },
+        {
+          "name": "Jessica Chastain"
+        },
+        {
+          "name": "Wes Bentley"
+        }
+      ],
+      "image": "https://raw.githubusercontent.com/kalpawijesooriya/aarticals/master/ExpositionIssue12/kohila.png",
+      "detail": " 
+      “Supplier Enabled Innovation (SEI) is the connecting, facilitating, and galvanizing of new approaches and products within the business ecosystem through the formal mobilization of supplier capabilities and resources. Tapping into the enormous capability of the thousands of suppliers with whom we do business is perhaps the single largest opportunity procurement has! ” 
+                                                                                         
+											 -	John Patterson – 
+
+
+At present, many companies are continually trying to improve their current products and services and concurrently looking to invent new products, services and processes. Even though Research and Development is a good strategy that can be initiated to fulfill this process, it comes with risks and challenges in hand because it can be costly for the company to carry out internal projects, resulting in missed opportunities for the company. Then, how can a company reduce its Research and Development costs while accomplishing the objective of innovation? One successful option is to identify external sources of innovation to reduce the costs of internal R&D. As Neil Deverill says, “procurement are integrators”, bringing together internal and external stakeholders to help create value and in this particular instance, drive collaboration and then innovation.
+Innovation has become a key factor for the success of a company. Previously, innovation has been considered as the basic way for a company to maintain a competitive position in its marketplace. However, lately, companies not only focused on internal innovation, but also began to identify and take the advantage of external sources for innovation. In point of fact, the greatest untapped potential for innovation lies within the supply chains. 
+Among the external sources, suppliers can be recognized to possess a special innovation potential that the company can take advantage of. Even though the suppliers hold the mechanism, it is questionable whether the suppliers will actually transfer innovation to the customers. Thus, collaborative supplier innovation comes in place. 
+Collaborative supplier innovation mainly aims at maintaining a good relationship with your suppliers where they feel motivated, and even comfortable, to bring in new ideas to the table. However, commencing with innovation without first enforcing collaboration, can ultimately result in the failure of your supplier innovation aims and objectives. Kevin McFarthing says, “So how should you approach Open Innovation if your company does not have an inherently collaborative company? The answer is – wait. The focus should be on introducing collaborative ways of working first”. Therefore, you should first ensure that the business has developed a culture and a structure which supports supplier collaboration before proceeding with innovation and focus on the win-win from the offset. 
+ Towards Win – Win Situations
+When the suppliers have collaborative relationships with the companies, they are more willing to share their innovative ideas and technologies. If the collaborative supplier innovation is well managed, the company can gain profitable growth through lower costs, improved speed and differentiation.  The company can maximize its opportunities in gaining innovations from the suppliers’ skills, capabilities and knowledge and thereby increasing the company’s competitive advantages in the marketplace while strengthening and improving the suppliers as well. This will build confidence among the two parties in the stability of their working relations and to work collaboratively in an increasingly trusting manner. 
+ 
+Challenges and Best Practices
+Successful SEI is challenging because most of the companies, take this as a cultural shift. Though the supplier/ customer relationships become collaborative, still there may be conflicting objectives which have adverse effects on it, finally resulting in distrust among the two parties. For an instance, while the company and its supplier unselfishly work together to share their innovative ideas and thus improving the mutual trust, the cost-out mindset of everyday sourcing may cause problems, because, if a need arises to reduce cost, both the parties will try to steer the negotiation to their own advantage. As a result, stress will be created and this will finally lead to distrust and the suppliers limiting their transferring of innovations to the customer. Therefore, the company should focus more attention towards many aspects in mitigating the potential issues that can arise. 
+At the initial stage, before proceeding in SEI, the company should make sure that it is regarded as a customer of choice by the supplier. If you are not a key account for the supplier to work with, and if the supplier does not trust you, then your entire approach may collapse at the very beginning. Therefore, make on-time supplier payments, be open with the supplier and maintain prompt communication. Moreover, as mentioned above, supplier collaboration comes before supplier innovation, and for this to take place, stakeholders must be perfectly aligned. This internal stakeholder alignment will make sure that the information flows smoothly between the individuals and the teams in your company. At the same time, there will be greater value generated if the procurement function is involved at the initial stages in idea generation and idea implementation.  This formalized approach will ensure that the key stakeholders have the catalyst that is needed to drive innovation. The most important aspect for Supplier Enabled Innovation and open innovation is supplier connectivity. Procurement has to be perfectly positioned to link the external capable suppliers with the internal stakeholders; through internal stakeholder alignment, this link can be enhanced. Furthermore, technology is always becoming more powerful and thus it is the key enabler for delivering supplier innovation. The businesses which use technologies are able to deliver a real Return On Relationships (ROR). 
+To gain the maximum result from collaborative supplier innovation, the company should first shift the procurement mindset from “cost – out” to “profit – improvement”.  Thus, the traditional roles and responsibilities will be changed into different areas such as hiring and training staff to be more capable of evaluating supplier innovation capabilities, introducing systematic innovation management methods to select suppliers, establish new KPI indicators to measure supplier innovation performance etc. 
+In the automotive industry, for example, supplier willingness to share technology is a major differentiator of successful supplier/ customer collaborations. Thus, Tesla, which has scored high in the areas of Trust, Ease of working, openness etc., is believed to be the innovator and drives technology to the supply base. The organization has gone so far to develop the Tesla Motor Supplier Portal, a platform which allows the company and its suppliers to share information over a secure internet connection, allowing this supplier/ customer relationship to flourish. 
+Therefore, with the current complicated supply chains with integrated globalization, a new approach is needed for you to work seamlessly with your suppliers and unlock previously unrecognized innovations which adds new value to your company. SEI is a modern concept that the procurement function is once again trying to own, and it will be a catalyst which drives innovation and change. Therefore, is it not the time you started looking at your suppliers as a strategic asset rather than a burden??  
+
+"
     }
   ]
 }
