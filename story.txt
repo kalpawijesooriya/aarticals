@@ -724,7 +724,7 @@ V. Pavlovic, R. Sharma and T. Huang, “Visual interpretation of hand gestures f
           "name": "Wes Bentley"
         }
       ],
-      "image": "https://raw.githubusercontent.com/kalpawijesooriya/aarticals/master/ExpositionIssue12/thasika.png",
+      "image": "https://raw.githubusercontent.com/kalpawijesooriya/aarticals/master/ExpositionIssue12/mevuni.png",
       "detail": " 
       A couple of decades back, a job candidate’s destiny was fully laid upon a strong resume of lengthy pages along with a powerful covering letter; boasting about the abilities and accomplishments of the candidate. Times have changed, technology has evolved, and if you think that your LinkedIn and Facebook accounts will not be stalked by your employer before hiring you up, it is high time for you to update your area of concentration.
       
@@ -793,7 +793,7 @@ The online platforms you use have the power to build you up or tear you down in 
           "name": "Wes Bentley"
         }
       ],
-      "image": "https://raw.githubusercontent.com/kalpawijesooriya/aarticals/master/ExpositionIssue12/mevuni.png",
+      "image": "https://raw.githubusercontent.com/kalpawijesooriya/aarticals/master/ExpositionIssue12/thasika.png",
       "detail": " 
       The students of developing nations like ours rarely get the opportunities to explore the dynamics and the challenges in the real-world when reading for industrially oriented engineering or business undergraduate degrees. Furthermore, the academics who teach the aforementioned, face challenges when designing and delivering the curriculum to embed the real-world complexities and systems’ dynamics. The Simulation and Design Competition (SiMDeC) is an attempt to overcome the aforementioned barriers by encapsulating the modelling and simulation techniques learnt in a classroom to a consolidated comprehensive research-based scholarly solution to solve an authentic world quandary.  The outcomes of these mechanisms were promising and from the academic perspective, the summative and formative assessment grades of the students have significantly improved from previous years. 
       The simulation as a modelling approach has been widely applied in diverse settings in leading corporate environments. It candefined as the process of creating a model i.e., an abstract representation of an existing or proposed system in order to identify and understand those factors which control the system and/or to predict the future behavior of the system. The underlying purpose of simulation is to shed light on the underlying 
