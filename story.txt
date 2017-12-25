@@ -724,7 +724,7 @@ V. Pavlovic, R. Sharma and T. Huang, “Visual interpretation of hand gestures f
           "name": "Wes Bentley"
         }
       ],
-      "image": "https://raw.githubusercontent.com/kalpawijesooriya/aarticals/master/ExpositionIssue12/nirmala.png",
+      "image": "https://raw.githubusercontent.com/kalpawijesooriya/aarticals/master/ExpositionIssue12/thasika.png",
       "detail": " 
       A couple of decades back, a job candidate’s destiny was fully laid upon a strong resume of lengthy pages along with a powerful covering letter; boasting about the abilities and accomplishments of the candidate. Times have changed, technology has evolved, and if you think that your LinkedIn and Facebook accounts will not be stalked by your employer before hiring you up, it is high time for you to update your area of concentration.
       
@@ -769,6 +769,64 @@ Cultivate your own digital brand
 
 The online platforms you use have the power to build you up or tear you down in the context of your future employer and the like. While focusing on building up a strong resume you should also pay attention to maintain a powerful online identity to support a strong level of candidacy. What you say and do online would unquestionably portray an image of yourself in a stranger’s mind. As with these online platforms, you are the artist, you paint the picture, you choose the details. So, let us not take on to blindness or carelessness. Be smart. Respect others. Keep your profiles clean. The ball is in your court. Let your Online Persona be a blessing in disguise!
 
+"
+    }
+    ,
+    {
+      "story": "- Thashika Rupasinghe-                                                                     Senior Lecturer Department of Industrial Management",
+      "year": 2014,
+      "rating": 8.7,
+      "duration": "169 min",
+      "director": "Christopher Nolan",
+      "tagline": "  The students of developing nations like ours rarely get the opportunities to explore the dynamics and the challenges in the real-world when reading for industrially oriented engineering or business undergraduate degrees. Furthermore, the academics who teach the aforementioned, face challenges .....",
+      "cast": [
+        {
+          "name": "Matthew McConaughey"
+        },
+        {
+          "name": "Anne Hathaway"
+        },
+        {
+          "name": "Jessica Chastain"
+        },
+        {
+          "name": "Wes Bentley"
+        }
+      ],
+      "image": "https://raw.githubusercontent.com/kalpawijesooriya/aarticals/master/ExpositionIssue12/mevuni.png",
+      "detail": " 
+      The students of developing nations like ours rarely get the opportunities to explore the dynamics and the challenges in the real-world when reading for industrially oriented engineering or business undergraduate degrees. Furthermore, the academics who teach the aforementioned, face challenges when designing and delivering the curriculum to embed the real-world complexities and systems’ dynamics. The Simulation and Design Competition (SiMDeC) is an attempt to overcome the aforementioned barriers by encapsulating the modelling and simulation techniques learnt in a classroom to a consolidated comprehensive research-based scholarly solution to solve an authentic world quandary.  The outcomes of these mechanisms were promising and from the academic perspective, the summative and formative assessment grades of the students have significantly improved from previous years. 
+      The simulation as a modelling approach has been widely applied in diverse settings in leading corporate environments. It candefined as the process of creating a model i.e., an abstract representation of an existing or proposed system in order to identify and understand those factors which control the system and/or to predict the future behavior of the system. The underlying purpose of simulation is to shed light on the underlying 
+      
+“Tell me and I forget. Teach me and I remember. Involve me and I learn.”     
+- Chinese Proverb
+mechanisms that control the behavior of a system. More practically, 
+
+simulation can be used to predict the future behavior of a system, and determine what you can do to influence that future behavior. As you can see, the power of this approach is immense! Unfortunately, due to the use of high-end mathematics, statistics, and the advanced logicalthinking; this approach may not be very popular among the undergraduates. 
+The solution proposed by us was SiMDeC; where the level four undergraduate students of the B.Sc. MIT degree programme who were following the Modelling and Simulation course module got a chance to involve in an educational experiment to widen broader cognitive abilities than merely taking a course. We had chosen the level four undergraduates as, when the students get to their final year they have obtained a holistic knowledge of their specific graduate profiles and are ready to experiment scholarly work.
+The objective of this endeavour was to embed the lessons learntwith respect to modelling and simulation into solving real-world problems ranging from dynamic business problems related to human resource allocation and marketing, operations research, software modelling, and supply chain optimi
+zation.Furthermore, we used integrated learning approach to make this a combined chapter of the dissertation work which they anyway engage in their level four.  The SiMDeC takes student learning to the next level as shown on the two figures of the on-line repositories. On the e-repository of the student work, we present the scholarly articles written by the students as well as short videos of the entire modelling and simulation experience from the students’ standpoint. The students enjoy when they learn when it is an exciting and enjoyable experience. The videos posted on the repository showcased not only their modelling skills but also their desire to experiment aesthetics. SiMDec has opened many new opportunities for both students and faculty members’ research careers. The students who have carried out their first ever modelling and simulation project work went beyond the classroom boundaries and acquired recognition by disseminating the research findings in the international scholarly platforms listed below. 
+
+• International Journal of Simulation and Process Modelling
+
+•  International Journal of Industrial Engineering
+
+•  American Journal of Engineering Research 
+
+• In proceedings of International Conference on Artificial Intelligence (SLAAI ) – Oct 2017, Sri Lanka
+
+• In proceedings of Engineering Research Conference (MERCon) organized by the IEEE, May- 2017, Sri Lanka
+
+•  In proceedings of 3rd World Conference on Supply Chain Management (WCSCM), May- 2017, Sri Lanka
+
+• In proceeding of International Conference on Computational Modelling & Simulation (ICSMS) , University of Colombo, May – 2017, Sri Lanka
+
+•  International Conference on Manufacturing & Industrial Engineering 2016, Organized by the IEEE and Faculty of Engineering, University of Peradeniya, Sri Lanka, October- 2016
+
+As we are celebrating our golden jubilee at the Department of Industrial Management, this is just the beginning of a long-lasting effort to cultivate out-of-the-box student centered learning in state undergraduate education.
+
+ACKNOWLEDGEMENT : The author wishes to extend her gratitude to Prof. Terrence Perera, Sheffield Hallam University of UK, Dr. Ruwan Wickramarachchi and the staff, Ms. Manisha Dandunna and Ms. Nishanthini Simon all the junior staff members, non-academic staff, and alumni of Department of Industrial Management.
+  
 
 "
     }
