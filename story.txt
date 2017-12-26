@@ -126,7 +126,7 @@ In early 2016, we saw the introduction of the first wave of artificial intellige
           "name": "Michael B. Jordan"
         }
       ],
-      "image": "https://raw.githubusercontent.com/kalpawijesooriya/aarticals/master/ExpositionIssue12/aneesha.png",
+      "image": "https://raw.githubusercontent.com/kalpawijesooriya/aarticals/master/ExpositionIssue12/airtaneesha.jpg",
       "detail": "
 What is AI?
       
@@ -182,7 +182,7 @@ Yes, bots could be the future. Bots could bring to you, a future that defies goo
           "name": "Aaron Eckhart"
         }
       ],
-      "image": "https://raw.githubusercontent.com/kalpawijesooriya/aarticals/master/ExpositionIssue12/radika.png",
+      "image": "https://raw.githubusercontent.com/kalpawijesooriya/aarticals/master/ExpositionIssue12/airtradika.JPG",
       "detail": "
 Supply Chain Management (SCM) & Cost Management (CM) are two leading topics on the daily agenda of business practitioners and academic researchers. 
 
@@ -228,7 +228,7 @@ Supply Chain Management System is a systematic approach which benefits all the a
           "name": "Elijah Wood"
         }
       ],
-      "image": "https://raw.githubusercontent.com/kalpawijesooriya/aarticals/master/ExpositionIssue12/rasitha.png",
+      "image": "https://raw.githubusercontent.com/kalpawijesooriya/aarticals/master/ExpositionIssue12/artrathitha.jpg",
       "detail": "
 
 	Think about a situation that you are in a retail shop, and you want to buy a packet of milk powder. On the shelf, there are two milk powder brands called “A” and “B” which have the same product attributes as they have advertised. Which brand would you choose? Suppose you bought “B”. Why you preferred “B” over “A”. That is where marketing comes into play. May be the packaging has your favorite colors, otherwise, you may love the song that they played in their commercial or your favorite actress may appear in the commercial. Some little facts influence our decision making more than we think. However, “B” has invaded your mind with marketing. 
@@ -302,7 +302,7 @@ Mere Exposure Effect
           "name": "Giorgio Cantarini"
         }
       ],
-      "image": "https://raw.githubusercontent.com/kalpawijesooriya/aarticals/master/ExpositionIssue12/thilini.png",
+      "image": "https://raw.githubusercontent.com/kalpawijesooriya/aarticals/master/ExpositionIssue12/thilini.JPG",
       "detail": "
  Does the world need real leaders???
 
@@ -367,7 +367,7 @@ To you, I present the century old debate “Are leaders born or made?” What is
           "name": "Matthew Broderick"
         }
       ],
-      "image": "https://raw.githubusercontent.com/kalpawijesooriya/aarticals/master/ExpositionIssue12/thisula.png",
+      "image": "https://raw.githubusercontent.com/kalpawijesooriya/aarticals/master/ExpositionIssue12/airtthisula.JPG",
       "detail": " 
 Recall playing games and earning digital money online? The MMO gamers surely do. Despite their intrinsic value, the demand for them is typically limited to other gamers. But have you ever imagined a digital currency, demonstrating a global demand as a medium for exchange? It is not future. Cryptocurrencies are already here. 
 Cryptocurrencies presently have become a phenomenon known to many people. While some still find it convoluted and not easily understood, most of the global banks and companies are well conversant with its presence and importance. 
@@ -430,7 +430,7 @@ There is no doubt that cryptocurrency is a fascinating concept which already has
           "name": "Jeff Garlin"
         }
       ],
-      "image": "https://raw.githubusercontent.com/kalpawijesooriya/aarticals/master/ExpositionIssue12/maneesha.png",
+      "image": "https://raw.githubusercontent.com/kalpawijesooriya/aarticals/master/ExpositionIssue12/airtmaneesha.jpg",
       "detail": "
       Gone are the days when we played military games, pretending to hear each other through intercoms; pushing our earlobes with fingertips and delivering all the messages. It is unimaginable how the world has changed into a place where everything is connected, through the years down the road. The world which had computers as big as rooms has now evolved into stage with people who wear personal computers on their bodies. Does it mean that devices could be embedded in the human body in future? Does that ring a bell of childhood intercoms that were previously mentioned? How far would device implanting technology take us? What are the existing facts which prove that implants will take us to a different world? 
       
@@ -724,7 +724,7 @@ V. Pavlovic, R. Sharma and T. Huang, “Visual interpretation of hand gestures f
           "name": "Wes Bentley"
         }
       ],
-      "image": "https://raw.githubusercontent.com/kalpawijesooriya/aarticals/master/ExpositionIssue12/mevuni.png",
+      "image": "https://raw.githubusercontent.com/kalpawijesooriya/aarticals/master/ExpositionIssue12/airtmevuni.JPG",
       "detail": " 
       A couple of decades back, a job candidate’s destiny was fully laid upon a strong resume of lengthy pages along with a powerful covering letter; boasting about the abilities and accomplishments of the candidate. Times have changed, technology has evolved, and if you think that your LinkedIn and Facebook accounts will not be stalked by your employer before hiring you up, it is high time for you to update your area of concentration.
       
