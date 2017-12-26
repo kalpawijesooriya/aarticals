@@ -828,6 +828,461 @@ ACKNOWLEDGEMENT : The author wishes to extend her gratitude to Prof. Terrence Pe
   
 
 "
+    } ,
+    {
+      "story": "-Chathura Ranawaka-                                                                     Level-02",
+      "year": 2014,
+      "rating": 8.7,
+      "duration": "169 min",
+      "director": "Christopher Nolan",
+      "tagline": " L ook around. Technology is all around us. We use it in every aspect of our lives. It enables us to do amazing things. What if we could go further? Wouldn’t it be amazing if you could see more than others see, hear more than others and perhaps even touch and feel more than others do...?",
+      "cast": [
+        {
+          "name": "Matthew McConaughey"
+        },
+        {
+          "name": "Anne Hathaway"
+        },
+        {
+          "name": "Jessica Chastain"
+        },
+        {
+          "name": "Wes Bentley"
+        }
+      ],
+      "image": "https://raw.githubusercontent.com/kalpawijesooriya/aarticals/master/ExpositionIssue12/artchathura.png",
+      "detail": "L ook around. Technology
+is all around us. We
+use it in every aspect
+of our lives. It enables
+us to do amazing things.
+What if we could go further?
+Wouldn’t it be amazing if you
+could see more than others
+see, hear more than others and
+perhaps even touch and feel
+more than others do...? Moreover,
+Would not it be amazing
+if the images on your morning
+newspaper were live and animated:
+like the newspapers in
+the movie Harry Potter for instance.
+How would it be, if you
+could look at your car and see
+the car’s status, such as how
+much fuel it has, oil status, engine
+temperature...?
+Imagine that you are trying to
+cook something in the kitchen and
+being able to get the recipe floating
+in the space around you, mechanics
+being able to see instructions in
+a demonstrated way about what to
+do next when repairing an unknown
+piece of equipment, surgeons being
+able to see ultrasound scans of
+organs while performing surgeries
+on them, fire-fighters being able
+see building layouts to avoid otherwise
+invisible hazards. WOW...! Is it
+possible...? Sure. It is possible.
+Augmented Reality (AR)
+It is certain that Virtual Reality (VR)
+is a well-known term in the world
+today, but what is Augmented Reality
+(AR)...? According to the Wikipedia
+definition, Augmented reality
+is a live, direct or indirect view of a
+physical, real – world environment
+whose elements are augmented by
+computer – generated sensory input
+such as sound, video, graphics
+or GPS data.’
+On the “reality – virtuality continuum”,
+suggested by Milgram and
+Kishino in 1994, AR is one part of
+the general area of mixed reality.
+In contrast to both of VR and AV;
+(Augmented Virtuality) in which real
+objects are added to virtual environments,
+replacing surrounding
+environment by virtual environments,
+AR takes place in the real
+world. In simple terms, it could be
+expressed as a technology, which
+enables you to blend your digital
+world with the real world. AR Technology
+contains both hardware and
+software to track the three-dimensional
+space and movements such
+as pitch, yaw, and roll and detect
+the orientation of real world objects,
+without interacting with it. Blending
+of Computer Generated Imagery
+(CGI) with the real world is done
+through the projection of CGI into
+a screen, which we look through,
+(see through the display) so in the real world, we could see real world
+objects augmented with CGI.
+Evolution
+The technological demands for
+AR are much higher than that for
+VR, reasoning the sluggish improvement
+infield of AR. Throughout the
+20th century, AR developed into an
+advanced technology and took the
+form of its present way of life. From
+the first virtual yellow line marker
+in live National Football League(NFL)
+games to assisting NASA flight
+simulations – augmented reality has
+had a progressive impact on the
+world over the years.
+Who knew augmented reality
+debuted in 1968...?
+“A display connected to a digital
+computer gives us a chance to gain
+familiarity with concepts not realizable
+in the physical world. It is a
+looking glass into a mathematical
+wonderland”
+ – Ivan Sutherland 1968
+ With the invention of world’s first
+head - mounted display (HMD) to
+demonstrate user’s simple wireframe
+drawings in 1968 by an
+American computer scientist, Ivan
+Sutherland, the father of computer
+graphics, the traditional computing
+techniques started to change. In
+1974, Myron Krueger built an ‘artificial
+reality’ laboratory called Videoplace,
+which combined projectors
+with video cameras that emitted
+onscreen silhouettes, surrounding
+the users with an interactive environment.
+The term ‘Augmented
+Reality’ came to the crease in 1990
+based on the research done by
+Tom Caudell and his colleague, David
+Mizell, with an alternative to the
+expensive diagrams and marking
+devices used then, to guide workers
+on the factory floor. In 1992,
+Louis Rosenbeg developed Virtual
+Fixtures – one of the earliest functioning
+AR systems built for the Air
+Force. The full upper body exoskeleton
+allowed the military to control
+virtually guided machinery to perform
+tasks from a remote operating
+space.
+AR comes to Entertainment...
+After 1992, Augmented Reality
+made its way into entertainment
+as technology advanced. In 1994,
+Julie Martin created the first AR
+Theatre production, “Dancing in
+Cyberspace”, featuring acrobats
+who danced within and around virtual
+objects on a physical stage.
+The “1st and Tenline computer system”
+broadcasted by Sportvision
+in 1998, casting the ‘first virtual
+yellow first down marker’ during
+a live NFL game. In 2000, Hirokazu
+Kato created the ARToolKit, an
+open source software library that
+uses video tracking to overlay computer
+graphics on a video camera.
+In 2009, ARToolKitwas introduced
+to web browsers and is still being
+used widely to compliment many
+augmented reality experiences.
+AR reaches the mass market...
+Have you heard of the Volkswagen
+MARTA app...? - Mobile Augmented
+Reality Technical Assistance.
+It was designed to provide
+virtual systematic repair assistance,
+allowing service technicians to foresee
+how a repair process will look
+on the vehicle in front of them. It
+was introduced to the market in
+2013. Taking another step forward,
+Google announced Google Glass in
+2014 as a new trend of wearable
+AR. Unfortunately, it was a miserable
+failure due to aesthetically
+poor design, unavailability of clear
+functions and some health issues
+that it emits carcinogenic radiation
+so close to the head. However, by
+the end of year 2016, world’s investment
+through AR implementations
+has reached$0.7 billion. (Digi
+– Capital web).
+Mobile Augmented Reality
+Simply, you could take mobile
+augmented reality with you, wherever
+you go. It is truly a mobile device.
+It fits in your pocket, and is
+easy to operate wherever you are,
+even if you are walking or otherwise
+engaged.
+Nowadays, a big, high-resolution
+display and a super quality camera
+are fundamentals of smartphones.
+Integration of these two
+things could easily be transferred
+into a see through display. Sensors;
+which detect three dimensional
+space, orientation, and even pitch,
+yaw and roll all come built-in with
+the smartphone. In another term, a
+smartphone is actually a mini - AR
+system.
+Vuforia is a mobile supported AR
+application, which enables you to
+use the mobile camera as a tracker
+and the mobile screen as the see
+through display. Actually, this is an
+extension to the UNITY game engine,
+which acts as a back-end
+game engine in every Vuforia application.
+
+Applications
+Applications for AR are broad,
+and are seen through a wide variety
+of experiences. Among them,
+navigation, sightseeing, military,
+medical, maintenance and repair,
+entertainment, advertising and promotion
+are prominent.
+Sightseeing has been enhanced  using a smartphone equipped with
+a camera; through which tourists
+can walk through historic sites and
+see facts and figures presented
+as an overlay on their live screen.
+These applications seek out data
+from an online database and combine
+them with the live screen of the
+scene, using GPS and image recognition
+technology. In addition to
+information about a historic site, it
+contains the view of that particular
+site before 50 years, 100 years and
+5 centuries and so on.
+In the military field, the
+Head-Mounted Display (HMD) is
+used by ground troops to know
+the targets, which are marked by
+Fighter jets before they approach
+the target. This technology serves
+as a means of tracking Enemy locations
+and their activities inside a war
+area, and as a means to generate
+simulations for training purposes.
+There have been exciting flow in
+the medical applications of augmented
+reality. Medical students
+can practice surgeries more efficiently
+and effectively by using this
+technology in a controlled environment.
+Patients could have visualization
+aids through AR to help understand
+their illnesses. Augmented
+reality could reduce the risks of surgeries
+by giving surgeons improved
+sensory perceptions. This technology
+could be pool with MRI or X-ray
+systems, and bring everything into
+a single view for the surgeon.
+A mechanic making repairs to an
+engine could see superimposed
+imagery and information in their actual
+line of sight using a head-worn
+display. AR could show an image of
+the tool that they should use and it
+can illustrate the exact motion of it,
+when a repair is need to perform.
+Labelling of the parts could be also
+done via AR. Intricate procedural
+repairs could be broken down into
+a series of simple steps. Reducing
+training expenses significantly, AR
+enables training of technicians.
+The James Cameron movie, Avatar,
+had a stunning promotion
+and advertising campaign brought
+augmented reality like never before.
+Avatar toys manufactured by Mattel
+included a card that could be read
+by a webcam and then a robot or a
+character will come to life on your
+computer screen. Among the uses
+of AR in the publications category,
+AR enabled magazines and newspapers
+bring us a dreamlike point.
+You just point your smartphone or
+the tab towards the magazine’s
+image, the image becomes live
+through your device. The technology
+behind this is the camera tracks
+the image and plays a video on the
+screen by making a layer which coincides
+with the image position on
+the screen, making the image look
+like it is animating itself. It could
+contain any information, or if it is a
+product, you could even purchase
+online.
+Imagine a shooting game with
+zombies walking in your bedroom..!
+Gaming applications in augmented
+reality are on the upsurge with recent
+improvements in computing
+power and technology. Just compare
+the prices and sizes of computers
+before a decade earlier with
+recent times and with their capabilities.
+Now, computing power is inexpensive
+and more portable than
+ever. As well as head-worn systems.
+Ogmento, an augmented reality
+game developer, recently received
+$3.5 million of institutional funding
+to develop gaming applications for
+the iPhone and Android devices.
+Ogmento is betting on continued adoption of this niche of technology
+and acceptance by the gaming
+community. The leading usage of
+Augmented Reality gaming recently
+is Pokémon Go, which allows users
+to catch virtual Pokémon who are
+hidden throughout a map of the real
+world.
+Next to Rock the Stage...
+Mixed Reality – The Next Big
+Paradigm Shift
+Mixed Reality (also known as Hybrid
+Reality) is a more advanced
+technology than AR, which enables
+live interactions between real world
+and virtual world where physical,
+and digital objects co – exist in real
+time. Collaborating the technologies
+used in AR and VR, mixed
+reality would provide the user with
+the capability to overlay augmented
+holographic digital content into
+your real-time space and enable
+interactions via gestures, creating
+scenarios that are extraordinarily
+realistic and mind-blowing.
+Unlike in AR, MR create a three
+dimensional map of your surroundings
+by scanning your physical environment,
+so the devices would
+know exactly where and how to
+place digital content in to the space
+– realistically. The use of transparent
+lenses, spatial sound and an
+understanding of your physical environment
+would allow holograms
+to look, sound and behave like real
+objects that are able to interact with
+the environment around them and
+also with each other.
+HoloLens - How Microsoft Is
+Sowing the Seeds of Mixed Reality
+Future
+Being the absolute best MR device
+in the market place to date,
+Microsoft’s Hololens has already
+set the stage. It is basically a holographic
+computer built into a headset
+that may let you see, hear, and
+interact with holograms within an
+environment such as a living room
+or an office space, which could be
+wirelessly connected to a PC, and
+composed of high-definition lenses
+and spatial sound technology to
+create that immersive, interactive
+holographic experience.
+“In less than ten years,
+people will routinely interact
+with digital graphics and holograms
+beamed onto the
+real world.”
+ - Lorraine Bardeen
+On 26th of May 2017 at the AWE
+conference for Augmented Reality
+in Santa Clara, Microsoft’s general
+manager of Windows and HoloLens
+experiences, Lorraine Bardeen,
+described why Microsoft sees the
+budding technology becoming the
+next way people use computers
+beyond mobile touchscreens or
+the standard keyboard and mouse.
+They refer to Augmented Reality as
+Mixed Reality after the popularity
+of latest blockbuster mobile game
+Pokémon Go. Microsoft is trying
+popularizing HoloLens through the
+windows paint app, enabling people
+to create 3D graphics.
+Nevertheless, Microsoft’s HoloLens
+is not available to the public
+right now; it is only available for developers
+or businesses for $3,000
+and $5,000. Although Bardeen did
+not say when Microsoft plans to sell
+the HoloLens to the public, she said
+new AR headsets released later
+this year via partnerships with other
+manufacturers would be “an entry
+point into this future of computing.”
+What about Apple?
+Apple is always a game
+changer. Since introducing Apple
+iPod in 2001, they always maintain
+an accent of making trends.
+This year it is the 10th Anniversary
+for Apple iPhone series, and design
+is due for big changes, even
+the name. CEO of Apple Inco Tim
+Cookbravely made his opinion
+known to the world that “AR will be
+much bigger than VR.” Rumours
+indicate that the launch of the iPhone
+8 planned tobe announced
+in October of 2017, most probably
+would be a Mixed Reality device.
+Reflect...
+The industry is rocket fast; the
+yellow 1st down line is a standard
+in football nowadays. Imagine a
+world with virtual spaces that people
+could enter, perform, engage
+and make money. Would not it be a
+solution for exceeding Earth capacity
+due to over population? While
+remaining miles and miles apart,
+Holoportation would allow device
+users in different cities or countries
+to sit and interact with each other in
+the same space, virtually. One thing
+is certain; we are scratching just the
+surface of these exciting technologies
+and that future is not too far.
+“When you change the way you
+see the world ; you can change the
+world you see” 
+
+"
     }
   ]
 }
